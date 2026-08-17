@@ -1,0 +1,11 @@
+{greeting}
+
+{opening}I’m Muhammad Muddasir, a software engineer at Codet.ai. I shipped the product UI — a no-code builder (drag-and-drop canvas, trigger → condition → action) and an in-app AI assistant — in Next.js, React, and TypeScript.
+
+I also built AutoCloudEngineerAgent: an AI control plane that proposes infra configs, deploys them only to a Kubernetes canary, benchmarks them, then rejects, rolls back, or recommends promotion.
+
+{ask} Resume attached — more at muddasirrizwan.com. Based in Karachi, Pakistan, open to remote.
+
+Thanks,
+Muhammad Muddasir
++92-3249867842 · muddasirrizwan9@gmail.com

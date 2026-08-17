@@ -1,0 +1,15 @@
+.env
+.venv/
+outreach/sent_log.csv
+outreach/mailbox_cache.csv
+outreach/bounces.csv
+outreach/credentials.json
+outreach/token.json
+outreach/.send.lock
+__pycache__/
+*.pyc
+output/*.xlsx
+output/*.csv
+output/*.json
+!output/.gitkeep
+.cache/
