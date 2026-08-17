@@ -540,6 +540,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Dangerous: skip SMTP mailbox probe (can bounce and hurt spam score).",
     )
+    parser.add_argument(
+        "--no-agent",
+        action="store_true",
+        help="Do not call the Cursor agent; use the 3 generic letter templates.",
+    )
     return parser.parse_args()
 
 
@@ -750,13 +755,33 @@ def main() -> int:
                 location_clause=location_clause,
                 letter_name=letter_path.name,
             )
+            used_letter = letter_path.name
+            if role and not args.no_agent:
+                try:
+                    if str(ROOT) not in sys.path:
+                        sys.path.insert(0, str(ROOT))
+                    from job_hunter.agent_letter import agent_enabled, write_cover_letter
+
+                    if agent_enabled():
+                        print(f"    Cursor agent writing letter for {role} @ {company}…")
+                        body = write_cover_letter(
+                            company=company,
+                            role=role,
+                            location=(row.get("City") or row.get("Region") or "").strip(),
+                            summary=(row.get("Job Summary") or row.get("Summary") or "").strip(),
+                            skills=(row.get("Matched Skills") or "").strip(),
+                            apply_url=(row.get("Careers / Apply URL") or "").strip(),
+                        )
+                        used_letter = "cursor-agent"
+                except Exception as exc:  # noqa: BLE001
+                    print(f"    agent letter fallback to {letter_path.name}: {exc}")
             try:
                 deliver(email, company, body, role=role)
-                log_sent(email, company, "sent", letter=letter_path.name)
-                print(f"[{i}/{len(queue)}] sent  {email}  [{letter_path.name}]")
+                log_sent(email, company, "sent", letter=used_letter)
+                print(f"[{i}/{len(queue)}] sent  {email}  [{used_letter}]")
             except Exception as exc:  # noqa: BLE001
-                log_sent(email, company, "failed", str(exc), letter=letter_path.name)
-                print(f"[{i}/{len(queue)}] FAIL  {email}  [{letter_path.name}]  {exc}")
+                log_sent(email, company, "failed", str(exc), letter=used_letter)
+                print(f"[{i}/{len(queue)}] FAIL  {email}  [{used_letter}]  {exc}")
                 if looks_like_ban(exc):
                     print("Stopping: Gmail rate-limit / auth warning. Try again tomorrow.")
                     break

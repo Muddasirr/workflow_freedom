@@ -100,7 +100,15 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--limit", type=int, default=12, help="With --apply --send: max emails this run.")
     parser.add_argument("--delay", type=float, default=90.0, help="With --apply --send: seconds between emails.")
     parser.add_argument("--daily-cap", type=int, default=80, help="With --apply --send: max sends per UTC day.")
+    parser.add_argument(
+        "--no-agent",
+        action="store_true",
+        help="Skip Cursor agent letters; use the 3 generic templates.",
+    )
     return parser.parse_args()
+
+
+def dedupe(jobs: list[Job]) -> list[Job]:
     best: dict[str, Job] = {}
     for job in jobs:
         key = job.dedupe_key
@@ -160,6 +168,7 @@ def main() -> int:
             junior_strict=args.junior_strict,
             karachi_only=args.karachi_only,
             pakistan_friendly_only=args.pakistan_friendly_only,
+            no_agent=args.no_agent,
         )
 
     print("Fetching job boards…", flush=True)

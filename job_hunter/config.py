@@ -16,6 +16,7 @@ USER_AGENT = (
 )
 
 HUNTER_API_KEY = os.getenv("HUNTER_API_KEY", "").strip()
+CURSOR_API_KEY = os.getenv("CURSOR_API_KEY", "").strip()
 
 # Title must look like an engineering role, then skills decide relevance.
 RELEVANT_TITLE_HINTS = (

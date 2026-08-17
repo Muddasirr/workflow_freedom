@@ -41,6 +41,7 @@ APPLY_FIELDS = [
     "Seniority",
     "Experience Fit",
     "Matched Skills",
+    "Job Summary",
     "SMTP Verification",
 ]
 
@@ -185,6 +186,7 @@ def jobs_to_apply_rows(jobs: list[Job], *, verify: bool = True, max_verify: int 
                 "Seniority": job.seniority,
                 "Experience Fit": job.experience_fit,
                 "Matched Skills": ", ".join(job.matched_skills),
+                "Job Summary": job.excerpt or "",
                 "SMTP Verification": (detail or "")[:400],
             }
         )
@@ -246,6 +248,7 @@ def generic_directory_rows(
                 "Seniority": "",
                 "Experience Fit": "",
                 "Matched Skills": "",
+                "Job Summary": "",
                 "SMTP Verification": (detail or "")[:400],
             }
         )
@@ -272,6 +275,7 @@ def run_apply(
     karachi_only: bool = False,
     pakistan_friendly_only: bool = False,
     skip_verify: bool = False,
+    no_agent: bool = False,
 ) -> int:
     jobs = collect_jobs(
         junior_only=True,
@@ -324,6 +328,8 @@ def run_apply(
     ]
     if send:
         argv.append("--send")
+    if no_agent:
+        argv.append("--no-agent")
     old = sys.argv
     try:
         sys.argv = argv
