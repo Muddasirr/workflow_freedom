@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from urllib.parse import urlparse
@@ -19,6 +20,39 @@ from job_hunter.models import Job
 from job_hunter.textutil import domain_from_url, extract_emails, html_to_text
 
 
+WELL_KNOWN_COMPANY_DOMAINS = {
+    "canonical": "canonical.com",
+    "canonical ltd.": "canonical.com",
+    "canonical ltd": "canonical.com",
+    "vercel": "vercel.com",
+    "toptal": "toptal.com",
+    "gitlab": "gitlab.com",
+    "binance": "binance.com",
+    "twilio": "twilio.com",
+    "stripe": "stripe.com",
+    "tamara": "tamara.co",
+    "celonis": "celonis.com",
+    "turing": "turing.com",
+    "careem": "careem.com",
+    "sticker mule": "stickermule.com",
+    "doximity": "doximity.com",
+    "hightouch": "hightouch.com",
+    "maptiler": "maptiler.com",
+    "onthegosystems": "onthegosystems.com",
+    "on the go systems": "onthegosystems.com",
+    "saas.group": "saas.group",
+    "dbt labs": "getdbt.com",
+    "linear": "linear.app",
+    "lovable": "lovable.dev",
+    "trigger.dev": "trigger.dev",
+    "codecov": "codecov.io",
+    "outsystems": "outsystems.com",
+    "tractable": "tractable.ai",
+    "mustakbil tech": "mustakbil.com",
+    "mustakbil": "mustakbil.com",
+}
+
+
 def pick_hr_email(emails: list[str]) -> str:
     if not emails:
         return ""
@@ -28,9 +62,23 @@ def pick_hr_email(emails: list[str]) -> str:
         score = 0
         if any(j in local for j in ("accommodation", "accomodation", "paytransparency", "noreply")):
             score -= 50
+        if local in {
+            "pr",
+            "press",
+            "media",
+            "help",
+            "support",
+            "sales",
+            "bd",
+            "billing",
+            "security",
+            "partners",
+            "legal",
+        }:
+            score -= 80
         if local in GENERIC_HR_LOCAL_PARTS:
             score += 20
-        if any(token in local for token in ("hr", "recruit", "talent", "career", "hiring", "people")):
+        if any(token in local for token in ("hr", "recruit", "talent", "career", "hiring", "people", "job")):
             score += 12
         if local in {"hello", "contact", "info", "admin"}:
             score += 4
@@ -40,15 +88,38 @@ def pick_hr_email(emails: list[str]) -> str:
 
 
 def resolve_company_domain(job: Job) -> str:
-    if job.company_domain:
-        return job.company_domain
-    name = (job.company or "").strip().lower()
+    existing = (job.company_domain or "").strip().lower()
+    if existing and not _is_ats_domain(existing):
+        return existing
+    name = re.sub(r"[\s,]+ltd\.?$", "", (job.company or "").strip(), flags=re.I).strip().lower()
+    name = re.sub(r"\s+", " ", name)
     if name in PK_COMPANY_DOMAINS:
         return PK_COMPANY_DOMAINS[name]
     for key, domain in PK_COMPANY_DOMAINS.items():
         if key in name or name in key:
             return domain
-    return domain_from_url(job.url)
+    if name in WELL_KNOWN_COMPANY_DOMAINS:
+        return WELL_KNOWN_COMPANY_DOMAINS[name]
+    try:
+        from job_hunter.directory import COMPANY_DIRECTORY
+
+        for listed, domain, *_rest in COMPANY_DIRECTORY:
+            listed_n = listed.strip().lower()
+            if listed_n == name or listed_n == (job.company or "").strip().lower():
+                return domain
+    except Exception:
+        pass
+    url = job.url or ""
+    slug = ""
+    m = re.search(r"greenhouse\.io/([a-z0-9\-]+)", url, re.I)
+    if m:
+        slug = m.group(1).lower()
+    m = re.search(r"jobs\.lever\.co/([a-z0-9\-]+)", url, re.I)
+    if m:
+        slug = m.group(1).lower()
+    if slug and slug in WELL_KNOWN_COMPANY_DOMAINS:
+        return WELL_KNOWN_COMPANY_DOMAINS[slug]
+    return domain_from_url(url)
 
 
 def attach_known_emails(job: Job) -> None:

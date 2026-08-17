@@ -77,6 +77,27 @@ def _append_row(path: Path, headers: list[str], row: list[str]) -> None:
         writer.writerow(row)
 
 
+UNSENDABLE_HINTS = (
+    "probe-blocked",
+    "catch-all",
+    "known bounce",
+    "untrusted accept",
+    "accept-then-unknown",
+    "cache invalid",
+    "cache reject",
+    "cache bounce",
+    "cache no-mx",
+    "no mx",
+    "malformed",
+)
+
+
+def smtp_detail_is_unverified(detail: str) -> bool:
+    """True if a probe/CSV note means we must not send."""
+    text = (detail or "").lower()
+    return any(h in text for h in UNSENDABLE_HINTS)
+
+
 def bounced_emails() -> set[str]:
     return {e for e, status in _load_csv_map(BOUNCE_LOG).items() if status in {"bounce", "invalid", "reject"}}
 

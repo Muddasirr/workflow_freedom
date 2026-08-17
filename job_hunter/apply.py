@@ -6,6 +6,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
+from job_hunter.careers import scrape_directory_careers
 from job_hunter.config import OUTPUT_DIR, ROOT
 from job_hunter.emails import (
     HunterClient,
@@ -131,33 +132,42 @@ def collect_jobs(
         hunter.close()
 
 
-def jobs_to_apply_rows(jobs: list[Job], *, verify: bool = True, max_verify: int = 40) -> list[dict[str, str]]:
+def jobs_to_apply_rows(
+    jobs: list[Job],
+    *,
+    verify: bool = True,
+    max_verify: int = 40,
+    skip_emails: set[str] | None = None,
+    skip_companies: set[str] | None = None,
+) -> list[dict[str, str]]:
     bounced = bounced_emails()
+    skip_emails = skip_emails or set()
+    skip_companies = skip_companies or set()
     rows: list[dict[str, str]] = []
     seen: set[str] = set()
     candidates = [j for j in jobs if (j.hr_email or "").strip() and "guess" not in (j.email_source or "").lower()]
+    candidates = [
+        j
+        for j in candidates
+        if (j.hr_email or "").strip().lower() not in skip_emails
+        and (j.company or "").strip().lower() not in skip_companies
+    ]
     candidates = candidates[: max(max_verify, 1)]
     print(f"Checking {len(candidates)} published hiring emails…", flush=True)
     for job in candidates:
         email = (job.hr_email or "").strip().lower()
-        if not email or "@" not in email or email in seen or email in bounced:
+        if not email or "@" not in email or email in seen or email in bounced or email in skip_emails:
+            continue
+        if (job.company or "").strip().lower() in skip_companies:
             continue
         if "guess" in (job.email_source or "").lower():
             continue
         detail = "skipped probe"
         if verify:
             ok, detail = verify_mailbox(email)
-            text = (detail or "").lower()
-            published = any(
-                k in (job.email_source or "").lower()
-                for k in ("job posting", "company website", "hunter", "known")
-            )
-            probe_blocked = any(h in text for h in ("probe-blocked", "5.7.1", "spamhaus", "timed out", "timeout"))
-            if not ok and not (published and probe_blocked):
+            if not ok:
                 print(f"  SKIP {email}  ({job.company})  {detail[:90]}", flush=True)
                 continue
-            if not ok:
-                print(f"  KEEP published Outlook-blocked  {email}  ({job.company})", flush=True)
         seen.add(email)
         region, city = _region_for(job)
         title = (job.title or "").strip()
@@ -223,13 +233,9 @@ def generic_directory_rows(
         detail = "skipped probe"
         if verify:
             ok, detail = verify_mailbox(email)
-            text = (detail or "").lower()
-            probe_blocked = any(h in text for h in ("probe-blocked", "5.7.1", "spamhaus", "timed out", "timeout"))
-            if not ok and not probe_blocked:
+            if not ok:
                 print(f"  SKIP generic {email}  ({name})  {detail[:90]}", flush=True)
                 continue
-            if not ok:
-                print(f"  KEEP published Outlook-blocked  {email}  ({name})", flush=True)
         already_emails.add(email)
         already_companies.add(name.strip().lower())
         rows.append(
@@ -277,12 +283,32 @@ def run_apply(
     skip_verify: bool = False,
     no_agent: bool = False,
 ) -> int:
+    from send_emails import already_sent
+
+    sent_emails, sent_companies = already_sent()
+    sent_domains = {e.split("@", 1)[1] for e in sent_emails if "@" in e}
+    career_jobs = scrape_directory_careers(
+        skip_companies=sent_companies,
+        skip_domains=sent_domains,
+        limit=max(limit * 4, 40),
+    )
     jobs = collect_jobs(
         junior_only=True,
         junior_strict=junior_strict,
         karachi_only=karachi_only,
         pakistan_friendly_only=pakistan_friendly_only,
     )
+    if career_jobs:
+        jobs = list(jobs) + career_jobs
+        best: dict[str, Job] = {}
+        for job in jobs:
+            key = job.dedupe_key
+            existing = best.get(key)
+            if existing is None or job.score > existing.score:
+                best[key] = job
+        jobs = sorted(best.values(), key=lambda j: (-j.score, j.company.lower()))
+        print(f"  Combined board + career-page roles: {len(jobs)}", flush=True)
+
     stamp = date.today().isoformat()
     jobs_xlsx = OUTPUT_DIR / f"jobs_junior_{stamp}.xlsx"
     jobs_csv = OUTPUT_DIR / f"jobs_junior_{stamp}.csv"
@@ -290,9 +316,15 @@ def run_apply(
     write_csv(jobs, jobs_csv)
 
     print("SMTP-checking published hiring emails (no guessed careers@)…", flush=True)
-    rows = jobs_to_apply_rows(jobs, verify=not skip_verify, max_verify=max(limit * 3, 24))
-    seen_emails = {(r.get("HR / Recruiter Email") or "").strip().lower() for r in rows}
-    seen_cos = {(r.get("Company") or "").strip().lower() for r in rows}
+    rows = jobs_to_apply_rows(
+        jobs,
+        verify=not skip_verify,
+        max_verify=max(limit * 3, 24),
+        skip_emails=sent_emails,
+        skip_companies=sent_companies,
+    )
+    seen_emails = {(r.get("HR / Recruiter Email") or "").strip().lower() for r in rows} | sent_emails
+    seen_cos = {(r.get("Company") or "").strip().lower() for r in rows} | sent_companies
     rows.extend(
         generic_directory_rows(
             already_emails=seen_emails,
@@ -301,6 +333,7 @@ def run_apply(
             limit=max(limit, 12),
         )
     )
+    rows.sort(key=lambda r: (0 if (r.get("Sample Role") or "").strip() else 1, r.get("Company") or ""))
     apply_csv = OUTPUT_DIR / f"emails_apply_{stamp}.csv"
     write_apply_csv(rows, apply_csv)
     print()

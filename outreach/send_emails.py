@@ -31,7 +31,7 @@ if str(OUTREACH_DIR) not in sys.path:
     sys.path.insert(0, str(OUTREACH_DIR))
 load_dotenv(ROOT / ".env")
 
-from smtp_verify import bounced_emails, mark_bounce, verify_mailbox  # noqa: E402
+from smtp_verify import bounced_emails, mark_bounce, smtp_detail_is_unverified, verify_mailbox  # noqa: E402
 
 DEFAULT_CSV = ROOT / "output" / "emails_2026-08-11.csv"
 DEFAULT_LETTER = ROOT / "emailll.txt"
@@ -98,9 +98,11 @@ SKIP_LOCAL = (
     "customercare",
     "pharmacy",
     "support",
+    "help",
     "sales",
     "inquiry",
     "enquiry",
+    "bd",
 )
 BLOCKED_COMPANIES = {
     "codet",
@@ -204,10 +206,16 @@ def load_recipients(path: Path, *, skip_guessed: bool) -> list[dict[str, str]]:
             # the mailbox exists and the domain is not a catch-all.
             src = (row.get("Email Source") or "").strip().lower()
             region = (row.get("Region") or "").strip()
-            soft = local in {"contact", "jobs", "job", "hello", "hi"} and (
+            soft = local in {"contact", "jobs", "job", "hello", "hi", "info"} and (
                 region in {"Karachi", "Pakistan"} or src.startswith("known") or "hunter" in src
             )
-            trusted = src.startswith("known") or "hunter" in src
+            trusted = (
+                src.startswith("known")
+                or "hunter" in src
+                or "company website" in src
+                or "company site" in src
+                or "company contact" in src
+            )
             # Weak aliases OK only if already proven strict-valid (shortlist / cache).
             try:
                 from smtp_verify import CACHE as _MAIL_CACHE
@@ -529,8 +537,8 @@ def parse_args() -> argparse.Namespace:
         "--skip-guessed",
         dest="skip_guessed",
         action="store_true",
-        default=False,
-        help="Skip guessed careers@ (default off — strict SMTP still required).",
+        default=True,
+        help="Skip guessed careers@ (default on).",
     )
     parser.add_argument("--to", default="", help="Send a single test email to this address.")
     parser.add_argument("--send", action="store_true", help="Actually send. Without this, dry-run only.")
@@ -596,65 +604,18 @@ def main() -> int:
         email = (row.get("HR / Recruiter Email") or "").strip().lower()
         company = (row.get("Company") or "").strip()
         company_key = company.lower()
-        src = (row.get("Email Source") or "").strip().lower()
         if not args.to and email in sent_emails:
             continue
         if not args.to and company_key in sent_companies and company_key not in retryable_companies:
             continue
         if not args.to and not args.no_smtp_check:
+            prior = (row.get("SMTP Verification") or "").strip()
+            if smtp_detail_is_unverified(prior):
+                skipped_dead += 1
+                print(f"  SKIP unverified      {email}  ({company})  csv:{prior[:80]}")
+                continue
             ok, detail = verify_mailbox(email)
             text = detail.lower()
-            published = any(
-                k in src
-                for k in (
-                    "linkedin",
-                    "hiring",
-                    "apply-to",
-                    "named hr",
-                    "company contact",
-                    "company website",
-                    "company site",
-                    "company page",
-                    "public listing",
-                )
-            )
-            probe_blocked = any(
-                h in text
-                for h in (
-                    "probe-blocked",
-                    "5.7.1",
-                    "policy",
-                    "spamhaus",
-                    "cache probe-blocked",
-                    "timed out",
-                    "timeout",
-                    "temporarily",
-                )
-            )
-            if not ok and published and probe_blocked and "guess" not in src:
-                print(f"  KEEP published Outlook-blocked  {email}  ({company})")
-                ok = True
-            # Named hiring-post addresses cached as reject after a probe timeout
-            # are not proof the mailbox is dead (Outlook/Spamhaus often times out).
-            named_local = "." in email.split("@", 1)[0]
-            hiring_alias = email.split("@", 1)[0] in {
-                "hr",
-                "hello",
-                "info",
-                "talent",
-                "career",
-                "recruitment",
-                "contact",
-            } or email.split("@", 1)[0].startswith("hr.")
-            if (
-                not ok
-                and published
-                and "guess" not in src
-                and "cache reject" in text
-                and (named_local or hiring_alias)
-            ):
-                print(f"  KEEP published cached-timeout  {email}  ({company})")
-                ok = True
             if not ok:
                 skipped_dead += 1
                 if any(

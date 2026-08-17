@@ -1,0 +1,9 @@
+Hi Acme Labs team, I'm applying for the Junior Software Engineer role because React, TypeScript, and Python are central to the work I do today, and the 0-2 year level fits my background.
+
+At Codet.ai I ship product UI in Next.js, React, and TypeScript: a no-code builder with drag-and-drop canvas and trigger-condition-action flows, plus an in-app AI assistant. I also build workflow automation and LLM features on an n8n-style canvas, including an assistant that helps users compose and debug flows.
+
+On the Python side I built AutoCloudEngineerAgent on LangGraph, an LLM control plane that proposes infra configs, deploys to a Kubernetes canary, benchmarks results, and rolls back when checks fail. Earlier at Euronet I worked on Java payment APIs (ISO 8583, JWT, PostgreSQL) and Go backend services. I'm based in Karachi and open to remote work.
+
+Thanks,
+Muhammad Muddasir
++92-3249867842 · muddasirrizwan9@gmail.com
