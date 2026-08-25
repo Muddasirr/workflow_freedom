@@ -1,6 +1,17 @@
 .page-title.centred {
     display: none !important;
   }
+
+  /* Long "Areas We Serve" (and other) nav lists: compact + scrollable */
+  .main-header .navigation .sub-menu,
+  .main-header .main-menu .sub-menu,
+  .main-menu ul.sub-menu,
+  .navbar-nav .sub-menu,
+  .elementor-nav-menu--dropdown {
+    max-height: min(280px, 55vh) !important;
+    overflow-y: auto !important;
+  }
+
   /* Alpha Cafe — single product (white bg, pink button, tighter spacing) */
   
   /* Keep section white */
@@ -401,6 +412,14 @@
   body.woocommerce-checkout .wc-block-components-text-input label,
   body.woocommerce-checkout .wc-blocks-components-select__label {
     color: #432D35 !important;
+  }
+
+  /* State/country select: keep option list short + scrollable */
+  body.woocommerce-checkout .nice-select .list,
+  body.woocommerce-checkout .select2-results__options,
+  body.woocommerce-checkout .select2-dropdown .select2-results > .select2-results__options {
+    max-height: 220px !important;
+    overflow-y: auto !important;
   }
   
   /* Radios / checkboxes */
