@@ -1,17 +1,6 @@
 .page-title.centred {
     display: none !important;
   }
-
-  /* Long "Areas We Serve" (and other) nav lists: compact + scrollable */
-  .main-header .navigation .sub-menu,
-  .main-header .main-menu .sub-menu,
-  .main-menu ul.sub-menu,
-  .navbar-nav .sub-menu,
-  .elementor-nav-menu--dropdown {
-    max-height: min(280px, 55vh) !important;
-    overflow-y: auto !important;
-  }
-
   /* Alpha Cafe — single product (white bg, pink button, tighter spacing) */
   
   /* Keep section white */
