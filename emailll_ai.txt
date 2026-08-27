@@ -1,11 +1,10 @@
 {greeting}
 
-{opening}I’m Muhammad Muddasir, a software engineer at Codet.ai. I build workflow automation and LLM features: a no-code trigger → condition → action canvas (n8n-style), plus an in-app AI assistant that helps users compose and debug flows.
+{opening}I build workflow automation and LLM features at Codet.ai: a no-code trigger → condition → action canvas, plus an in-app assistant for composing and debugging flows.
 
-I also shipped AutoCloudEngineerAgent on LangGraph: an LLM-backed control plane that proposes infra configs, deploys only to a Kubernetes canary, runs benches, then rejects, rolls back, or recommends promotion. A Gaussian-process optimizer sits next to a BO-ICL LLM surrogate that cannot override hard safety constraints.
+Strongest proof: AutoCloudEngineerAgent on LangGraph — canary-only deploys, benches, then reject / rollback / promote. GP optimizer beside a BO-ICL surrogate that cannot break safety rules.
 
-{ask} Resume attached — more at muddasirrizwan.com. Based in Karachi, Pakistan, open to remote.
+{ask}
 
-Thanks,
 Muhammad Muddasir
-+92-3249867842 · muddasirrizwan9@gmail.com
++92-3249867842 · muddasirrizwan9@gmail.com · muddasirrizwan.com

@@ -101,9 +101,14 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--delay", type=float, default=90.0, help="With --apply --send: seconds between emails.")
     parser.add_argument("--daily-cap", type=int, default=80, help="With --apply --send: max sends per UTC day.")
     parser.add_argument(
+        "--graph",
+        action="store_true",
+        help="Run the LangGraph apply agent (job → email → SMTP → letter). Add --send to mail.",
+    )
+    parser.add_argument(
         "--no-agent",
         action="store_true",
-        help="Skip Cursor agent letters; use the 3 generic templates.",
+        help="Skip Cursor agent letters; use the 4 generic templates.",
     )
     return parser.parse_args()
 
@@ -155,6 +160,18 @@ def main() -> int:
         write_emails_csv(contacts, csv_path)
         print()
         _print_email_stats(contacts, csv_path)
+        return 0
+
+    if args.graph:
+        from job_hunter.graph import run_apply_graph
+
+        run_apply_graph(
+            send=args.send,
+            limit=args.limit,
+            delay=args.delay,
+            daily_cap=args.daily_cap,
+            no_agent=args.no_agent,
+        )
         return 0
 
     if args.apply:

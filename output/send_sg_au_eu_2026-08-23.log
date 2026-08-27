@@ -1,0 +1,62 @@
+From: muddasirrizwan9@gmail.com
+Auth: smtp
+Letters (4): emailll_proof.txt, emailll_frontend.txt, emailll_agent.txt, emailll_backend.txt
+Resume: /home/sleepwellsystem/Desktop/codet-webb/Muhammad_Muddasir_Resume.pdf
+Queued: 20  (already sent emails: 1071, companies: 1016, dead skipped: 0, sent today: 0/20)
+
+  -> careers@carsales.com.au  (Carsales)  [Software Engineer]
+  -> careers@matchmove.com  (MatchMove)  [Software Engineer]
+  -> careers@myob.com  (MYOB)  [Software Engineer]
+  -> careers@paktor.com  (Paktor)  [Software Engineer]
+  -> careers@patsnap.com  (PatSnap)  [Software Engineer]
+  -> careers@propertyguru.com  (PropertyGuru)  [Software Engineer]
+  -> careers@razer.com  (Razer)  [Software Engineer]
+  -> careers@rea-group.com  (REA Group)  [Software Engineer]
+  -> careers@bol.com  (Bol.com)  [Software Engineer]
+  -> careers@capchase.com  (Capchase)  [Software Engineer]
+  -> careers@contents.com  (Contents.com)  [Software Engineer]
+  -> careers@criteo.com  (Criteo)  [Software Engineer]
+  -> careers@curve.com  (Curve)  [Software Engineer]
+  -> careers@usefathom.com  (Fathom Analytics)  [Software Engineer]
+  -> careers@featurespace.com  (Featurespace)  [Software Engineer]
+  -> careers@flix.com  (Flix)  [Software Engineer]
+  -> careers@flixbus.com  (FlixBus)  [Software Engineer]
+  -> hola@formbricks.com  (Formbricks)  [Software Engineer]
+  -> careers@idealista.com  (Idealista)  [Software Engineer]
+  -> careers@klarna.com  (Klarna)  [Software Engineer]
+[1/20] sent  careers@carsales.com.au  [emailll_proof.txt]
+    waiting 107s...
+[2/20] sent  careers@matchmove.com  [emailll_frontend.txt]
+    waiting 90s...
+[3/20] sent  careers@myob.com  [emailll_agent.txt]
+    waiting 71s...
+[4/20] sent  careers@paktor.com  [emailll_backend.txt]
+    waiting 78s...
+[5/20] sent  careers@patsnap.com  [emailll_proof.txt]
+    waiting 105s...
+[6/20] sent  careers@propertyguru.com  [emailll_frontend.txt]
+    waiting 74s...
+[7/20] sent  careers@razer.com  [emailll_agent.txt]
+    waiting 105s...
+[8/20] sent  careers@rea-group.com  [emailll_backend.txt]
+    waiting 80s...
+[9/20] sent  careers@bol.com  [emailll_proof.txt]
+    waiting 105s...
+[10/20] sent  careers@capchase.com  [emailll_frontend.txt]
+    waiting 78s...
+[11/20] sent  careers@contents.com  [emailll_agent.txt]
+    waiting 90s...
+[12/20] sent  careers@criteo.com  [emailll_backend.txt]
+    waiting 106s...
+[13/20] sent  careers@curve.com  [emailll_proof.txt]
+    waiting 108s...
+[14/20] sent  careers@usefathom.com  [emailll_frontend.txt]
+    waiting 89s...
+[15/20] sent  careers@featurespace.com  [emailll_agent.txt]
+    waiting 73s...
+[16/20] sent  careers@flix.com  [emailll_backend.txt]
+    waiting 104s...
+[17/20] sent  careers@flixbus.com  [emailll_proof.txt]
+    waiting 108s...
+[18/20] sent  hola@formbricks.com  [emailll_frontend.txt]
+    waiting 100s...

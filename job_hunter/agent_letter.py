@@ -31,10 +31,14 @@ Target roles: software engineer, AI/LLM engineer, product engineer, frontend (Re
 """.strip()
 
 VOICE = """
-Write like the existing letters: short, specific, first person, no filler.
-Banned: "I hope this email finds you well", "passionate about", "leverage", "excited to", "I am writing to", em dashes, markdown, bullet lists, subject line.
-Keep the facts true. Do not invent employers, degrees, or years of experience.
-3 short paragraphs + sign-off. About 140–190 words.
+Reddit / hiring-manager cold email style:
+- 80–130 words. Plain text. Human, not corporate.
+- Structure: greeting → one opener (role or company) → ONE concrete proof → soft ask (15-min call) → sign-off with site.
+- Open with the role or a real company detail when given. Never "I'm passionate" / "I am writing to apply" / "excited to leverage".
+- Ask for a 15-minute call, not "please consider my application".
+- Banned: em dashes, markdown, bullets, subject line, "hope this finds you well", "passionate", "leverage", "synergy", "opportunity".
+- Keep facts true. Do not invent employers, degrees, or years of experience.
+- Remote from Karachi / UTC+5 only if natural at the end; do not lead with location.
 """.strip()
 
 

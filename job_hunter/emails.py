@@ -84,6 +84,8 @@ def pick_hr_email(emails: list[str]) -> str:
             score += 4
         ranked.append((score, email))
     ranked.sort(key=lambda item: (-item[0], item[1]))
+    if ranked[0][0] < 0:
+        return ""
     return ranked[0][1]
 
 

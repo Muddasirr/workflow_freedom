@@ -1,0 +1,10 @@
+Hi Softpers team,
+
+Following up for the Software Engineer Level II role (Pakistan remote / flexible) — full-stack with LLM-powered workflows.
+
+I ship product UI at Codet.ai in Next.js, React, and TypeScript (no-code canvas + in-app AI assistant), and I’ve built AutoCloudEngineerAgent (LangGraph): LLM control plane with canary deploys, benches, reject / rollback / promote. Also Java payment APIs at Euronet; comfortable with Node/Python APIs and Git.
+
+Resume attached — more at muddasirrizwan.com. Open to a 15-minute call this week if useful.
+
+Muhammad Muddasir
++92-3249867842 · muddasirrizwan9@gmail.com · muddasirrizwan.com

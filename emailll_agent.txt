@@ -1,0 +1,10 @@
+{greeting}
+
+{opening}I build LLM and workflow features at Codet.ai: an n8n-style trigger → condition → action canvas, and an assistant that helps users compose and debug flows.
+
+Proof: AutoCloudEngineerAgent (LangGraph) — proposes infra, deploys only to a Kubernetes canary, benches, then rejects / rolls back / promotes. Safety constraints stay hard; the optimizer cannot override them.
+
+{ask}
+
+Muhammad Muddasir
++92-3249867842 · muddasirrizwan9@gmail.com · muddasirrizwan.com

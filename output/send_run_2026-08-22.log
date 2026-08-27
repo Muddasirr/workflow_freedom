@@ -1,0 +1,73 @@
+  SKIP catch-all mx   careers@ableclothing.com  (Able)
+  SKIP unverified      careers@aha.io  (Aha)  cache invalid
+  SKIP unverified      careers@airapps.co  (Air Apps)  cache invalid
+  SKIP unverified      careers@algoteque.com  (Algoteque)  cache invalid
+  SKIP catch-all mx   careers@betterstack.com  (Better Stack)
+  SKIP unverified      careers@beyond.com  (Beyond)  cache probe-blocked
+  SKIP catch-all mx   careers@blackore.ai  (Black Ore)
+  SKIP catch-all mx   careers@brandchamp.io  (BrandChamp)
+  SKIP catch-all mx   careers@checklyhq.com  (Checkly)
+  SKIP catch-all mx   careers@configcat.com  (ConfigCat)
+  SKIP unverified      careers@dagster.io  (Dagster)  cache invalid
+  SKIP unverified      careers@danti.com  (Danti)  cache invalid
+  SKIP unverified      careers@entefy.com  (Entefy)  cache probe-blocked
+  SKIP unverified      careers@erasys.de  (Erasys)  cache invalid
+  SKIP catch-all mx   careers@fillout.com  (Fillout)
+  SKIP unverified      careers@foxboxdigital.com  (Foxbox Digital)  cache invalid
+  SKIP unverified      careers@geonetric.com  (Geonetric)  cache probe-blocked
+  SKIP unverified      careers@gismart.com  (Gismart)  cache invalid
+  SKIP catch-all mx   careers@lemlist.com  (Lemlist)
+  SKIP unverified      jobs@logicose.com  (Logicose)  cache reject
+  SKIP catch-all mx   careers@logrocket.com  (LogRocket)
+  SKIP unverified      careers@lovable.dev  (Lovable)  cache invalid
+  SKIP unverified      careers@meilisearch.com  (Meilisearch)  cache invalid
+  SKIP unverified      careers@mlabs.com.br  (MLabs)  cache probe-blocked
+  SKIP catch-all mx   careers@neuroscale.io  (Neuroscale)
+  SKIP unverified      careers@nexturn.com  (NexTurn)  cache probe-blocked
+  SKIP catch-all mx   careers@numa.com  (Numa)
+  SKIP unverified      careers@one10.co  (One10)  cache probe-blocked
+  SKIP catch-all mx   careers@optixapp.com  (Optix)
+  SKIP catch-all mx   careers@oscilar.com  (Oscilar)
+  SKIP catch-all mx   careers@pipedream.com  (Pipedream)
+  SKIP catch-all mx   careers@prefect.io  (Prefect)
+  SKIP catch-all mx   careers@runpod.io  (Runpod)
+  SKIP catch-all mx   careers@securiti.ai  (Securiti)
+  SKIP unverified      careers@semble.io  (Semble)  cache probe-blocked
+  SKIP unverified      jobs@sofizar.com  (Sofizar)  cache reject
+  SKIP unverified      careers@tjmlabs.com  (TJM Labs)  cache invalid
+  SKIP unverified      careers@tradepending.com  (TradePending)  cache probe-blocked
+  SKIP unverified      careers@whippy.ai  (Whippy)  cache probe-blocked
+  SKIP catch-all mx   careers@windmill.dev  (Windmill)
+From: muddasirrizwan9@gmail.com
+Auth: smtp
+Letters (4): emailll_proof.txt, emailll_frontend.txt, emailll_agent.txt, emailll_backend.txt
+Resume: /home/sleepwellsystem/Desktop/codet-webb/Muhammad_Muddasir_Resume.pdf
+Queued: 9  (already sent emails: 1006, companies: 964, dead skipped: 40, sent today: 50/70)
+
+  -> careers@censys.io  (Censys)  [Software Engineer]
+  -> systemhr.recruiting@cu.edu  (Cu)  [Software Engineer]
+  -> careers@meisterlabs.com  (Meister)  [Software Engineer]
+  -> contact@trmlabs.com  (TRM Labs)  [Software Engineer]
+  -> careers@tyfone.com  (Tyfone)  [Software Engineer]
+  -> hr@validusgrp.com  (Validusgrp)  [Software Engineer]
+  -> careers@velotio.com  (Velotio)  [Software Engineer]
+  -> info@webhr.co  (WebHR)  [Software Engineer]
+  -> info@webnet.com.pk  (Webnet)  [Software Engineer]
+[1/9] sent  careers@censys.io  [emailll_agent.txt]
+    waiting 45s...
+[2/9] sent  systemhr.recruiting@cu.edu  [emailll_frontend.txt]
+    waiting 45s...
+[3/9] sent  careers@meisterlabs.com  [emailll_frontend.txt]
+    waiting 45s...
+[4/9] sent  contact@trmlabs.com  [emailll_agent.txt]
+    waiting 45s...
+[5/9] sent  careers@tyfone.com  [emailll_frontend.txt]
+    waiting 45s...
+[6/9] sent  hr@validusgrp.com  [emailll_frontend.txt]
+    waiting 51s...
+[7/9] sent  careers@velotio.com  [emailll_frontend.txt]
+    waiting 45s...
+[8/9] sent  info@webhr.co  [emailll_frontend.txt]
+    waiting 45s...
+[9/9] sent  info@webnet.com.pk  [emailll_frontend.txt]
+Done. Log: /home/sleepwellsystem/Desktop/codet-webb/outreach/sent_log.csv

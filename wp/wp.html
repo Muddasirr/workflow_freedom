@@ -1,0 +1,1825 @@
+<!-- =========================================================
+     ALPHA ORDER MODAL
+========================================================= -->
+
+<div class="alpha-order-modal" id="alphaOrderModal">
+
+    <div class="alpha-order-backdrop"></div>
+  
+    <div class="alpha-order-panel">
+  
+      <button
+        class="alpha-order-close"
+        type="button"
+        aria-label="Close"
+      >
+        ×
+      </button>
+  
+  
+      <!-- ================================================
+           STEP 1 - LOCATION
+      ================================================= -->
+  
+      <div
+        class="alpha-order-step alpha-order-step-active"
+        data-step="location"
+      >
+  
+        <div class="alpha-order-heading">
+  
+          <h2>
+            Where are you ordering from?
+          </h2>
+  
+          <p>
+            Choose your nearest Alpha Cafe location or let us find it for you.
+          </p>
+  
+        </div>
+  
+  
+        <button
+          type="button"
+          class="alpha-detect-location"
+          id="alphaDetectLocation"
+        >
+  
+          <span class="alpha-location-icon">
+            ⌖
+          </span>
+  
+          <span>
+            Use My Location
+          </span>
+  
+        </button>
+  
+  
+        <div class="alpha-order-divider">
+          <span>or choose manually</span>
+        </div>
+  
+  
+        <!-- ================================================
+             LOCATIONS
+        ================================================= -->
+  
+        <div class="alpha-location-grid">
+  
+  
+          <!-- RICHMOND -->
+  
+          <button
+            class="alpha-location-card"
+            data-location="richmond"
+            type="button"
+          >
+  
+            <span class="alpha-location-name">
+              Richmond
+            </span>
+
+          </button>
+  
+  
+          <!-- SUGAR LAND -->
+  
+          <button
+            class="alpha-location-card"
+            data-location="sugarland"
+            type="button"
+          >
+  
+            <span class="alpha-location-name">
+              Sugar Land
+            </span>
+
+          </button>
+  
+  
+          <!-- HILLCROFT -->
+  
+          <button
+            class="alpha-location-card"
+            data-location="hillcroft"
+            type="button"
+          >
+  
+            <span class="alpha-location-name">
+              Hillcroft
+            </span>
+
+          </button>
+  
+  
+          <!-- WILCREST -->
+  
+          <button
+            class="alpha-location-card"
+            data-location="wilcrest"
+            type="button"
+          >
+  
+            <span class="alpha-location-name">
+              Wilcrest
+            </span>
+
+          </button>
+  
+  
+          <!-- AUSTIN -->
+  
+          <button
+            class="alpha-location-card alpha-location-card-last"
+            data-location="austin"
+            type="button"
+          >
+  
+            <span class="alpha-location-name">
+              Austin
+            </span>
+
+          </button>
+  
+  
+        </div>
+  
+  
+        <div
+          class="alpha-location-status"
+          id="alphaLocationStatus"
+        ></div>
+  
+      </div>
+  
+  
+  
+      <!-- ================================================
+           STEP 2 - ORDER METHOD
+      ================================================= -->
+  
+      <div
+        class="alpha-order-step"
+        data-step="method"
+      >
+  
+        <button
+          class="alpha-order-back"
+          type="button"
+          data-back="location"
+        >
+          ← Change location
+        </button>
+  
+  
+        <div class="alpha-order-heading">
+  
+          <div class="alpha-selected-location">
+            Ordering from
+            <strong id="alphaSelectedLocation"></strong>
+          </div>
+  
+          <h2>
+            How would you like to order?
+          </h2>
+  
+          <p>
+            Choose online delivery or pickup.
+          </p>
+  
+        </div>
+  
+  
+        <div class="alpha-method-grid">
+  
+  
+          <!-- ORDER ONLINE -->
+  
+          <button
+            class="alpha-method-card"
+            data-method="delivery"
+            type="button"
+          >
+  
+            <div class="alpha-method-icon">
+              ↗
+            </div>
+  
+            <div class="alpha-method-content">
+  
+              <h3>
+                Order Online
+              </h3>
+  
+              <p>
+                Order with Uber Eats or DoorDash.
+              </p>
+  
+            </div>
+  
+            <span class="alpha-method-arrow">
+              →
+            </span>
+  
+          </button>
+  
+  
+  
+          <!-- PICKUP -->
+  
+          <button
+            class="alpha-method-card"
+            data-method="pickup"
+            type="button"
+          >
+  
+            <div class="alpha-method-icon">
+              ◇
+            </div>
+  
+            <div class="alpha-method-content">
+  
+              <h3>
+                Pickup
+              </h3>
+  
+              <p>
+                Order directly from Alpha Cafe.
+              </p>
+  
+            </div>
+  
+            <span class="alpha-method-arrow">
+              →
+            </span>
+  
+          </button>
+  
+  
+        </div>
+  
+      </div>
+  
+  
+  
+      <!-- ================================================
+           STEP 3 - DELIVERY PROVIDER
+      ================================================= -->
+  
+      <div
+        class="alpha-order-step"
+        data-step="delivery"
+      >
+  
+        <button
+          class="alpha-order-back"
+          type="button"
+          data-back="method"
+        >
+          ← Back
+        </button>
+  
+  
+        <div class="alpha-order-heading">
+  
+          <div class="alpha-selected-location">
+            Ordering from
+            <strong id="alphaDeliveryLocation"></strong>
+          </div>
+  
+          <h2>
+            Choose a delivery service
+          </h2>
+  
+          <p>
+            Continue your order with your preferred delivery partner.
+          </p>
+  
+        </div>
+  
+  
+        <div class="alpha-provider-grid">
+  
+  
+          <!-- UBER EATS -->
+  
+          <a
+            href="#"
+            target="_blank"
+            rel="noopener"
+            class="alpha-provider alpha-provider-uber"
+            id="alphaUberLink"
+          >
+  
+            <span class="alpha-provider-name">
+              Uber Eats
+            </span>
+  
+            <span class="alpha-provider-arrow">
+              →
+            </span>
+  
+          </a>
+  
+  
+          <!-- DOORDASH -->
+  
+          <a
+            href="#"
+            target="_blank"
+            rel="noopener"
+            class="alpha-provider alpha-provider-doordash"
+            id="alphaDoorDashLink"
+          >
+  
+            <span class="alpha-provider-name">
+              DoorDash
+            </span>
+  
+            <span class="alpha-provider-arrow">
+              →
+            </span>
+  
+          </a>
+  
+  
+        </div>
+  
+      </div>
+  
+    </div>
+  
+  </div>
+  
+  
+  
+  <style>
+  
+  /* =========================================================
+     RESET
+  ========================================================= */
+  
+  .alpha-order-modal,
+  .alpha-order-modal * {
+    box-sizing: border-box;
+  }
+  
+  
+  /* =========================================================
+     MODAL
+  ========================================================= */
+  
+  .alpha-order-modal {
+    position: fixed !important;
+
+    inset: 0 !important;
+
+    width: 100% !important;
+    max-width: none !important;
+
+    margin: 0 !important;
+
+    z-index: 999999;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    padding: 22px;
+
+    visibility: hidden;
+    opacity: 0;
+
+    pointer-events: none;
+
+    transition:
+      opacity .25s ease,
+      visibility .25s ease;
+
+    font-family: 'Jost', sans-serif;
+  }
+  
+  
+  .alpha-order-modal.alpha-modal-open {
+    visibility: visible;
+  
+    opacity: 1;
+  
+    pointer-events: auto;
+  }
+  
+  
+  /* =========================================================
+     BACKDROP
+  ========================================================= */
+  
+  .alpha-order-backdrop {
+    position: absolute;
+  
+    inset: 0;
+  
+    background:
+      rgba(20, 15, 18, .48);
+  
+    backdrop-filter:
+      blur(8px);
+  
+    -webkit-backdrop-filter:
+      blur(8px);
+  }
+  
+  
+  /* =========================================================
+     PANEL
+  ========================================================= */
+  
+  .alpha-order-panel {
+    position: relative;
+  
+    z-index: 2;
+  
+    width: min(650px, 100%);
+  
+    max-height: calc(100vh - 44px);
+  
+    overflow-y: auto;
+  
+    padding: 46px;
+  
+    border-radius: 32px;
+  
+    background:
+  
+      radial-gradient(
+        circle at 100% 0%,
+        rgba(222,191,205,.35),
+        transparent 34%
+      ),
+  
+      linear-gradient(
+        135deg,
+        #fffdfc,
+        #fbf7f5 60%,
+        #f7edf1
+      );
+  
+    border:
+      1px solid rgba(255,255,255,.8);
+  
+    box-shadow:
+      0 35px 90px rgba(45,25,35,.24);
+  
+    transform:
+      translateY(15px)
+      scale(.98);
+  
+    transition:
+      transform .3s ease;
+  }
+  
+  
+  .alpha-modal-open
+  .alpha-order-panel {
+    transform:
+      translateY(0)
+      scale(1);
+  }
+  
+  
+  /* =========================================================
+     CLOSE
+  ========================================================= */
+  
+  .alpha-order-close {
+    position: absolute;
+  
+    right: 22px;
+    top: 18px;
+  
+    width: 38px;
+    height: 38px;
+  
+    padding: 0;
+  
+    border: 0;
+  
+    border-radius: 50%;
+  
+    background:
+      rgba(255,255,255,.72);
+  
+    color: #1a1a1a;
+  
+    font-size: 28px;
+  
+    line-height: 1;
+  
+    cursor: pointer;
+  
+    transition:
+      background .2s ease,
+      transform .2s ease;
+  }
+  
+  
+  .alpha-order-close:hover {
+    background: #ffffff;
+  
+    transform:
+      rotate(5deg);
+  }
+  
+  
+  /* =========================================================
+     STEPS
+  ========================================================= */
+  
+  .alpha-order-step {
+    display: none;
+  }
+  
+  
+  .alpha-order-step-active {
+    display: block;
+  
+    animation:
+      alphaStepEnter .3s ease;
+  }
+  
+  
+  @keyframes alphaStepEnter {
+  
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+  
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  
+  }
+  
+  
+  /* =========================================================
+     HEADING
+  ========================================================= */
+  
+  .alpha-order-heading {
+    margin-bottom: 30px;
+  }
+  
+  
+  .alpha-order-heading h2 {
+    margin:
+      0
+      0
+      12px;
+  
+    padding-right: 28px;
+  
+    font-size:
+      clamp(32px, 4vw, 44px);
+  
+    line-height: 1.08;
+  
+    letter-spacing: -1px;
+  
+    font-weight: 400;
+  
+    color: #1a1a1a;
+  }
+  
+  
+  .alpha-order-heading p {
+    margin: 0;
+  
+    max-width: 510px;
+  
+    font-size: 16px;
+  
+    line-height: 1.6;
+  
+    font-weight: 400;
+  
+    color: #363036;
+  }
+  
+  
+  /* =========================================================
+     GEOLOCATION BUTTON
+  ========================================================= */
+  
+  .alpha-detect-location {
+    width: 100%;
+  
+    min-height: 64px;
+  
+    padding:
+      15px
+      20px;
+  
+    display: flex;
+  
+    align-items: center;
+    justify-content: center;
+  
+    gap: 12px;
+  
+    border:
+      1px solid rgba(192,145,166,.32);
+  
+    border-radius: 18px;
+  
+    background:
+      #DEBFCD;
+  
+    color: #1a1a1a;
+  
+    font-family: inherit;
+  
+    font-size: 16px;
+  
+    font-weight: 500;
+  
+    cursor: pointer;
+  
+    box-shadow:
+      0 10px 28px rgba(130,80,105,.10);
+  
+    transition:
+      transform .25s ease,
+      background .25s ease;
+  }
+  
+  
+  .alpha-detect-location:hover {
+    background: #D3AFC0;
+  
+    transform:
+      translateY(-2px);
+  }
+  
+  
+  .alpha-location-icon {
+    font-size: 23px;
+  }
+  
+  
+  /* =========================================================
+     DIVIDER
+  ========================================================= */
+  
+  .alpha-order-divider {
+    display: flex;
+  
+    align-items: center;
+  
+    gap: 14px;
+  
+    margin:
+      27px
+      0;
+  }
+  
+  
+  .alpha-order-divider::before,
+  .alpha-order-divider::after {
+    content: "";
+  
+    flex: 1;
+  
+    height: 1px;
+  
+    background:
+      rgba(130,100,115,.18);
+  }
+  
+  
+  .alpha-order-divider span {
+    white-space: nowrap;
+  
+    font-size: 12px;
+  
+    letter-spacing: 1px;
+  
+    color: #6b6166;
+  }
+  
+  
+  /* =========================================================
+     LOCATION GRID
+  ========================================================= */
+  
+  .alpha-location-grid {
+    display: grid;
+  
+    grid-template-columns:
+      repeat(2, minmax(0,1fr));
+  
+    gap: 12px;
+  }
+  
+  
+  .alpha-location-arrow {
+    display: none;
+  }
+
+
+  .alpha-location-card {
+    min-height: 82px;
+
+    padding:
+      18px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+  
+    border:
+      1px solid rgba(193,157,174,.30);
+  
+    border-radius: 18px;
+  
+    background:
+      rgba(255,255,255,.72);
+  
+    color: #1a1a1a;
+  
+    font-family: inherit;
+  
+    cursor: pointer;
+  
+    transition:
+      border .25s ease,
+      transform .25s ease,
+      background .25s ease,
+      box-shadow .25s ease;
+  }
+  
+  
+  .alpha-location-card-last {
+    grid-column: 1 / -1;
+  }
+  
+  
+  .alpha-location-card:hover {
+    transform:
+      translateY(-3px);
+  
+    background: #ffffff;
+  
+    border-color:
+      rgba(190,143,164,.50);
+  
+    box-shadow:
+      0 12px 28px rgba(120,75,97,.08);
+  }
+  
+  
+  .alpha-location-name {
+    font-size: 16px;
+  
+    font-weight: 500;
+  }
+  
+  
+  /* =========================================================
+     STATUS
+  ========================================================= */
+  
+  .alpha-location-status {
+    margin-top: 16px;
+  
+    text-align: center;
+  
+    font-size: 13px;
+  
+    line-height: 1.5;
+  
+    color: #51484d;
+  }
+  
+  
+  /* =========================================================
+     SELECTED LOCATION
+  ========================================================= */
+  
+  .alpha-selected-location {
+    margin-bottom: 12px;
+  
+    font-size: 13px;
+  
+    letter-spacing: .4px;
+  
+    color: #756970;
+  }
+  
+  
+  .alpha-selected-location strong {
+    color: #b17491;
+  
+    font-weight: 500;
+  }
+  
+  
+  /* =========================================================
+     BACK
+  ========================================================= */
+  
+  .alpha-order-back {
+    display: inline-flex;
+  
+    margin-bottom: 25px;
+  
+    padding: 0;
+  
+    border: 0;
+  
+    background: transparent;
+  
+    color: #554b50;
+  
+    font-family: inherit;
+  
+    font-size: 13px;
+  
+    cursor: pointer;
+  }
+  
+  
+  /* =========================================================
+     ORDER METHOD
+  ========================================================= */
+  
+  .alpha-method-grid {
+    display: grid;
+  
+    grid-template-columns:
+      1fr
+      1fr;
+  
+    gap: 15px;
+  }
+  
+  
+  .alpha-method-card {
+    position: relative;
+  
+    min-height: 180px;
+  
+    padding: 25px;
+  
+    text-align: left;
+  
+    border:
+      1px solid rgba(190,150,168,.28);
+  
+    border-radius: 24px;
+  
+    background:
+      rgba(255,255,255,.75);
+  
+    color: #1a1a1a;
+  
+    font-family: inherit;
+  
+    cursor: pointer;
+  
+    transition:
+      transform .3s ease,
+      background .3s ease,
+      box-shadow .3s ease;
+  }
+  
+  
+  .alpha-method-card:hover {
+    transform:
+      translateY(-4px);
+  
+    background: #fff;
+  
+    box-shadow:
+      0 18px 40px rgba(117,70,94,.10);
+  }
+  
+  
+  .alpha-method-icon {
+    margin-bottom: 30px;
+  
+    font-size: 27px;
+  }
+  
+  
+  .alpha-method-content h3 {
+    margin:
+      0
+      0
+      7px;
+  
+    font-size: 23px;
+  
+    font-weight: 400;
+  }
+  
+  
+  .alpha-method-content p {
+    margin: 0;
+  
+    font-size: 14px;
+  
+    line-height: 1.55;
+  
+    color: #4f474b;
+  }
+  
+  
+  .alpha-method-arrow {
+    position: absolute;
+  
+    right: 22px;
+    bottom: 20px;
+  
+    font-size: 20px;
+  }
+  
+  
+  /* =========================================================
+     DELIVERY PROVIDERS
+  ========================================================= */
+  
+  .alpha-provider-grid {
+    display: grid;
+  
+    gap: 14px;
+  }
+  
+  
+  .alpha-provider {
+    min-height: 78px;
+  
+    padding:
+      18px
+      24px;
+  
+    display: flex;
+  
+    align-items: center;
+    justify-content: space-between;
+  
+    border-radius: 20px;
+  
+    text-decoration: none;
+  
+    font-size: 19px;
+  
+    font-weight: 500;
+  
+    transition:
+      transform .25s ease,
+      box-shadow .25s ease;
+  }
+  
+  
+  .alpha-provider:hover {
+    transform:
+      translateY(-3px);
+  }
+  
+  
+  .alpha-provider-uber {
+    background: #000000;
+  
+    color: #ffffff;
+  }
+  
+  
+  .alpha-provider-doordash {
+    background: #ffffff;
+  
+    color: #1a1a1a;
+  
+    border:
+      1px solid rgba(160,130,145,.24);
+  
+    box-shadow:
+      0 10px 30px rgba(100,60,80,.07);
+  }
+  
+  
+  .alpha-provider-arrow {
+    font-size: 22px;
+  }
+  
+  
+  /* =========================================================
+     MOBILE
+  ========================================================= */
+  
+  @media (max-width: 767px) {
+
+    .alpha-order-modal {
+      padding: 0;
+
+      align-items: flex-end;
+    }
+
+
+    .alpha-order-panel {
+      width: 100% !important;
+      max-width: 100% !important;
+
+      max-height: min(92dvh, 100%);
+
+      padding:
+        32px
+        16px
+        calc(18px + env(safe-area-inset-bottom, 0px));
+
+      border-radius:
+        24px
+        24px
+        0
+        0;
+    }
+
+
+    .alpha-order-heading {
+      margin-bottom: 18px;
+    }
+
+
+    .alpha-order-heading h2 {
+      font-size: 26px;
+
+      line-height: 1.12;
+
+      letter-spacing: -.5px;
+    }
+
+
+    .alpha-order-heading p {
+      font-size: 14px;
+
+      color: #111111;
+
+      font-weight: 400;
+    }
+
+
+    .alpha-detect-location {
+      min-height: 54px;
+
+      border-radius: 14px;
+    }
+
+
+    .alpha-order-divider {
+      margin: 18px 0;
+    }
+
+
+    .alpha-location-grid {
+      grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
+      gap: 10px;
+    }
+
+
+    .alpha-location-card-last {
+      grid-column: 1 / -1;
+    }
+
+
+    .alpha-location-card {
+      min-height: 52px;
+
+      padding:
+        12px
+        14px;
+
+      border-radius: 14px;
+    }
+
+
+    .alpha-location-card:hover {
+      transform: none;
+    }
+
+
+    .alpha-method-grid {
+      grid-template-columns: 1fr;
+    }
+
+
+    .alpha-method-card {
+      min-height: 135px;
+    }
+
+
+    .alpha-method-icon {
+      margin-bottom: 17px;
+    }
+
+  }
+
+
+  /* VERY SMALL PHONES */
+
+  @media (max-width: 390px) {
+
+    .alpha-order-panel {
+      padding:
+        28px
+        14px
+        calc(16px + env(safe-area-inset-bottom, 0px));
+    }
+
+
+    .alpha-order-heading h2 {
+      font-size: 24px;
+    }
+
+  }
+  
+  </style>
+  
+  
+  
+  <script>
+  
+  (function () {
+  
+  
+    /* =======================================================
+       ALPHA LOCATION CONFIG
+    ======================================================= */
+  
+    const alphaLocations = {
+  
+  
+      /* ======================
+         RICHMOND
+      ====================== */
+  
+      richmond: {
+  
+        name: "Richmond",
+  
+        pickup:
+          "/Richmond-products",
+  
+        uber:
+          "https://www.ubereats.com/store/alpha-dessert-juice-cafe-richmonds/7HVp1vTYT-mm-65Pqt1HYg",
+  
+        doordash:
+          "https://www.doordash.com/store/alpha-dessert-juice-cafe-richmond-32851279/",
+  
+        lat: 29.64995,
+  
+        lng: -95.70841
+  
+      },
+  
+  
+      /* ======================
+         SUGAR LAND
+      ====================== */
+  
+      sugarland: {
+  
+        name: "Sugar Land",
+  
+        pickup:
+          "/Sugarland-products",
+  
+        uber:
+          "https://www.ubereats.com/store/alpha-dessert-juice-cafe-sugar-land/pC00nI9cR1mXqruWfkReUA",
+  
+        doordash:
+          "https://www.doordash.com/store/alpha-dessert-juice-cafe-sugar-land-577158/",
+  
+        lat: 29.59880,
+  
+        lng: -95.62220
+  
+      },
+  
+  
+      /* ======================
+         HILLCROFT
+      ====================== */
+  
+      hillcroft: {
+  
+        name: "Hillcroft",
+  
+        pickup:
+          "/Hillcroft-products",
+  
+        uber:
+          "https://www.ubereats.com/store/alpha-dessert-juice-cafe-hillcroft/CY9iBOMlRJiROuJ0vhuPOg",
+  
+        doordash:
+          "https://www.doordash.com/store/alpha-dessert-juice-cafe-houston-25067998/",
+  
+        lat: 29.72032,
+  
+        lng: -95.50026
+  
+      },
+  
+  
+      /* ======================
+         WILCREST
+      ====================== */
+  
+      wilcrest: {
+  
+        name: "Wilcrest",
+  
+        pickup:
+          "/Wilcrest-products",
+  
+        uber:
+          "https://www.ubereats.com/store/alpha-dessert-juice-cafe-wilcrest/eiy9l2HFXZqTTkMzVB9wEw",
+  
+        doordash:
+          "https://www.doordash.com/store/alpha-dessert-juice-cafe-houston-25047352/",
+  
+        lat: 29.65809,
+  
+        lng: -95.57129
+  
+      },
+  
+  
+      /* ======================
+         AUSTIN
+      ====================== */
+  
+      austin: {
+  
+        name: "Austin",
+  
+        pickup:
+          "/Austin-products",
+  
+        uber:
+          "https://www.ubereats.com/store/alpha-dessert-juice-cafe-austin/pd-0mMmVRgqQOjcoH7NKaQ",
+  
+        doordash:
+          "https://www.doordash.com/store/alpha-dessert-juice-cafe-austin-32845428/",
+  
+        lat: 30.40871,
+  
+        lng: -97.68034
+  
+      }
+  
+    };
+  
+  
+    let selectedLocation = null;
+  
+  
+    const modal =
+      document.getElementById(
+        "alphaOrderModal"
+      );
+  
+  
+    if (!modal) return;
+
+
+    if (modal.parentElement !== document.body) {
+      document.body.appendChild(modal);
+    }
+
+
+    const closeButton =
+      modal.querySelector(
+        ".alpha-order-close"
+      );
+  
+  
+    const backdrop =
+      modal.querySelector(
+        ".alpha-order-backdrop"
+      );
+  
+  
+    const locationStatus =
+      document.getElementById(
+        "alphaLocationStatus"
+      );
+  
+  
+    /* =======================================================
+       OPEN
+    ======================================================= */
+  
+    function openModal() {
+  
+      modal.classList.add(
+        "alpha-modal-open"
+      );
+  
+  
+      document.body.style.overflow =
+        "hidden";
+  
+  
+      showStep("location");
+  
+    }
+  
+  
+    /* =======================================================
+       CLOSE
+    ======================================================= */
+  
+    function closeModal() {
+  
+      modal.classList.remove(
+        "alpha-modal-open"
+      );
+  
+  
+      document.body.style.overflow =
+        "";
+  
+    }
+  
+  
+    closeButton.addEventListener(
+      "click",
+      closeModal
+    );
+  
+  
+    backdrop.addEventListener(
+      "click",
+      closeModal
+    );
+  
+  
+    document.addEventListener(
+      "keydown",
+      function (event) {
+  
+        if (event.key === "Escape") {
+  
+          closeModal();
+  
+        }
+  
+      }
+    );
+  
+  
+    /* =======================================================
+       EXISTING ELEMENTOR ORDER BUTTON
+  
+       Add CSS class:
+  
+       alpha-order-online-trigger
+    ======================================================= */
+  
+    document.addEventListener(
+      "click",
+      function (event) {
+  
+        const trigger =
+          event.target.closest(
+            ".alpha-order-online-trigger"
+          );
+  
+  
+        if (!trigger) return;
+  
+  
+        event.preventDefault();
+  
+  
+        openModal();
+  
+      }
+    );
+  
+  
+    /* =======================================================
+       STEPS
+    ======================================================= */
+  
+    function showStep(stepName) {
+  
+      modal
+        .querySelectorAll(
+          ".alpha-order-step"
+        )
+        .forEach(function (step) {
+  
+          step.classList.remove(
+            "alpha-order-step-active"
+          );
+  
+        });
+  
+  
+      const target =
+        modal.querySelector(
+          '[data-step="' +
+          stepName +
+          '"]'
+        );
+  
+  
+      if (target) {
+  
+        target.classList.add(
+          "alpha-order-step-active"
+        );
+  
+      }
+  
+    }
+  
+  
+    /* =======================================================
+       SELECT LOCATION
+    ======================================================= */
+  
+    function chooseLocation(key) {
+  
+      if (!alphaLocations[key]) return;
+  
+  
+      selectedLocation = key;
+  
+  
+      const location =
+        alphaLocations[key];
+  
+  
+      document.getElementById(
+        "alphaSelectedLocation"
+      ).textContent =
+        location.name;
+  
+  
+      document.getElementById(
+        "alphaDeliveryLocation"
+      ).textContent =
+        location.name;
+  
+  
+      document.getElementById(
+        "alphaUberLink"
+      ).href =
+        location.uber;
+  
+  
+      document.getElementById(
+        "alphaDoorDashLink"
+      ).href =
+        location.doordash;
+  
+  
+      showStep("method");
+  
+    }
+  
+  
+    modal
+      .querySelectorAll(
+        ".alpha-location-card"
+      )
+      .forEach(function (button) {
+  
+        button.addEventListener(
+          "click",
+          function () {
+  
+            chooseLocation(
+              this.dataset.location
+            );
+  
+          }
+        );
+  
+      });
+  
+  
+    /* =======================================================
+       METHOD
+    ======================================================= */
+  
+    modal
+      .querySelectorAll(
+        ".alpha-method-card"
+      )
+      .forEach(function (button) {
+  
+        button.addEventListener(
+          "click",
+          function () {
+  
+            if (!selectedLocation) {
+  
+              showStep("location");
+  
+              return;
+  
+            }
+  
+  
+            const method =
+              this.dataset.method;
+  
+  
+            /* ONLINE DELIVERY */
+  
+            if (method === "delivery") {
+  
+              showStep("delivery");
+  
+            }
+  
+  
+            /* PICKUP */
+  
+            if (method === "pickup") {
+  
+              window.location.href =
+                alphaLocations[
+                  selectedLocation
+                ].pickup;
+  
+            }
+  
+          }
+        );
+  
+      });
+  
+  
+    /* =======================================================
+       BACK BUTTONS
+    ======================================================= */
+  
+    modal
+      .querySelectorAll(
+        ".alpha-order-back"
+      )
+      .forEach(function (button) {
+  
+        button.addEventListener(
+          "click",
+          function () {
+  
+            showStep(
+              this.dataset.back
+            );
+  
+          }
+        );
+  
+      });
+  
+  
+    /* =======================================================
+       HAVERSINE DISTANCE
+    ======================================================= */
+  
+    function calculateDistance(
+      lat1,
+      lon1,
+      lat2,
+      lon2
+    ) {
+  
+      const earthRadius =
+        6371;
+  
+  
+      const toRadians =
+        function (degree) {
+  
+          return degree *
+            Math.PI /
+            180;
+  
+        };
+  
+  
+      const dLat =
+        toRadians(
+          lat2 - lat1
+        );
+  
+  
+      const dLon =
+        toRadians(
+          lon2 - lon1
+        );
+  
+  
+      const a =
+  
+        Math.sin(
+          dLat / 2
+        ) *
+  
+        Math.sin(
+          dLat / 2
+        ) +
+  
+        Math.cos(
+          toRadians(lat1)
+        ) *
+  
+        Math.cos(
+          toRadians(lat2)
+        ) *
+  
+        Math.sin(
+          dLon / 2
+        ) *
+  
+        Math.sin(
+          dLon / 2
+        );
+  
+  
+      const c =
+        2 *
+        Math.atan2(
+          Math.sqrt(a),
+          Math.sqrt(1 - a)
+        );
+  
+  
+      return earthRadius * c;
+  
+    }
+  
+  
+    /* =======================================================
+       DETECT NEAREST LOCATION
+    ======================================================= */
+  
+    document.getElementById(
+      "alphaDetectLocation"
+    ).addEventListener(
+      "click",
+      function () {
+  
+  
+        if (!navigator.geolocation) {
+  
+          locationStatus.textContent =
+            "Location detection is not supported on this device. Please choose a location manually.";
+  
+          return;
+  
+        }
+  
+  
+        locationStatus.textContent =
+          "Finding your nearest Alpha Cafe…";
+  
+  
+        navigator.geolocation.getCurrentPosition(
+  
+          function (position) {
+  
+            const userLat =
+              position.coords.latitude;
+  
+  
+            const userLng =
+              position.coords.longitude;
+  
+  
+            let nearestLocation =
+              null;
+  
+  
+            let nearestDistance =
+              Infinity;
+  
+  
+            Object.keys(
+              alphaLocations
+            ).forEach(
+              function (key) {
+  
+                const location =
+                  alphaLocations[key];
+  
+  
+                const distance =
+                  calculateDistance(
+  
+                    userLat,
+                    userLng,
+  
+                    location.lat,
+                    location.lng
+  
+                  );
+  
+  
+                if (
+                  distance <
+                  nearestDistance
+                ) {
+  
+                  nearestDistance =
+                    distance;
+  
+                  nearestLocation =
+                    key;
+  
+                }
+  
+              }
+            );
+  
+  
+            if (nearestLocation) {
+  
+              const nearest =
+                alphaLocations[
+                  nearestLocation
+                ];
+  
+  
+              locationStatus.textContent =
+                "Nearest location found: " +
+                nearest.name;
+  
+  
+              setTimeout(
+                function () {
+  
+                  chooseLocation(
+                    nearestLocation
+                  );
+  
+                },
+                500
+              );
+  
+            }
+  
+          },
+  
+  
+          function (error) {
+  
+            if (
+              error.code ===
+              error.PERMISSION_DENIED
+            ) {
+  
+              locationStatus.textContent =
+                "Location permission was denied. Please choose your Alpha Cafe location manually.";
+  
+            }
+  
+            else {
+  
+              locationStatus.textContent =
+                "We couldn't detect your location. Please choose your Alpha Cafe location manually.";
+  
+            }
+  
+          },
+  
+  
+          {
+            enableHighAccuracy: true,
+  
+            timeout: 10000,
+  
+            maximumAge: 300000
+          }
+  
+        );
+  
+      }
+    );
+  
+  
+  })();
+  
+  </script>

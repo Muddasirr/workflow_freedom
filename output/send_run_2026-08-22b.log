@@ -1,0 +1,96 @@
+From: muddasirrizwan9@gmail.com
+Auth: smtp
+Letters (4): emailll_proof.txt, emailll_frontend.txt, emailll_agent.txt, emailll_backend.txt
+Resume: /home/sleepwellsystem/Desktop/codet-webb/Muhammad_Muddasir_Resume.pdf
+Queued: 30  (already sent emails: 1036, companies: 981, dead skipped: 0, sent today: 80/110)
+
+  -> careers@activecampaign.com  (Activecampaign)  [Software Engineer]
+  -> careers@beyond.com  (Beyond)  [Software Engineer]
+  -> careers@brighte.com.au  (Brighte)  [Software Engineer]
+  -> careers@bugsnag.com  (Bugsnag)  [Software Engineer]
+  -> careers@entefy.com  (Entefy)  [Software Engineer]
+  -> careers@genesys.com  (Genesys)  [Software Engineer]
+  -> careers@geonetric.com  (Geonetric)  [Software Engineer]
+  -> talent@grove.co  (Grove)  [Software Engineer]
+  -> careers@lightstep.com  (Lightstep)  [Software Engineer]
+  -> careers@magento.com  (Magento)  [Software Engineer]
+  -> careers@mlabs.com.br  (Mlabs)  [Software Engineer]
+  -> careers@nearform.com  (Nearform)  [Software Engineer]
+  -> careers@nearmap.com  (Nearmap)  [Software Engineer]
+  -> careers@nexturn.com  (Nexturn)  [Software Engineer]
+  -> careers@one10.co  (One10)  [Software Engineer]
+  -> careers@redis.com  (Redis)  [Software Engineer]
+  -> careers@seekout.com  (Seekout)  [Software Engineer]
+  -> careers@semble.io  (Semble)  [Software Engineer]
+  -> careers@sinch.com  (Sinch)  [Software Engineer]
+  -> careers@smartbear.com  (Smartbear)  [Software Engineer]
+  -> careers@stackadapt.com  (Stackadapt)  [Software Engineer]
+  -> careers@starlingbank.com  (Starlingbank)  [Software Engineer]
+  -> careers@stoplight.io  (Stoplight)  [Software Engineer]
+  -> careers@surveymonkey.com  (Surveymonkey)  [Software Engineer]
+  -> careers@swagger.io  (Swagger)  [Software Engineer]
+  -> hr@techavidus.com  (Techavidus)  [Software Engineer]
+  -> careers@tradepending.com  (Tradepending)  [Software Engineer]
+  -> careers@valvesoftware.com  (Valvesoftware)  [Software Engineer]
+  -> careers@whippy.ai  (Whippy)  [Software Engineer]
+  -> careers@wufoo.com  (Wufoo)  [Software Engineer]
+[1/30] sent  careers@activecampaign.com  [emailll_proof.txt]
+    waiting 81s...
+[2/30] sent  careers@beyond.com  [emailll_frontend.txt]
+    waiting 90s...
+[3/30] sent  careers@brighte.com.au  [emailll_agent.txt]
+    waiting 77s...
+[4/30] sent  careers@bugsnag.com  [emailll_backend.txt]
+    waiting 96s...
+[5/30] sent  careers@entefy.com  [emailll_proof.txt]
+    waiting 82s...
+[6/30] sent  careers@genesys.com  [emailll_frontend.txt]
+    waiting 94s...
+[7/30] sent  careers@geonetric.com  [emailll_agent.txt]
+    waiting 113s...
+[8/30] sent  talent@grove.co  [emailll_backend.txt]
+    waiting 100s...
+[9/30] sent  careers@lightstep.com  [emailll_proof.txt]
+    waiting 91s...
+[10/30] sent  careers@magento.com  [emailll_frontend.txt]
+    waiting 89s...
+[11/30] sent  careers@mlabs.com.br  [emailll_agent.txt]
+    waiting 88s...
+[12/30] sent  careers@nearform.com  [emailll_backend.txt]
+    waiting 93s...
+[13/30] sent  careers@nearmap.com  [emailll_proof.txt]
+    waiting 100s...
+[14/30] sent  careers@nexturn.com  [emailll_frontend.txt]
+    waiting 91s...
+[15/30] sent  careers@one10.co  [emailll_agent.txt]
+    waiting 78s...
+[16/30] sent  careers@redis.com  [emailll_backend.txt]
+    waiting 108s...
+[17/30] sent  careers@seekout.com  [emailll_proof.txt]
+    waiting 95s...
+[18/30] sent  careers@semble.io  [emailll_frontend.txt]
+    waiting 83s...
+[19/30] sent  careers@sinch.com  [emailll_agent.txt]
+    waiting 80s...
+[20/30] sent  careers@smartbear.com  [emailll_backend.txt]
+    waiting 110s...
+[21/30] sent  careers@stackadapt.com  [emailll_proof.txt]
+    waiting 104s...
+[22/30] sent  careers@starlingbank.com  [emailll_frontend.txt]
+    waiting 93s...
+[23/30] sent  careers@stoplight.io  [emailll_agent.txt]
+    waiting 113s...
+[24/30] sent  careers@surveymonkey.com  [emailll_backend.txt]
+    waiting 77s...
+[25/30] sent  careers@swagger.io  [emailll_proof.txt]
+    waiting 96s...
+[26/30] sent  hr@techavidus.com  [emailll_frontend.txt]
+    waiting 84s...
+[27/30] sent  careers@tradepending.com  [emailll_agent.txt]
+    waiting 113s...
+[28/30] sent  careers@valvesoftware.com  [emailll_backend.txt]
+    waiting 89s...
+[29/30] sent  careers@whippy.ai  [emailll_proof.txt]
+    waiting 77s...
+[30/30] sent  careers@wufoo.com  [emailll_frontend.txt]
+Done. Log: /home/sleepwellsystem/Desktop/codet-webb/outreach/sent_log.csv

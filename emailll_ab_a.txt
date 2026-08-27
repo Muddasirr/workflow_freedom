@@ -1,6 +1,6 @@
 {greeting}
 
-{opening}I ship product UI and AI tooling at Codet.ai (Next.js, React, TypeScript): a no-code builder with a trigger → condition → action canvas, plus an in-app assistant next to the editor.
+{opening}I ship product UI and AI tooling at Codet.ai (Next.js, React, TypeScript): a no-code builder with a trigger → condition → action canvas, plus an in-app assistant.
 
 One proof: AutoCloudEngineerAgent — proposes infra, deploys only to a Kubernetes canary, benches it, then rejects, rolls back, or promotes.
 

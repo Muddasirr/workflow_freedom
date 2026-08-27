@@ -1,0 +1,21 @@
+From: muddasirrizwan9@gmail.com
+Auth: smtp
+Letters (4): emailll_proof.txt, emailll_frontend.txt, emailll_agent.txt, emailll_backend.txt
+Resume: /home/sleepwellsystem/Desktop/codet-webb/Muhammad_Muddasir_Resume.pdf
+Queued: 5  (already sent emails: 1090, companies: 1035, dead skipped: 0, sent today: 1/10)
+
+  -> hr@smartworking.io  (Smart Working)  [Full-Stack Engineer]
+  -> sarita.sakhare@itpeoplegulf.com  (IT People Gulf)  [Software Engineer]
+  -> hr@innovoriasoft.com  (Innovoria Soft)  [Software Engineer]
+  -> info@theneosolutions.com  (Neo Solutions)  [Software Engineer]
+  -> mgupta@trueigtech.com  (True IG Tech)  [Software Engineer]
+[1/5] sent  hr@smartworking.io  [emailll_proof.txt]
+    waiting 114s...
+[2/5] sent  sarita.sakhare@itpeoplegulf.com  [emailll_frontend.txt]
+    waiting 81s...
+[3/5] sent  hr@innovoriasoft.com  [emailll_agent.txt]
+    waiting 97s...
+[4/5] sent  info@theneosolutions.com  [emailll_backend.txt]
+    waiting 96s...
+[5/5] sent  mgupta@trueigtech.com  [emailll_proof.txt]
+Done. Log: /home/sleepwellsystem/Desktop/codet-webb/outreach/sent_log.csv

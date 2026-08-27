@@ -72,6 +72,7 @@ def collect_jobs(
     karachi_only: bool = False,
     pakistan_friendly_only: bool = False,
     include_restricted: bool = False,
+    scrape_emails: bool = True,
 ) -> list[Job]:
     print("Fetching job boards…", flush=True)
     client = HttpClient()
@@ -100,6 +101,9 @@ def collect_jobs(
                 best[key] = job
         scored = sorted(best.values(), key=lambda j: (-j.score, j.company.lower()))
         print(f"  Matching 0–2 year / junior-friendly roles: {len(scored)}", flush=True)
+
+        if not scrape_emails:
+            return scored
 
         if hunter.enabled:
             print("Looking up published HR emails via Hunter.io…", flush=True)

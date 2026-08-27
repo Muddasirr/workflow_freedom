@@ -1,0 +1,56 @@
+targets 180
+  [11] HIT Code Ninety                  info@codeninety.com
+  [14] HIT Elixir Technologies          peterdoe@elixirtech.com
+  [16] HIT Meezan Bank                  faiza.sajjad@meezanbank.com
+  [22] HIT Tkxel                        info@tkxel.com
+  [23] HIT HBL                          fasihrehman.pep@hbl.com
+  [25] HIT Bank Alfalah                 atif.sarwar@bankalfalah.com
+  [27] HIT M&P                          contact@mulphilog.com
+  [30/180] cand=7
+  [43] HIT Swvl                         business@swvl.com
+  [50] HIT PayTabs                      uaesales@paytabs.com
+  [53] HIT Emirates Group IT            buerrek2@emirates.com
+  [60/180] cand=10
+  [63] HIT QatarEnergy Digital          speakup@qatarenergy.qa
+  [80] HIT Starzplay                    u003esupport@starzplay.com
+  [90/180] cand=12
+  [119] HIT PatSnap                      demo-inquiry@patsnap.com
+  [120/180] cand=13
+  [122] HIT SDAIA                        info@sdaia.gov.sa
+  [137] HIT Ziina                        partnerships@ziina.com
+  [141] HIT PayTabs                      uaesales@paytabs.com
+  [148] HIT STC Bank                     info@stcbank.com.sa
+  [149] HIT Secretlab                    u003e@secretlab.co
+  [150/180] cand=17
+  [152] HIT Razer                        razerstore.atx@razer.com
+  [162] HIT Monday.com                   u003esupport@monday.com
+  [163] HIT Lightricks                   talentteam@lightricks.com
+  [171] HIT Advance.AI                   marketing@advance.ai
+  [173] HIT Lazada                       lazada-tech-infra@lazada.com
+  [180/180] cand=22
+candidates 22 SMTP…
+  SMTP NO  [1] info@codeninety.com                        Code Ninety        cache invalid
+  SMTP NO  [2] peterdoe@elixirtech.com                    Elixir Technologie cache catch-all
+  SMTP NO  [3] faiza.sajjad@meezanbank.com                Meezan Bank        cache catch-all
+  SMTP NO  [4] info@tkxel.com                             Tkxel              catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK ff
+  SMTP NO  [5] fasihrehman.pep@hbl.com                    HBL                cache probe-blocked
+  SMTP NO  [6] atif.sarwar@bankalfalah.com                Bank Alfalah       cache catch-all
+  SMTP NO  [7] contact@mulphilog.com                      M&P                cache probe-blocked
+  SMTP NO  [8] business@swvl.com                          Swvl               cache catch-all
+  SMTP NO  [9] uaesales@paytabs.com                       PayTabs            cache probe-blocked
+  SMTP NO  [10] buerrek2@emirates.com                      Emirates Group IT  cache probe-blocked
+  SMTP NO  [11] speakup@qatarenergy.qa                     QatarEnergy Digita cache reject
+  SMTP NO  [12] u003esupport@starzplay.com                 Starzplay          cache catch-all
+  SMTP NO  [13] demo-inquiry@patsnap.com                   PatSnap            cache probe-blocked
+  SMTP NO  [14] info@sdaia.gov.sa                          SDAIA              cache probe-blocked
+  SMTP NO  [15] partnerships@ziina.com                     Ziina              cache catch-all
+  SMTP NO  [16] info@stcbank.com.sa                        STC Bank           cache invalid
+  SMTP NO  [17] u003e@secretlab.co                         Secretlab          cache invalid
+  SMTP NO  [18] razerstore.atx@razer.com                   Razer              cache probe-blocked
+  SMTP NO  [19] u003esupport@monday.com                    Monday.com         catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK 5b
+  SMTP NO  [20] talentteam@lightricks.com                  Lightricks         catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK ff
+  SMTP OK [21] marketing@advance.ai                       Advance.AI         mx1.larksuite.com rcpt 250 b'2.1.5 Ok' | fake:mx1.larks
+  SMTP OK [22] lazada-tech-infra@lazada.com               Lazada             mx1.alibaba-inc.com rcpt 250 b'Rcpt Ok' | fake:mx1.alib
+READY 2 -> /home/sleepwellsystem/Desktop/codet-webb/output/emails_pk_more_2026-08-20.csv
+  SENDABLE marketing@advance.ai (Advance.AI)
+  SENDABLE lazada-tech-infra@lazada.com (Lazada)

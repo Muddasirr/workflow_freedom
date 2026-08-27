@@ -1,0 +1,11 @@
+Hi Bolanle,
+
+Sharing my CV for full-stack / AI-adjacent engineering roles (React, Next.js, TypeScript, Node/Python, LLM workflows).
+
+I ship product UI at Codet.ai — no-code canvas + in-app AI assistant — and built AutoCloudEngineerAgent (LangGraph): canary-only K8s deploys with reject / rollback / promote.
+
+Portfolio: muddasirrizwan.com
+Resume attached. Based in Karachi, open to remote. Happy to discuss fit for any active roles.
+
+Muhammad Muddasir
++92-3249867842 · muddasirrizwan9@gmail.com · muddasirrizwan.com

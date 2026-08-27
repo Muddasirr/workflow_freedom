@@ -1,0 +1,509 @@
+targets 260
+  [1] HIT Paktor                       careers@paktor.com
+  [2] HIT PatSnap                      careers@patsnap.com
+  [3] HIT ShopBack                     careers@shopback.com
+  [4] HIT FinAccel                     careers@finaccel.com
+  [5] HIT MatchMove                    careers@matchmove.com
+  [6] HIT Circles.Life                 careers@circles.life
+  [7] HIT Atome                        careers@atome.sg
+  [8] HIT Carro                        careers@carro.co
+  [9] HIT PropertyGuru                 careers@propertyguru.com
+  [10] HIT Razer                        careers@razer.com
+  [11] HIT Foodpanda APAC               careers@foodpanda.com
+  [12] HIT Secretlab                    careers@secretlab.co
+  [13] HIT Zalora                       careers@zalora.com
+  [14] HIT Validus                      careers@validus.sg
+  [15] HIT Deputy                       careers@deputy.com
+  [16] HIT Advance.AI                   careers@advance.ai
+  [17] HIT Campaign Monitor             careers@campaignmonitor.com
+  [18] HIT Fazz                         careers@fazz.com
+  [19] HIT Wisetech Global              careers@wisetechglobal.com
+  [20] HIT StraitsX                     careers@straitsx.com
+  [21] HIT Culture Amp                  careers@cultureamp.com
+  [22] HIT Airwallex                    careers@airwallex.com
+  [23] HIT Expert360                    careers@expert360.com
+  [24] HIT TechnologyOne                careers@technologyonecorp.com
+  [25] HIT SEEK                         careers@seek.com.au
+  [26] HIT Afterpay                     careers@afterpay.com
+  [27] HIT REA Group                    careers@rea-group.com
+  [28] HIT SafetyCulture                careers@safetyculture.com
+  [29] HIT Lazada                       careers@lazada.com
+  [30] HIT Employment Hero              careers@employmenthero.com
+  [31] HIT Culture Amp AU               careers@cultureamp.com
+  [32] HIT Linktree                     careers@linktr.ee
+  [33] HIT Linktree AU                  careers@linktr.ee
+  [34] HIT Zip Co                       careers@zip.co
+  [35] HIT Campaign Monitor AU          careers@campaignmonitor.com
+  [36] HIT SafetyCulture AU             careers@safetyculture.com
+  [37] HIT NextDC                       careers@nextdc.com
+  [38] HIT Deputy AU                    careers@deputy.com
+  [39] HIT Airwallex AU                 careers@airwallex.com
+  [40] HIT MYOB                         careers@myob.com
+  [41] HIT Expert360 AU                 careers@expert360.com
+  [42] HIT Wisetech AU                  careers@wisetechglobal.com
+  [43] HIT TechnologyOne AU             careers@technologyonecorp.com
+  [44] HIT SEEK AU                      careers@seek.com.au
+  [45] HIT BambooHR                     careers@bamboohr.com
+  [46] HIT Envato                       careers@envato.com
+  [47] HIT Envato AU                    careers@envato.com
+  [48] HIT NextDC AU                    careers@nextdc.com
+  [49] HIT Zip AU                       careers@zip.co
+  [50] HIT Employment Hero AU           careers@employmenthero.com
+  [51] HIT Afterpay AU                  careers@afterpay.com
+  [52] HIT Substack                     careers@substack.com
+  [53] HIT MYOB AU                      careers@myob.com
+  [54] HIT REA Group AU                 careers@rea-group.com
+  [55] HIT Loops                        careers@loops.so
+  [56] HIT Directus                     careers@directus.io
+  [57] HIT Xero AU                      careers@xero.com
+  [58] HIT Beehiiv                      careers@beehiiv.com
+  [59] HIT Basecamp                     careers@basecamp.com
+  [60] HIT PlanetScale                  careers@planetscale.com
+  [61] HIT ConvertKit                   careers@convertkit.com
+  [62] HIT Freshworks                   careers@freshworks.com
+  [63] HIT Postman                      careers@postman.com
+  [64] HIT Appwrite                     careers@appwrite.io
+  [65] HIT Hasura                       careers@hasura.io
+  [66] HIT Zoho                         careers@zoho.com
+  [67] HIT Railway                      careers@railway.app
+  [68] HIT Clay                         careers@clay.com
+  [69] HIT Xero Australia               careers@xero.com
+  [70] HIT Sentry                       careers@sentry.io
+  [71] HIT OpenStatus                   careers@openstatus.dev
+  [72] HIT Modal                        careers@modal.com
+  [73] HIT Lovable                      careers@lovable.dev
+  [74] HIT Ashby                        careers@ashbyhq.com
+  [75] HIT Tailscale                    careers@tailscale.com
+  [76] HIT Coda                         careers@coda.io
+  [77] HIT Netlify                      careers@netlify.com
+  [78] HIT Liveblocks                   careers@liveblocks.io
+  [79] HIT Replicate                    careers@replicate.com
+  [80] HIT Carsales                     careers@carsales.com.au
+  [81] HIT Deel                         careers@deel.com
+  [82] HIT Formbricks                   careers@formbricks.com
+  [83] HIT New Relic                    careers@newrelic.com
+  [84] HIT AppSmith                     careers@appsmith.com
+  [85] HIT PagerDuty                    careers@pagerduty.com
+  [86] HIT Twenty                       careers@twenty.com
+  [87] HIT NocoDB                       careers@nocodb.com
+  [88] HIT Trigger.dev                  careers@trigger.dev
+  [89] HIT Sourcegraph                  careers@sourcegraph.com
+  [90] HIT Carsales AU                  careers@carsales.com.au
+  [91] HIT Bitwarden                    careers@bitwarden.com
+  [92] HIT Chronosphere                 careers@chronosphere.io
+  [93] HIT Mailgun                      careers@mailgun.com
+  [94] HIT Linode                       careers@linode.com
+  [95] HIT Novu                         careers@novu.co
+  [96] HIT Customer.io                  careers@customer.io
+  [97] HIT Asana                        careers@asana.com
+  [98] HIT MoEngage                     careers@moengage.com
+  [99] HIT FullStory                    careers@fullstory.com
+  [100] HIT Fastly                       careers@fastly.com
+  [101] HIT Excalidraw                   careers@excalidraw.com
+  [102] HIT Cloudinary                   careers@cloudinary.com
+  [103] HIT Vultr                        careers@vultr.com
+  [104] HIT Height                       careers@height.app
+  [105] HIT Softr                        careers@softr.io
+  [106] HIT Census                       careers@getcensus.com
+  [107] HIT Fivetran                     careers@fivetran.com
+  [108] HIT dbt Labs                     careers@getdbt.com
+  [109] HIT Codecov                      careers@codecov.io
+  [110] HIT Gitea                        careers@gitea.com
+  [111] HIT Crisp                        careers@crisp.chat
+  [112] HIT Airbyte                      careers@airbyte.com
+  [113] HIT Mixpanel                     careers@mixpanel.com
+  [114] HIT AssemblyAI                   careers@assemblyai.com
+  [115] HIT RudderStack                  careers@rudderstack.com
+  [116] HIT Anyscale                     careers@anyscale.com
+  [117] HIT Comet ML                     careers@comet.com
+  [118] HIT RunPod                       careers@runpod.io
+  [119] HIT Figma                        careers@figma.com
+  [120] HIT Weights & Biases             careers@wandb.ai
+  [121] HIT Traveloka                    careers@traveloka.com
+  [122] HIT Marqeta                      careers@marqeta.com
+  [123] HIT Observable                   careers@observablehq.com
+  [124] HIT Labelbox                     careers@labelbox.com
+  [125] HIT Together AI                  careers@together.ai
+  [126] HIT Midtrans                     careers@midtrans.com
+  [127] HIT Xendit                       careers@xendit.co
+  [128] HIT Hex                          careers@hex.tech
+  [129] HIT Ajaib                        careers@ajaib.co.id
+  [130] HIT Metronome                    careers@metronome.com
+  [131] HIT Modern Treasury              careers@moderntreasury.com
+  [132] HIT Groww                        careers@groww.in
+  [133] HIT Increase                     careers@increase.com
+  [134] HIT GoTo                         careers@gotocompany.com
+  [135] HIT Mode Analytics               careers@mode.com
+  [136] HIT Payload                      careers@payloadcms.com
+  [137] HIT Baremetrics                  careers@baremetrics.com
+  [138] HIT Unit Finance                 careers@unit.co
+  [139] HIT Meesho                       careers@meesho.com
+  [140] HIT Icertis                      careers@icertis.com
+  [141] HIT Orb                          careers@withorb.com
+  [142] HIT LogRocket                    careers@logrocket.com
+  [143] HIT Fathom Analytics             careers@usefathom.com
+  [144] HIT Lalamove                     careers@lalamove.com
+  [145] HIT Buttondown                   careers@buttondown.com
+  [146] HIT Prefect                      careers@prefect.io
+  [147] HIT ClickHouse                   careers@clickhouse.com
+  [148] HIT Reclaim                      careers@reclaim.ai
+  [149] HIT Persistent                   careers@persistent.com
+  [150] HIT Druva                        careers@druva.com
+  [151] HIT Swiggy                       careers@swiggy.com
+  [152] HIT Gumroad                      careers@gumroad.com
+  [153] HIT Fillout                      careers@fillout.com
+  [154] HIT Zomato                       careers@zomato.com
+  [155] HIT Statsig                      careers@statsig.com
+  [156] HIT Dagster                      careers@dagster.io
+  [157] HIT OakNorth                     careers@oaknorth.com
+  [158] HIT SavvyCal                     careers@savvycal.com
+  [159] HIT Pipedream                    careers@pipedream.com
+  [160] HIT Motion                       careers@usemotion.com
+  [161] HIT Skyscanner                   careers@skyscanner.net
+  [162] HIT Featurespace                 careers@featurespace.com
+  [163] HIT Kraken                       careers@kraken.com
+  [164] HIT Curve                        careers@curve.com
+  [165] HIT Segment                      careers@segment.com
+  [166] HIT Thought Machine              careers@thoughtmachine.net
+  [167] HIT Calendly                     careers@calendly.com
+  [168] HIT Paddle                       careers@paddle.com
+  [169] HIT Faculty                      careers@faculty.ai
+  [170] HIT Darktrace                    careers@darktrace.com
+  [171] HIT SumUp                        careers@sumup.com
+  [172] HIT Trainline                    careers@thetrainline.com
+  [173] HIT Just Eat Takeaway            careers@justeattakeaway.com
+  [174] HIT GetYourGuide                 careers@getyourguide.com
+  [175] HIT Flix                         careers@flix.com
+  [176] HIT Zalando                      careers@zalando.com
+  [177] HIT Trade Republic               careers@traderepublic.com
+  [178] HIT HelloFresh                   careers@hellofresh.com
+  [179] HIT Deliveroo                    careers@deliveroo.com
+  [180] HIT Criteo                       careers@criteo.com
+  [181] HIT Wefox                        careers@wefox.com
+  [182] HIT Zepz                         careers@zepz.com
+  [183] HIT Contentful                   careers@contentful.com
+  [184] HIT ManoMano                     careers@manomano.com
+  [185] HIT WeTransfer                   careers@wetransfer.com
+  [186] HIT Adyen                        careers@adyen.com
+  [187] HIT Photoroom                    careers@photoroom.com
+  [188] HIT Mistral AI                   careers@mistral.ai
+  [189] HIT Bird                         careers@bird.com
+  [190] HIT Miro                         careers@miro.com
+  [191] HIT GoCardless                   careers@gocardless.com
+  [192] HIT Typeform                     careers@typeform.com
+  [193] HIT Backbase                     careers@backbase.com
+  [194] HIT Ledger                       careers@ledger.com
+  [195] HIT Habitissimo                  careers@habitissimo.com
+  [196] HIT Spendesk                     careers@spendesk.com
+  [197] HIT CoverManager                 careers@covermanager.com
+  [198] HIT Swile                        careers@swile.co
+  [199] HIT OVHcloud                     careers@ovhcloud.com
+  [200] HIT Wallapop                     careers@wallapop.com
+  [201] HIT Dataiku                      careers@dataiku.com
+  [202] HIT Holded                       careers@holded.com
+  [203] HIT TravelPerk                   careers@travelperk.com
+  [204] HIT Glovo                        careers@glovoapp.com
+  [205] HIT Clarity AI                   careers@clarity.ai
+  [206] HIT Picnic                       careers@picnic.app
+  [207] HIT Yolo Group                   careers@yolo-insurance.com
+  [208] HIT Tractable                    careers@tractable.ai
+  [209] HIT Idealista                    careers@idealista.com
+  [210] HIT Capchase                     careers@capchase.com
+  [211] HIT MutuiOnline                  careers@mutuionline.it
+  [212] HIT Scalapay                     careers@scalapay.com
+  [213] HIT Genially                     careers@genial.ly
+  [214] HIT TeamSystem                   careers@teamsystem.com
+  [215] HIT Fever                        careers@feverup.com
+  [216] HIT DoveVado / Moovit IT         careers@moovit.com
+  [217] HIT Klarna                       careers@klarna.com
+  [218] HIT Bizum                        careers@bizum.es
+  [219] HIT Trustpilot                   careers@trustpilot.com
+  [220] HIT Scaleway                     careers@scaleway.com
+  [221] HIT Young Platform               careers@youngplatform.com
+  [222] HIT Epidemic Sound               careers@epidemicsound.com
+  [223] HIT VueStorefront / Alokai       careers@alokai.com
+  [224] HIT Fiscozen                     careers@fiscozen.it
+  [225] HIT Zettle                       careers@zettle.com
+  [226] HIT Lunar                        careers@lunar.app
+  [227] HIT Farfetch                     careers@farfetch.com
+  [228] HIT Contents.com                 careers@contents.com
+  [229] HIT Veriff                       careers@veriff.com
+  [230] HIT Unbabel                      careers@unbabel.com
+  [231] HIT Smartly                      careers@smartly.io
+  [232] HIT Pipedrive                    careers@pipedrive.com
+  [233] HIT Nexthink                     careers@nexthink.com
+  [234] HIT Oda                          careers@oda.com
+  [235] HIT Talkdesk                     careers@talkdesk.com
+  [236] HIT Visma                        careers@visma.com
+  [237] HIT ICEYE                        careers@iceye.com
+  [238] HIT Supermetrics                 careers@supermetrics.com
+  [239] HIT Too Good To Go               careers@toogoodtogo.com
+  [240] HIT Wolt                         careers@wolt.com
+  [241] HIT eMAG                         careers@emag.ro
+  [242] HIT GitBook                      careers@gitbook.com
+  [243] HIT JetBrains                    careers@jetbrains.com
+  [244] HIT Toggl                        careers@toggl.com
+  [245] HIT Kahoot                       careers@kahoot.com
+  [246] HIT Bitstamp                     careers@bitstamp.net
+  [247] HIT Synthesia                    careers@synthesia.io
+  [248] HIT Ghost                        careers@ghost.org
+  [249] HIT Payhawk                      careers@payhawk.com
+  [250] HIT Trading 212                  careers@trading212.com
+  [251] HIT Bitdefender                  careers@bitdefender.com
+  [252] HIT Prismic                      careers@prismic.io
+  [253] HIT DeepL                        careers@deepl.com
+  [254] HIT Stability AI                 careers@stability.ai
+  [255] HIT Strapi                       careers@strapi.io
+  [256] HIT eToro                        careers@etoro.com
+  [257] HIT HiBob                        careers@hibob.com
+  [258] HIT Milkman Technologies         careers@milkmantechnologies.com
+  [259] HIT Helbiz                       careers@helbiz.com
+  [260] HIT Tokopedia                    careers@tokopedia.com
+candidates 239 SMTP…
+  SMTP NO  [1] careers@paktor.com                         Paktor             cache probe-blocked
+  SMTP NO  [2] careers@patsnap.com                        PatSnap            cache probe-blocked
+  SMTP NO  [3] careers@shopback.com                       ShopBack           cache catch-all
+  SMTP NO  [4] careers@finaccel.com                       FinAccel            [Errno -2] Name or service not known
+  SMTP OK [5] careers@matchmove.com                      MatchMove          soft-promoted: mx-01-eu-west-1.prod.hydra.sophos.com rc
+  SMTP NO  [6] careers@circles.life                       Circles.Life       cache invalid
+  SMTP NO  [7] careers@atome.sg                           Atome              cache invalid
+  SMTP NO  [8] careers@carro.co                           Carro              cache catch-all
+  SMTP OK [9] careers@propertyguru.com                   PropertyGuru       soft-promoted: propertyguru-com.mail.protection.outlook
+  SMTP OK [10] careers@razer.com                          Razer              soft-promoted: razer-com.mail.protection.outlook.com rc
+  SMTP NO  [11] careers@foodpanda.com                      Foodpanda APAC     cache catch-all
+  SMTP NO  [12] careers@secretlab.co                       Secretlab          cache invalid
+  SMTP NO  [13] careers@zalora.com                         Zalora             cache catch-all
+  SMTP NO  [14] careers@validus.sg                         Validus            cache catch-all
+  SMTP NO  [15] careers@deputy.com                         Deputy             cache catch-all
+  SMTP NO  [16] careers@advance.ai                         Advance.AI         cache invalid
+  SMTP NO  [17] careers@campaignmonitor.com                Campaign Monitor   cache catch-all
+  SMTP NO  [18] careers@fazz.com                           Fazz               cache invalid
+  SMTP NO  [19] careers@wisetechglobal.com                 Wisetech Global    cache catch-all
+  SMTP NO  [20] careers@straitsx.com                       StraitsX           cache invalid
+  SMTP NO  [21] careers@cultureamp.com                     Culture Amp        cache invalid
+  SMTP NO  [22] careers@airwallex.com                      Airwallex          cache invalid
+  SMTP NO  [23] careers@expert360.com                      Expert360          cache catch-all
+  SMTP NO  [24] careers@technologyonecorp.com              TechnologyOne      catch-all mx: technologyonecorp-com.mail.protection.out
+  SMTP NO  [25] careers@seek.com.au                        SEEK               cache invalid
+  SMTP NO  [26] careers@afterpay.com                       Afterpay           cache catch-all
+  SMTP OK [27] careers@rea-group.com                      REA Group          soft-promoted: reagroup-com0i.mail.protection.outlook.c
+  SMTP NO  [28] careers@safetyculture.com                  SafetyCulture      cache catch-all
+  SMTP NO  [29] careers@lazada.com                         Lazada             cache invalid
+  SMTP NO  [30] careers@employmenthero.com                 Employment Hero    cache catch-all
+  SMTP NO  [31] careers@linktr.ee                          Linktree           cache catch-all
+  SMTP NO  [32] careers@zip.co                             Zip Co             cache catch-all
+  SMTP NO  [33] careers@nextdc.com                         NextDC             catch-all mx: nextdc-com.mail.protection.outlook.com rc
+  SMTP OK [34] careers@myob.com                           MYOB               soft-promoted: au-smtp-inbound-1.mimecast.com rcpt 550 
+  SMTP NO  [35] careers@bamboohr.com                       BambooHR           cache reject
+  SMTP NO  [36] careers@envato.com                         Envato             cache catch-all
+  SMTP NO  [37] careers@substack.com                       Substack           catch-all mx: mxa.mailgun.org rcpt 250 b'Recipient addr
+  SMTP NO  [38] careers@loops.so                           Loops              cache catch-all
+  SMTP NO  [39] careers@directus.io                        Directus           cache catch-all
+  SMTP NO  [40] careers@xero.com                           Xero AU            cache catch-all
+  SMTP NO  [41] careers@beehiiv.com                        Beehiiv            cache reject
+  SMTP NO  [42] careers@basecamp.com                       Basecamp           cache catch-all
+  SMTP NO  [43] careers@planetscale.com                    PlanetScale        cache catch-all
+  SMTP NO  [44] careers@convertkit.com                     ConvertKit         cache invalid
+  SMTP NO  [45] careers@freshworks.com                     Freshworks         cache catch-all
+  SMTP NO  [46] careers@postman.com                        Postman            cache catch-all
+  SMTP NO  [47] careers@appwrite.io                        Appwrite           cache invalid
+  SMTP NO  [48] careers@hasura.io                          Hasura             cache catch-all
+  SMTP NO  [49] careers@zoho.com                           Zoho               cache probe-blocked
+  SMTP NO  [50] careers@railway.app                        Railway            cache catch-all
+  SMTP NO  [51] careers@clay.com                           Clay               cache catch-all
+  SMTP NO  [52] careers@sentry.io                          Sentry             cache catch-all
+  SMTP NO  [53] careers@openstatus.dev                     OpenStatus         cache catch-all
+  SMTP NO  [54] careers@modal.com                          Modal              cache reject
+  SMTP NO  [55] careers@lovable.dev                        Lovable            cache invalid
+  SMTP NO  [56] careers@ashbyhq.com                        Ashby              cache catch-all
+  SMTP NO  [57] careers@tailscale.com                      Tailscale          cache catch-all
+  SMTP NO  [58] careers@coda.io                            Coda               cache catch-all
+  SMTP NO  [59] careers@netlify.com                        Netlify            cache catch-all
+  SMTP NO  [60] careers@liveblocks.io                      Liveblocks         cache catch-all
+  SMTP NO  [61] careers@replicate.com                      Replicate          cache catch-all
+  SMTP NO  [62] careers@carsales.com.au                    Carsales           cache probe-blocked
+  SMTP NO  [63] careers@deel.com                           Deel               cache catch-all
+  SMTP NO  [64] careers@formbricks.com                     Formbricks         cache invalid
+  SMTP NO  [65] careers@newrelic.com                       New Relic          cache catch-all
+  SMTP NO  [66] careers@appsmith.com                       AppSmith           cache reject
+  SMTP NO  [67] careers@pagerduty.com                      PagerDuty          cache catch-all
+  SMTP NO  [68] careers@twenty.com                         Twenty             cache catch-all
+  SMTP NO  [69] careers@nocodb.com                         NocoDB             cache catch-all
+  SMTP NO  [70] careers@trigger.dev                        Trigger.dev        cache catch-all
+  SMTP NO  [71] careers@sourcegraph.com                    Sourcegraph        cache catch-all
+  SMTP NO  [72] careers@bitwarden.com                      Bitwarden          cache reject
+  SMTP NO  [73] careers@chronosphere.io                    Chronosphere       cache invalid
+  SMTP OK [74] careers@mailgun.com                        Mailgun            soft-promoted: mailgun-com.mail.protection.outlook.com 
+  SMTP NO  [75] careers@linode.com                         Linode             cache catch-all
+  SMTP NO  [76] careers@novu.co                            Novu               cache catch-all
+  SMTP NO  [77] careers@customer.io                        Customer.io        cache catch-all
+  SMTP NO  [78] careers@asana.com                          Asana              cache catch-all
+  SMTP NO  [79] careers@moengage.com                       MoEngage           cache catch-all
+  SMTP NO  [80] careers@fullstory.com                      FullStory          cache catch-all
+  SMTP NO  [81] careers@fastly.com                         Fastly             cache catch-all
+  SMTP NO  [82] careers@excalidraw.com                     Excalidraw         cache catch-all
+  SMTP NO  [83] careers@cloudinary.com                     Cloudinary         cache catch-all
+  SMTP NO  [84] careers@vultr.com                          Vultr              cache catch-all
+  SMTP NO  [85] careers@height.app                         Height             cache catch-all
+  SMTP NO  [86] careers@softr.io                           Softr              cache catch-all
+  SMTP NO  [87] careers@getcensus.com                      Census             cache catch-all
+  SMTP NO  [88] careers@fivetran.com                       Fivetran           cache catch-all
+  SMTP NO  [89] careers@getdbt.com                         dbt Labs           cache catch-all
+  SMTP NO  [90] careers@codecov.io                         Codecov            cache invalid
+  SMTP NO  [91] careers@gitea.com                          Gitea              cache catch-all
+  SMTP NO  [92] careers@crisp.chat                         Crisp              mail-from 530 b'5.7.0 Must issue a STARTTLS command fir
+  SMTP NO  [93] careers@airbyte.com                        Airbyte            cache catch-all
+  SMTP NO  [94] careers@mixpanel.com                       Mixpanel           cache catch-all
+  SMTP NO  [95] careers@assemblyai.com                     AssemblyAI         cache catch-all
+  SMTP NO  [96] careers@rudderstack.com                    RudderStack        cache catch-all
+  SMTP NO  [97] careers@anyscale.com                       Anyscale           cache catch-all
+  SMTP NO  [98] careers@comet.com                          Comet ML           cache catch-all
+  SMTP NO  [99] careers@runpod.io                          RunPod             cache catch-all
+  SMTP NO  [100] careers@figma.com                          Figma              cache invalid
+  SMTP NO  [101] careers@wandb.ai                           Weights & Biases   cache catch-all
+  SMTP NO  [102] careers@traveloka.com                      Traveloka          cache catch-all
+  SMTP NO  [103] careers@marqeta.com                        Marqeta            cache reject
+  SMTP NO  [104] careers@observablehq.com                   Observable         cache catch-all
+  SMTP NO  [105] careers@labelbox.com                       Labelbox           cache reject
+  SMTP NO  [106] careers@together.ai                        Together AI        cache catch-all
+  SMTP NO  [107] careers@midtrans.com                       Midtrans           cache catch-all
+  SMTP NO  [108] careers@xendit.co                          Xendit             cache reject
+  SMTP NO  [109] careers@hex.tech                           Hex                cache catch-all
+  SMTP NO  [110] careers@ajaib.co.id                        Ajaib              cache catch-all
+  SMTP NO  [111] careers@metronome.com                      Metronome          cache catch-all
+  SMTP NO  [112] careers@moderntreasury.com                 Modern Treasury    cache reject
+  SMTP NO  [113] careers@groww.in                           Groww              catch-all mx: mailstream-bom.mxrecord.mx rcpt 250 b'2.1
+  SMTP NO  [114] careers@increase.com                       Increase           cache catch-all
+  SMTP NO  [115] careers@gotocompany.com                    GoTo               cache catch-all
+  SMTP NO  [116] careers@mode.com                           Mode Analytics     cache invalid
+  SMTP NO  [117] careers@payloadcms.com                     Payload            cache invalid
+  SMTP NO  [118] careers@baremetrics.com                    Baremetrics        cache catch-all
+  SMTP NO  [119] careers@unit.co                            Unit Finance       cache catch-all
+  SMTP NO  [120] careers@meesho.com                         Meesho             cache reject
+  SMTP NO  [121] careers@icertis.com                        Icertis            catch-all mx: icertis-com.mail.protection.outlook.com r
+  SMTP NO  [122] careers@withorb.com                        Orb                cache catch-all
+  SMTP NO  [123] careers@logrocket.com                      LogRocket          cache catch-all
+  SMTP OK [124] careers@usefathom.com                      Fathom Analytics   soft-promoted: in1-smtp.messagingengine.com rcpt 554 b'
+  SMTP NO  [125] careers@lalamove.com                       Lalamove           cache reject
+  SMTP NO  [126] careers@buttondown.com                     Buttondown         route1.mx.cloudflare.net Connection unexpectedly closed
+  SMTP NO  [127] careers@prefect.io                         Prefect            cache catch-all
+  SMTP NO  [128] careers@clickhouse.com                     ClickHouse         cache catch-all
+  SMTP NO  [129] careers@reclaim.ai                         Reclaim            cache invalid
+  SMTP NO  [130] careers@persistent.com                     Persistent         cache no-mx
+  SMTP NO  [131] careers@druva.com                          Druva              cache catch-all
+  SMTP NO  [132] careers@swiggy.com                         Swiggy             cache catch-all
+  SMTP NO  [133] careers@gumroad.com                        Gumroad            cache invalid
+  SMTP NO  [134] careers@fillout.com                        Fillout            cache catch-all
+  SMTP NO  [135] careers@zomato.com                         Zomato             cache no-mx
+  SMTP NO  [136] careers@statsig.com                        Statsig            cache invalid
+  SMTP NO  [137] careers@dagster.io                         Dagster            cache invalid
+  SMTP NO  [138] careers@oaknorth.com                       OakNorth           cache probe-blocked
+  SMTP NO  [139] careers@savvycal.com                       SavvyCal           cache catch-all
+  SMTP NO  [140] careers@pipedream.com                      Pipedream          cache catch-all
+  SMTP NO  [141] careers@usemotion.com                      Motion             cache catch-all
+  SMTP NO  [142] careers@skyscanner.net                     Skyscanner         cache probe-blocked
+  SMTP NO  [143] careers@featurespace.com                   Featurespace       cache probe-blocked
+  SMTP NO  [144] careers@kraken.com                         Kraken             cache catch-all
+  SMTP NO  [145] careers@curve.com                          Curve              cache probe-blocked
+  SMTP NO  [146] careers@segment.com                        Segment            cache catch-all
+  SMTP NO  [147] careers@thoughtmachine.net                 Thought Machine    cache reject
+  SMTP NO  [148] careers@calendly.com                       Calendly           cache catch-all
+  SMTP NO  [149] careers@paddle.com                         Paddle             catch-all mx: mailstream-eu1.mxrecord.io rcpt 250 b'2.1
+  SMTP NO  [150] careers@faculty.ai                         Faculty            cache reject
+  SMTP NO  [151] careers@darktrace.com                      Darktrace          cache catch-all
+  SMTP NO  [152] careers@sumup.com                          SumUp              cache invalid
+  SMTP NO  [153] careers@thetrainline.com                   Trainline          cache probe-blocked
+  SMTP NO  [154] careers@justeattakeaway.com                Just Eat Takeaway  cache catch-all
+  SMTP NO  [155] careers@getyourguide.com                   GetYourGuide       cache catch-all
+  SMTP NO  [156] careers@flix.com                           Flix               cache probe-blocked
+  SMTP NO  [157] careers@zalando.com                        Zalando            cache catch-all
+  SMTP NO  [158] careers@traderepublic.com                  Trade Republic     cache invalid
+  SMTP NO  [159] careers@hellofresh.com                     HelloFresh         cache catch-all
+  SMTP NO  [160] careers@deliveroo.com                      Deliveroo          cache catch-all
+  SMTP NO  [161] careers@criteo.com                         Criteo             cache probe-blocked
+  SMTP NO  [162] careers@zepz.com                           Zepz               mail.zepz.com [Errno -2] Name or service not known
+  SMTP NO  [163] careers@contentful.com                     Contentful         cache invalid
+  SMTP NO  [164] careers@manomano.com                       ManoMano           cache invalid
+  SMTP NO  [165] careers@wetransfer.com                     WeTransfer         cache reject
+  SMTP NO  [166] careers@adyen.com                          Adyen              cache catch-all
+  SMTP NO  [167] careers@photoroom.com                      Photoroom          cache invalid
+  SMTP NO  [168] careers@mistral.ai                         Mistral AI         cache catch-all
+  SMTP NO  [169] careers@bird.com                           Bird               cache catch-all
+  SMTP NO  [170] careers@miro.com                           Miro               cache invalid
+  SMTP NO  [171] careers@gocardless.com                     GoCardless         cache invalid
+  SMTP NO  [172] careers@typeform.com                       Typeform           cache invalid
+  SMTP NO  [173] careers@backbase.com                       Backbase           cache catch-all
+  SMTP NO  [174] careers@ledger.com                         Ledger             cache catch-all
+  SMTP NO  [175] careers@habitissimo.com                    Habitissimo        catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK ff
+  SMTP NO  [176] careers@spendesk.com                       Spendesk           cache invalid
+  SMTP NO  [177] careers@covermanager.com                   CoverManager       catch-all mx: ASPMX.L.GOOGLE.com rcpt 250 b'2.1.5 OK ff
+  SMTP NO  [178] careers@swile.co                           Swile              cache catch-all
+  SMTP NO  [179] careers@ovhcloud.com                       OVHcloud           cache probe-blocked
+  SMTP NO  [180] careers@wallapop.com                       Wallapop           cache invalid
+  SMTP NO  [181] careers@dataiku.com                        Dataiku            cache catch-all
+  SMTP NO  [182] careers@holded.com                         Holded             cache catch-all
+  SMTP NO  [183] careers@travelperk.com                     TravelPerk         cache catch-all
+  SMTP NO  [184] careers@glovoapp.com                       Glovo              cache catch-all
+  SMTP NO  [185] careers@clarity.ai                         Clarity AI         cache catch-all
+  SMTP NO  [186] careers@picnic.app                         Picnic             picnic.app timed out
+  SMTP NO  [187] careers@yolo-insurance.com                 Yolo Group         catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK 5b
+  SMTP NO  [188] careers@tractable.ai                       Tractable          cache invalid
+  SMTP NO  [189] careers@idealista.com                      Idealista          cache probe-blocked
+  SMTP NO  [190] careers@capchase.com                       Capchase           cache probe-blocked
+  SMTP NO  [191] careers@mutuionline.it                     MutuiOnline        cache probe-blocked
+  SMTP NO  [192] careers@scalapay.com                       Scalapay           cache catch-all
+  SMTP NO  [193] careers@genial.ly                          Genially           cache invalid
+  SMTP NO  [194] careers@teamsystem.com                     TeamSystem         cache no-mx
+  SMTP NO  [195] careers@feverup.com                        Fever              cache catch-all
+  SMTP NO  [196] careers@moovit.com                         DoveVado / Moovit  cache catch-all
+  SMTP NO  [197] careers@klarna.com                         Klarna             cache probe-blocked
+  SMTP NO  [198] careers@bizum.es                           Bizum              aspamyec.redsys.es Connection unexpectedly closed
+  SMTP NO  [199] careers@trustpilot.com                     Trustpilot         cache reject
+  SMTP NO  [200] careers@scaleway.com                       Scaleway           cache catch-all
+  SMTP NO  [201] careers@youngplatform.com                  Young Platform     cache catch-all
+  SMTP NO  [202] careers@epidemicsound.com                  Epidemic Sound     cache invalid
+  SMTP NO  [203] careers@alokai.com                         VueStorefront / Al cache catch-all
+  SMTP NO  [204] careers@fiscozen.it                        Fiscozen           cache catch-all
+  SMTP NO  [205] careers@zettle.com                         Zettle             catch-all mx: mx1.paypalcorp.com rcpt 250 b'recipient <
+  SMTP NO  [206] careers@lunar.app                          Lunar              cache invalid
+  SMTP NO  [207] careers@farfetch.com                       Farfetch           cache catch-all
+  SMTP NO  [208] careers@contents.com                       Contents.com       cache probe-blocked
+  SMTP NO  [209] careers@veriff.com                         Veriff             cache invalid
+  SMTP NO  [210] careers@unbabel.com                        Unbabel            cache no-mx
+  SMTP NO  [211] careers@smartly.io                         Smartly            cache catch-all
+  SMTP NO  [212] careers@pipedrive.com                      Pipedrive          cache invalid
+  SMTP NO  [213] careers@oda.com                            Oda                cache invalid
+  SMTP NO  [214] careers@talkdesk.com                       Talkdesk           cache invalid
+  SMTP NO  [215] careers@visma.com                          Visma              cache catch-all
+  SMTP NO  [216] careers@iceye.com                          ICEYE              cache invalid
+  SMTP NO  [217] careers@supermetrics.com                   Supermetrics       cache catch-all
+  SMTP NO  [218] careers@toogoodtogo.com                    Too Good To Go     cache reject
+  SMTP NO  [219] careers@wolt.com                           Wolt               cache reject
+  SMTP NO  [220] careers@emag.ro                            eMAG               cache reject
+  SMTP NO  [221] careers@gitbook.com                        GitBook            cache invalid
+  SMTP NO  [222] careers@jetbrains.com                      JetBrains          cache invalid
+  SMTP NO  [223] careers@toggl.com                          Toggl              cache invalid
+  SMTP NO  [224] careers@kahoot.com                         Kahoot             cache invalid
+  SMTP NO  [225] careers@bitstamp.net                       Bitstamp           cache catch-all
+  SMTP NO  [226] careers@synthesia.io                       Synthesia          cache catch-all
+  SMTP NO  [227] careers@ghost.org                          Ghost              cache reject
+  SMTP NO  [228] careers@payhawk.com                        Payhawk            cache reject
+  SMTP NO  [229] careers@trading212.com                     Trading 212        cache catch-all
+  SMTP NO  [230] careers@bitdefender.com                    Bitdefender        cache catch-all
+  SMTP NO  [231] careers@prismic.io                         Prismic            cache invalid
+  SMTP NO  [232] careers@deepl.com                          DeepL              cache catch-all
+  SMTP NO  [233] careers@stability.ai                       Stability AI       cache reject
+  SMTP NO  [234] careers@strapi.io                          Strapi             cache invalid
+  SMTP NO  [235] careers@etoro.com                          eToro              cache probe-blocked
+  SMTP NO  [236] careers@hibob.com                          HiBob              cache catch-all
+  SMTP NO  [237] careers@milkmantechnologies.com            Milkman Technologi no mx
+  SMTP NO  [238] careers@helbiz.com                         Helbiz             no mx
+  SMTP NO  [239] careers@tokopedia.com                      Tokopedia          mx1.bytedance.com rcpt 550 b'verify address failed, Use
+READY 7 -> /home/sleepwellsystem/Desktop/codet-webb/output/emails_go_sg_au_eu_2026-08-23.csv
+  careers@matchmove.com  MatchMove  [Singapore]
+  careers@propertyguru.com  PropertyGuru  [Singapore]
+  careers@razer.com  Razer  [Singapore]
+  careers@rea-group.com  REA Group  [Australia]
+  careers@myob.com  MYOB  [Australia]
+  careers@mailgun.com  Mailgun  [Remote]
+  careers@usefathom.com  Fathom Analytics  [Remote]

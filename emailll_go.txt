@@ -1,11 +1,10 @@
 {greeting}
 
-{opening}I’m Muhammad Muddasir, a software engineer at Codet.ai. I ship product UI in Next.js, React, and TypeScript, and I use Go for backend services and tooling when the work needs it. At Euronet I built Java payment APIs (ISO 8583, JWT auth, PostgreSQL).
+{opening}I ship product UI in Next.js, React, and TypeScript, and Go for backend services when needed. At Euronet I built Java payment APIs (ISO 8583, JWT, PostgreSQL).
 
-I also designed AutoCloudEngineerAgent: a control plane that proposes infra configs, deploys them only to a Kubernetes canary, benchmarks them, then rejects, rolls back, or recommends promotion.
+Also designed AutoCloudEngineerAgent: propose infra → canary-only K8s deploy → bench → reject / rollback / promote.
 
-{ask} Resume attached — more at muddasirrizwan.com. Based in Karachi, Pakistan, open to remote.
+{ask}
 
-Thanks,
 Muhammad Muddasir
-+92-3249867842 · muddasirrizwan9@gmail.com
++92-3249867842 · muddasirrizwan9@gmail.com · muddasirrizwan.com

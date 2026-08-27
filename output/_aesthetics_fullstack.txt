@@ -1,0 +1,17 @@
+Hi Aesthetics Digital team,
+
+Applying for: Senior Full-Stack Website Developer
+
+What I can do for you:
+I ship production web apps end-to-end — Next.js / React / TypeScript on the front, APIs and integrations on the back — with a bias for clean UI, speed, and AI-assisted workflows so delivery stays fast without looking generic.
+
+What I've built:
+At Codet.ai I shipped the product UI: a no-code builder (drag-and-drop canvas, trigger → condition → action) and an in-app AI assistant next to the editor. Users compose and debug flows in the UI.
+
+I also built AutoCloudEngineerAgent (LangGraph): an LLM control plane that proposes infra, deploys only to a Kubernetes canary, benches it, then rejects, rolls back, or promotes. I use AI daily for scaffolding, debugging, and shipping — then I own the review and production quality.
+
+Portfolio: muddasirrizwan.com
+Resume attached. Remote, available for the 5 PM–3 AM PKT shift. Open to a short call this week.
+
+Muhammad Muddasir
++92-3249867842 · muddasirrizwan9@gmail.com · muddasirrizwan.com

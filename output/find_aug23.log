@@ -1,0 +1,102 @@
+targets 220
+  [1] HIT BambooHR                     recruitingfraudalerts@bamboohr.com
+  [2] HIT Loops                        chris@loops.so
+  [3] HIT Substack                     recruiting@substackinc.com
+  [6] HIT Basecamp                     jason@basecamp.com
+  [9] HIT Postman                      info@postman.com
+  [12] HIT Freshworks                   careers@freshworks.com
+  [14] HIT OpenStatus                   ping@openstatus.dev
+  [17] HIT Formbricks                   hola@formbricks.com
+  [21] HIT Hasura                       build@hasura.io
+  [25] HIT Tailscale                    u003e@tailscale.com
+  [26] HIT Netlify                      fraud@netlify.com
+  [27] HIT New Relic                    resume@newrelic.com
+  [32] HIT Sourcegraph                  hi@sourcegraph.com
+  [36] HIT Customer.io                  win@customer.io
+  [40] HIT Asana                        x@mail.asana.com
+  [41] HIT Cloudinary                   hr.operations@cloudinary.com
+  [45] HIT Softr                        contact@softr.io
+  [62] HIT Marqeta                      notices@marqeta.com
+  [66] HIT Traveloka                    recruitment@traveloka.com
+  [69] HIT Xendit                       hr-global@xendit.co
+  [72] HIT Midtrans                     marketing@midtrans.com
+  [79] HIT Payload                      u003cinfo@payloadcms.com
+  [80/220] cand=22
+  [83] HIT Baremetrics                  hello@baremetrics.com
+  [85] HIT Icertis                      hroperations@icertis.com
+  [90] HIT Prefect                      careers@prefect.io
+  [95] HIT Reclaim                      careers@reclaim.ai
+  [98] HIT Dagster                      careers@prefect.io
+  [104] HIT Calendly                     callie@calendly.com
+  [120/220] cand=27
+  [132] HIT Mistral AI                   peter@mistral.ai
+  [136] HIT Typeform                     email@typeform.com
+  [139] HIT OVHcloud                     d9e77d2673834a0f83e8a881e42237a3@sentry.ovhcloud.com
+  [140] HIT CoverManager                 contacto@covermanager.com
+  [142] HIT Habitissimo                  soporte@habitissimo.com
+  [151] HIT Yolo Group                   assistenza@yolo-insurance.com
+  [154] HIT Young Platform               kyc@youngplatform.com
+  [160/220] cand=34
+  [167] HIT Epidemic Sound               hello@epidemicsound.com
+  [171] HIT Lunar                        hello@lunar.app
+  [173] HIT Pipedrive                    u003epress@pipedrive.com
+  [175] HIT Smartly                      agencycertification@smartly.io
+  [182] HIT Nexthink                     ncontact@nexthink.com
+  [183] HIT Strapi                       marketing@strapi.io
+  [197] HIT Prismic                      marketing@prismic.io
+  [200/220] cand=41
+  [201] HIT Vivaldi                      team_vivaldi@vivaldi.com
+  [202] HIT Trezor                       u003epartnerships@trezor.io
+  [203] HIT Nexo                         u003ebookings@nexo.com
+  [204] HIT Swan                         requisition@swan.io
+candidates 45 SMTP…
+  SMTP NO  [1] recruitingfraudalerts@bamboohr.com         BambooHR           cache catch-all
+  SMTP NO  [2] chris@loops.so                             Loops              cache catch-all
+  SMTP NO  [3] recruiting@substackinc.com                 Substack           cache catch-all
+  SMTP NO  [4] jason@basecamp.com                         Basecamp           cache catch-all
+  SMTP NO  [5] info@postman.com                           Postman            cache catch-all
+  SMTP NO  [6] careers@freshworks.com                     Freshworks         cache catch-all
+  SMTP NO  [7] ping@openstatus.dev                        OpenStatus         cache catch-all
+  SMTP OK [8] hola@formbricks.com                        Formbricks         cache strict-valid
+  SMTP NO  [9] build@hasura.io                            Hasura             cache catch-all
+  SMTP NO  [10] u003e@tailscale.com                        Tailscale          cache catch-all
+  SMTP NO  [11] fraud@netlify.com                          Netlify            cache catch-all
+  SMTP NO  [12] resume@newrelic.com                        New Relic          cache catch-all
+  SMTP NO  [13] hi@sourcegraph.com                         Sourcegraph        cache catch-all
+  SMTP NO  [14] win@customer.io                            Customer.io        cache catch-all
+  SMTP NO  [15] x@mail.asana.com                           Asana              cache probe-blocked
+  SMTP NO  [16] hr.operations@cloudinary.com               Cloudinary         cache catch-all
+  SMTP NO  [17] contact@softr.io                           Softr              cache catch-all
+  SMTP OK [18] notices@marqeta.com                        Marqeta            cache strict-valid
+  SMTP NO  [19] recruitment@traveloka.com                  Traveloka          cache catch-all
+  SMTP NO  [20] hr-global@xendit.co                        Xendit             cache catch-all
+  SMTP NO  [21] marketing@midtrans.com                     Midtrans           catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK 5b
+  SMTP NO  [22] u003cinfo@payloadcms.com                   Payload            cache invalid
+  SMTP NO  [23] hello@baremetrics.com                      Baremetrics        cache catch-all
+  SMTP NO  [24] hroperations@icertis.com                   Icertis            cache catch-all
+  SMTP NO  [25] careers@prefect.io                         Prefect            cache catch-all
+  SMTP NO  [26] careers@reclaim.ai                         Reclaim            cache invalid
+  SMTP NO  [27] callie@calendly.com                        Calendly           cache catch-all
+  SMTP NO  [28] peter@mistral.ai                           Mistral AI         cache catch-all
+  SMTP NO  [29] email@typeform.com                         Typeform           cache invalid
+  SMTP NO  [30] d9e77d2673834a0f83e8a881e42237a3@sentry.ovhcloud.com OVHcloud           sentry.ovhcloud.com Connection unexpectedly closed: tim
+  SMTP NO  [31] contacto@covermanager.com                  CoverManager       cache catch-all
+  SMTP NO  [32] soporte@habitissimo.com                    Habitissimo        cache catch-all
+  SMTP NO  [33] assistenza@yolo-insurance.com              Yolo Group         cache catch-all
+  SMTP NO  [34] kyc@youngplatform.com                      Young Platform     catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK ff
+  SMTP NO  [35] hello@epidemicsound.com                    Epidemic Sound     cache reject
+  SMTP NO  [36] hello@lunar.app                            Lunar              cache reject
+  SMTP NO  [37] u003epress@pipedrive.com                   Pipedrive          aspmx.l.google.com rcpt 550 b"5.1.1 The email account t
+  SMTP NO  [38] agencycertification@smartly.io             Smartly            catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK ff
+  SMTP NO  [39] ncontact@nexthink.com                      Nexthink           nexthink-com.mail.protection.outlook.com rcpt 550 b'5.4
+  SMTP OK [40] marketing@strapi.io                        Strapi             aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-48
+  SMTP OK [41] marketing@prismic.io                       Prismic            aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-48
+  SMTP NO  [42] team_vivaldi@vivaldi.com                   Vivaldi            cache invalid
+  SMTP NO  [43] u003epartnerships@trezor.io                Trezor             aspmx.l.google.com rcpt 550 b"5.1.1 The email account t
+  SMTP NO  [44] u003ebookings@nexo.com                     Nexo               catch-all mx: de-smtp-inbound-1.mimecast.com rcpt 250 b
+  SMTP NO  [45] requisition@swan.io                        Swan               catch-all mx: aspmx.l.google.com rcpt 250 b'2.1.5 OK ff
+READY 4 -> /home/sleepwellsystem/Desktop/codet-webb/output/emails_go_2026-08-23.csv
+  hola@formbricks.com  Formbricks
+  notices@marqeta.com  Marqeta
+  marketing@strapi.io  Strapi
+  marketing@prismic.io  Prismic

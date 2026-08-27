@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 import base64
 import csv
+import json
 import os
 import random
 import smtplib
@@ -34,16 +35,18 @@ load_dotenv(ROOT / ".env")
 from smtp_verify import bounced_emails, mark_bounce, smtp_detail_is_unverified, verify_mailbox  # noqa: E402
 
 DEFAULT_CSV = ROOT / "output" / "emails_2026-08-11.csv"
-DEFAULT_LETTER = ROOT / "emailll.txt"
+DEFAULT_LETTER = ROOT / "emailll_proof.txt"
 # Round-robin order: 1st send → product, 2nd → AI/n8n, 3rd → Go, 4th → product, …
+# Round-robin: Reddit-style short letters (proof → frontend → AI agent → backend).
 DEFAULT_LETTER_VARIANTS = (
-    ROOT / "emailll.txt",
-    ROOT / "emailll_ai.txt",
-    ROOT / "emailll_go.txt",
+    ROOT / "emailll_proof.txt",
+    ROOT / "emailll_frontend.txt",
+    ROOT / "emailll_agent.txt",
+    ROOT / "emailll_backend.txt",
 )
 DEFAULT_RESUME = ROOT / "Muhammad_Muddasir_Resume.pdf"
 SENT_LOG = ROOT / "outreach" / "sent_log.csv"
-SENT_LOG_FIELDS = ["sent_at", "company", "email", "status", "error", "letter"]
+SENT_LOG_FIELDS = ["sent_at", "company", "email", "status", "error", "letter", "ab_arm", "subject"]
 LOCK_FILE = ROOT / "outreach" / ".send.lock"
 OAUTH_CREDS = ROOT / "outreach" / "credentials.json"
 OAUTH_TOKEN = ROOT / "outreach" / "token.json"
@@ -51,7 +54,12 @@ GMAIL_SCOPES = ["https://www.googleapis.com/auth/gmail.send"]
 FROM_EMAIL = os.getenv("GMAIL_ADDRESS", "muddasirrizwan9@gmail.com").strip()
 APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD", "").strip()
 
-SUBJECT_FALLBACK = "Software Engineer - Resume"
+SUBJECT_ROLE = "Software Engineer"
+SUBJECT_WITH_NAME = f"{SUBJECT_ROLE} - Muhammad Muddasir"
+SUBJECT_WITH_RESUME = f"{SUBJECT_ROLE} - Resume"
+SUBJECT_STATE = OUTREACH_DIR / "subject_state.json"
+SUBJECT_NAME_LIMIT = 20
+AB_STATE = OUTREACH_DIR / "ab_state.json"
 BAN_HINTS = (
     "daily sending quota",
     "user sending quota",
@@ -127,6 +135,9 @@ BLOCKED_COMPANIES = {
 BLOCKED_DOMAINS = {
     "codet.ai",
     "codet.com",
+    "hf.co",
+    "huggingface.co",
+    "n8n.io",
 }
 SAFE_LOCAL = {
     "hr",
@@ -134,6 +145,15 @@ SAFE_LOCAL = {
     "career",
     "jobs",
     "job",
+    "cv",
+    "resume",
+    "resumes",
+    "founders",
+    "founder",
+    "ceo",
+    "cto",
+    "coo",
+    "cso",
     "recruiting",
     "recruitment",
     "talent",
@@ -145,7 +165,17 @@ SAFE_LOCAL = {
     "apply",
 }
 # Weak aliases often exist as web text but not as real mailboxes.
-WEAK_LOCAL = {"hello", "hi", "contact", "info", "team", "work", "opportunities"}
+WEAK_LOCAL = {
+    "hello",
+    "hi",
+    "contact",
+    "info",
+    "team",
+    "work",
+    "opportunities",
+    "services",
+    "kontakt",
+}
 TRUSTED_SOURCES = {
     "known company contact",
     "known + company website",
@@ -164,7 +194,15 @@ def resolve_letter_pool(*, letter: Path, letters_dir: Path | None, single_only: 
     pool: list[Path] = []
     if letters_dir is not None:
         # Prefer known names in rotation order, then any other emailll*.txt.
-        known = [letters_dir / name for name in ("emailll.txt", "emailll_ai.txt", "emailll_go.txt")]
+        known = [
+            letters_dir / name
+            for name in (
+                "emailll_proof.txt",
+                "emailll_frontend.txt",
+                "emailll_agent.txt",
+                "emailll_backend.txt",
+            )
+        ]
         pool = [p for p in known if p.is_file()]
         extras = sorted(
             p for p in letters_dir.glob("emailll*.txt") if p.is_file() and p not in pool
@@ -226,19 +264,42 @@ def load_recipients(path: Path, *, skip_guessed: bool) -> list[dict[str, str]]:
                 _is_strict = False
             if local in WEAK_LOCAL and not trusted and not soft and not _is_strict:
                 continue
-            published_named = (
+            # Named people from trusted/published sources: first.last@ or single firstname@
+            published_named = any(
+                k in src
+                for k in (
+                    "linkedin",
+                    "hiring post",
+                    "job posting",
+                    "apply-to",
+                    "apply email",
+                    "named hr",
+                    "company contact",
+                    "company website",
+                    "company site",
+                    "known",
+                    "hunter",
+                    "ceo",
+                    "founder",
+                    "leadership",
+                )
+            ) and (
                 "." in local
-                and any(k in src for k in ("linkedin", "hiring post", "apply-to", "named hr", "company contact", "company website", "company site"))
+                or (local.isalpha() and len(local) >= 2 and "hunter" in src)
+                or (local.isalpha() and len(local) >= 3)
+                or local in {"nextbit", "business", "opportunities", "ceo", "founder", "founders"}
             )
             hiringish = any(
-                tok in local for tok in ("career", "recruit", "talent", "hiring", "people")
+                tok in local for tok in ("career", "recruit", "talent", "hiring", "people", "job")
             ) or local.startswith("hr.")
+            ats_apply = domain.endswith("jobs.workablemail.com") and trusted
             if (
                 local not in SAFE_LOCAL
                 and local not in WEAK_LOCAL
                 and not soft
                 and not hiringish
                 and not published_named
+                and not ats_apply
             ):
                 continue
             company_key = (row.get("Company") or "").strip().lower()
@@ -348,6 +409,8 @@ def already_sent() -> tuple[set[str], set[str]]:
         return emails, companies
     with SENT_LOG.open(encoding="utf-8-sig", newline="") as handle:
         for row in csv.DictReader(handle):
+            if (row.get("status") or "").strip().lower() != "sent":
+                continue
             email = (row.get("email") or "").strip().lower()
             company = (row.get("company") or "").strip().lower()
             if email:
@@ -357,7 +420,37 @@ def already_sent() -> tuple[set[str], set[str]]:
     return emails, companies
 
 
-def log_sent(email: str, company: str, status: str, error: str = "", letter: str = "") -> None:
+def _load_subject_state() -> dict:
+    default = {"name_subject_sent": 0, "limit": SUBJECT_NAME_LIMIT}
+    if not SUBJECT_STATE.exists():
+        return default
+    try:
+        data = json.loads(SUBJECT_STATE.read_text(encoding="utf-8"))
+        return {**default, **data}
+    except (json.JSONDecodeError, OSError):
+        return default
+
+
+def _save_subject_state(state: dict) -> None:
+    SUBJECT_STATE.parent.mkdir(parents=True, exist_ok=True)
+    SUBJECT_STATE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
+
+
+def bump_subject_sent_count() -> None:
+    state = _load_subject_state()
+    state["name_subject_sent"] = int(state.get("name_subject_sent", 0)) + 1
+    _save_subject_state(state)
+
+
+def log_sent(
+    email: str,
+    company: str,
+    status: str,
+    error: str = "",
+    letter: str = "",
+    ab_arm: str = "",
+    subject: str = "",
+) -> None:
     SENT_LOG.parent.mkdir(parents=True, exist_ok=True)
     new_file = not SENT_LOG.exists()
     with SENT_LOG.open("a", encoding="utf-8-sig", newline="") as handle:
@@ -372,8 +465,13 @@ def log_sent(email: str, company: str, status: str, error: str = "", letter: str
                 status,
                 error,
                 letter,
+                ab_arm,
+                subject,
             ]
         )
+    if status == "sent":
+        bump_subject_sent_count()
+        _bump_ab(ab_arm)
 
 
 def company_name(company: str) -> str:
@@ -384,9 +482,15 @@ def company_name(company: str) -> str:
 
 
 GENERIC_ASK = {
-    "emailll.txt": "If you’re hiring engineers at {company}, I’d like to be considered.",
-    "emailll_ai.txt": "If you’re hiring for AI, LLM, or automation roles at {company}, I’d like to be considered.",
-    "emailll_go.txt": "If you’re hiring Go or backend engineers at {company}, I’d like to be considered.",
+    "emailll.txt": "Resume attached. Open to a 15-minute call this week if useful?",
+    "emailll_ai.txt": "Resume attached. Open to a 15-minute call this week if useful?",
+    "emailll_go.txt": "Resume attached. Open to a 15-minute call this week if useful?",
+    "emailll_proof.txt": "Resume attached. Open to a 15-minute call this week if useful?",
+    "emailll_frontend.txt": "Resume attached. Open to a 15-minute call this week if useful?",
+    "emailll_agent.txt": "Resume attached. Open to a 15-minute call this week if useful?",
+    "emailll_backend.txt": "Resume attached. Open to a 15-minute call this week if useful?",
+    "emailll_ab_a.txt": "Resume attached. Open to a 15-minute call this week if useful?",
+    "emailll_ab_b.txt": "Resume attached. Open to a 15-minute call this week if useful?",
 }
 
 
@@ -396,16 +500,26 @@ def render_body(
     role: str = "",
     location_clause: str = "",
     letter_name: str = "",
+    contact_name: str = "",
 ) -> str:
     name = company_name(company)
-    greeting = f"Hi {name} team," if name else "Hi,"
+    person = (contact_name or "").strip()
+    if person:
+        greeting = f"Hi {person},"
+    elif name:
+        greeting = f"Hi {name} team,"
+    else:
+        greeting = "Hi,"
     label = name or "your team"
     role_label = (role or "").strip()
     if role_label:
-        opening = f"I saw the {role_label} opening{location_clause or ''}. "
-        ask = f"If you’re hiring for the {role_label} role at {label}, I’d like to be considered."
+        opening = f"Saw the {role_label} role{location_clause or ''}. "
+        ask = (
+            f"If you're still hiring for {role_label}, open to a 15-minute call this week? "
+            "Resume attached."
+        )
     else:
-        opening = ""
+        opening = f"Quick note for {label} — " if label != "your team" else ""
         ask = GENERIC_ASK.get(letter_name, GENERIC_ASK["emailll.txt"]).format(company=label)
     return (
         template.replace("{greeting}", greeting)
@@ -421,24 +535,77 @@ def render_body(
     )
 
 
-def subject_for(company: str, role: str = "") -> str:
-    name = company_name(company)
+def _bump_ab(arm: str) -> None:
+    arm = (arm or "").strip().upper()
+    if arm not in {"A", "B"}:
+        return
+    state = {"A": 0, "B": 0}
+    if AB_STATE.exists():
+        try:
+            state = {**state, **json.loads(AB_STATE.read_text(encoding="utf-8"))}
+        except (json.JSONDecodeError, OSError):
+            pass
+    state[arm] = int(state.get(arm, 0)) + 1
+    AB_STATE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
+
+
+def subject_for(company: str, role: str = "", ab_arm: str = "") -> str:
+    """Reddit A/B subjects — arm A = role@company, arm B = short noun line (<6 words)."""
+    co = company_name(company)
     role_label = (role or "").strip()
-    if role_label and name:
-        return f"{role_label} - {name}"
-    if name:
-        return f"Software Engineer - {name}"
-    return role_label or SUBJECT_FALLBACK
+    arm = (ab_arm or "").strip().upper()
+    if arm == "B":
+        # Short, specific, ends in a noun — Reddit/CVHive 2026 pattern.
+        if co and role_label:
+            stack = "React"
+            blob = role_label.lower()
+            if "ai" in blob or "llm" in blob or "machine" in blob:
+                stack = "AI"
+            elif "go " in blob or blob.startswith("go") or "golang" in blob:
+                stack = "Go"
+            elif "front" in blob or "ui" in blob:
+                stack = "Frontend"
+            elif "full" in blob:
+                stack = "Full-stack"
+            elif "product" in blob:
+                stack = "Product"
+            elif "backend" in blob or "platform" in blob:
+                stack = "Backend"
+            return f"{stack} note, {co}"[:58]
+        if co:
+            return f"{co} eng note"[:58]
+        return "Engineering note"
+    # Arm A (default): explicit role @ company
+    if role_label and co:
+        subj = f"{role_label} at {co}"
+        if len(subj) > 58:
+            subj = f"{role_label[:40]} — {co}"
+        if len(subj) > 58:
+            subj = role_label[:58]
+        return subj
+    if role_label:
+        return role_label[:58]
+    if co:
+        return f"{co} engineering — quick note"
+    return "Engineering intro — quick note"
 
 
-def build_message(*, to_email: str, company: str, body: str, resume: Path, role: str = "") -> MIMEMultipart:
+def build_message(
+    *,
+    to_email: str,
+    company: str,
+    body: str,
+    resume: Path,
+    role: str = "",
+    ab_arm: str = "",
+) -> MIMEMultipart:
     msg = MIMEMultipart()
     msg["From"] = f"Muhammad Muddasir <{FROM_EMAIL}>"
     msg["To"] = to_email
     msg["Reply-To"] = FROM_EMAIL
     msg["Date"] = formatdate(localtime=True)
     msg["Message-ID"] = make_msgid(domain=FROM_EMAIL.split("@", 1)[-1])
-    msg["Subject"] = subject_for(company, role)
+    msg["Subject"] = subject_for(company, role, ab_arm=ab_arm)
     msg.attach(MIMEText(body, "plain", "utf-8"))
     part = MIMEApplication(resume.read_bytes(), _subtype="pdf")
     part.add_header("Content-Disposition", "attachment", filename="Muhammad_Muddasir_Resume.pdf")
@@ -498,13 +665,35 @@ def auth_mode() -> str:
     return "none"
 
 
-def send_via_smtp(smtp: smtplib.SMTP, *, to_email: str, company: str, body: str, resume: Path, role: str = "") -> None:
-    msg = build_message(to_email=to_email, company=company, body=body, resume=resume, role=role)
+def send_via_smtp(
+    smtp: smtplib.SMTP,
+    *,
+    to_email: str,
+    company: str,
+    body: str,
+    resume: Path,
+    role: str = "",
+    ab_arm: str = "",
+) -> None:
+    msg = build_message(
+        to_email=to_email, company=company, body=body, resume=resume, role=role, ab_arm=ab_arm
+    )
     smtp.sendmail(FROM_EMAIL, [to_email], msg.as_string())
 
 
-def send_via_oauth(service, *, to_email: str, company: str, body: str, resume: Path, role: str = "") -> None:
-    msg = build_message(to_email=to_email, company=company, body=body, resume=resume, role=role)
+def send_via_oauth(
+    service,
+    *,
+    to_email: str,
+    company: str,
+    body: str,
+    resume: Path,
+    role: str = "",
+    ab_arm: str = "",
+) -> None:
+    msg = build_message(
+        to_email=to_email, company=company, body=body, resume=resume, role=role, ab_arm=ab_arm
+    )
     raw = base64.urlsafe_b64encode(msg.as_bytes()).decode("ascii")
     service.users().messages().send(userId="me", body={"raw": raw}).execute()
 
@@ -551,7 +740,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--no-agent",
         action="store_true",
-        help="Do not call the Cursor agent; use the 3 generic letter templates.",
+        help="Do not call the Cursor agent; use the 4 generic letter templates.",
     )
     return parser.parse_args()
 
@@ -599,39 +788,58 @@ def main() -> int:
     remaining_today = max(0, args.daily_cap - today_count) if not args.to else args.limit
     cap = min(args.limit, remaining_today)
     queue = []
+    queued_emails: set[str] = set()
     skipped_dead = 0
     for row in recipients:
         email = (row.get("HR / Recruiter Email") or "").strip().lower()
         company = (row.get("Company") or "").strip()
         company_key = company.lower()
-        if not args.to and email in sent_emails:
+        if email in sent_emails or email in queued_emails:
+            print(f"  SKIP already sent   {email}  ({company})")
             continue
         if not args.to and company_key in sent_companies and company_key not in retryable_companies:
-            continue
+            # Allow a different leadership mailbox even if careers/hr was emailed before.
+            src = (row.get("Email Source") or "").lower()
+            leadership = any(
+                t in src for t in ("leadership", "ceo", "founder", "cofounder", "co-founder")
+            )
+            if not leadership:
+                continue
+            print(f"  ALLOW leadership retry {email}  ({company})")
         if not args.to and not args.no_smtp_check:
             prior = (row.get("SMTP Verification") or "").strip()
-            if smtp_detail_is_unverified(prior):
+            src = (row.get("Email Source") or "").strip().lower()
+            hunter_ok = prior.lower().startswith("hunter-valid") or (
+                "hunter" in src and prior.lower().startswith("hunter")
+            )
+            strict_ok = prior.lower().startswith("strict-valid")
+            forced_ok = prior.lower().startswith("user-forced")
+            if smtp_detail_is_unverified(prior) and not hunter_ok and not strict_ok and not forced_ok:
                 skipped_dead += 1
                 print(f"  SKIP unverified      {email}  ({company})  csv:{prior[:80]}")
                 continue
-            ok, detail = verify_mailbox(email)
-            text = detail.lower()
-            if not ok:
-                skipped_dead += 1
-                if any(
-                    h in text
-                    for h in ("5.1.1", "does not exist", "no such user", "user unknown", "nosuchuser", "known bounce")
-                ):
-                    mark_bounce(email, company, detail)
-                    print(f"  SKIP dead mailbox  {email}  ({company})")
-                elif "catch-all" in text:
-                    print(f"  SKIP catch-all mx   {email}  ({company})")
-                else:
-                    print(f"  SKIP unverified      {email}  ({company})  {detail[:100]}")
-                continue
+            if hunter_ok or strict_ok or forced_ok:
+                print(f"  TRUST {prior or 'verified'}  {email}  ({company})")
+            else:
+                ok, detail = verify_mailbox(email)
+                text = detail.lower()
+                if not ok:
+                    skipped_dead += 1
+                    if any(
+                        h in text
+                        for h in ("5.1.1", "does not exist", "no such user", "user unknown", "nosuchuser", "known bounce")
+                    ):
+                        mark_bounce(email, company, detail)
+                        print(f"  SKIP dead mailbox  {email}  ({company})")
+                    elif "catch-all" in text:
+                        print(f"  SKIP catch-all mx   {email}  ({company})")
+                    else:
+                        print(f"  SKIP unverified      {email}  ({company})  {detail[:100]}")
+                    continue
         elif not args.to and args.no_smtp_check:
             raise SystemExit("Refusing --no-smtp-check after bounce issues. Strict SMTP is mandatory.")
         queue.append(row)
+        queued_emails.add(email)
         if len(queue) >= cap:
             break
 
@@ -652,7 +860,7 @@ def main() -> int:
 
     if not args.send:
         print("\nDry-run only.")
-        print("Rotation: round-robin product → AI-n8n → Go → product …")
+        print("Rotation: round-robin proof → frontend → AI-agent → backend → proof …")
         print("Pin one:  python outreach/send_emails.py --letter-only --letter emailll_ai.txt ...")
         print("If App passwords page is broken, turn on 2-Step Verification first,")
         print("or run: python outreach/send_emails.py --auth")
@@ -671,12 +879,20 @@ def main() -> int:
     if mode == "oauth":
         service = oauth_service()
 
-        def deliver(to_email: str, company: str, body: str, role: str = "") -> None:
-            send_via_oauth(service, to_email=to_email, company=company, body=body, resume=args.resume, role=role)
+        def deliver(to_email: str, company: str, body: str, role: str = "", ab_arm: str = "") -> None:
+            send_via_oauth(
+                service,
+                to_email=to_email,
+                company=company,
+                body=body,
+                resume=args.resume,
+                role=role,
+                ab_arm=ab_arm,
+            )
 
     else:
 
-        def deliver(to_email: str, company: str, body: str, role: str = "") -> None:
+        def deliver(to_email: str, company: str, body: str, role: str = "", ab_arm: str = "") -> None:
             nonlocal smtp
             if smtp is not None:
                 try:
@@ -687,7 +903,15 @@ def main() -> int:
             smtp = smtplib.SMTP("smtp.gmail.com", 587, timeout=30)
             smtp.starttls(context=context)
             smtp.login(FROM_EMAIL, APP_PASSWORD)
-            send_via_smtp(smtp, to_email=to_email, company=company, body=body, resume=args.resume, role=role)
+            send_via_smtp(
+                smtp,
+                to_email=to_email,
+                company=company,
+                body=body,
+                resume=args.resume,
+                role=role,
+                ab_arm=ab_arm,
+            )
 
     try:
         for i, row in enumerate(queue, 1):
@@ -696,8 +920,16 @@ def main() -> int:
             if email.endswith("@codet.ai") or email.endswith("@codet.com") or "codet.ai" in email:
                 print(f"[{i}/{len(queue)}] SKIP  {email}  (blocked: Codet)")
                 continue
+            if email in sent_emails:
+                print(f"[{i}/{len(queue)}] SKIP  {email}  (already sent)")
+                continue
             role = (row.get("Sample Role") or "").strip()
             location_clause = (row.get("Location Clause") or "").strip()
+            ab_arm = (row.get("AB Arm") or "").strip().upper()
+            if not ab_arm and "emailll_ab_a" in (row.get("Letter") or "").lower():
+                ab_arm = "A"
+            elif not ab_arm and "emailll_ab_b" in (row.get("Letter") or "").lower():
+                ab_arm = "B"
             letter_override = (row.get("Letter") or "").strip()
             if letter_override:
                 candidate = Path(letter_override)
@@ -715,6 +947,7 @@ def main() -> int:
                 role=role,
                 location_clause=location_clause,
                 letter_name=letter_path.name,
+                contact_name=(row.get("Contact Name") or row.get("First Name") or "").strip(),
             )
             used_letter = letter_path.name
             if role and not args.no_agent:
@@ -736,12 +969,29 @@ def main() -> int:
                         used_letter = "cursor-agent"
                 except Exception as exc:  # noqa: BLE001
                     print(f"    agent letter fallback to {letter_path.name}: {exc}")
+            used_subject = subject_for(company, role, ab_arm=ab_arm)
             try:
-                deliver(email, company, body, role=role)
-                log_sent(email, company, "sent", letter=used_letter)
-                print(f"[{i}/{len(queue)}] sent  {email}  [{used_letter}]")
+                deliver(email, company, body, role=role, ab_arm=ab_arm)
+                log_sent(
+                    email,
+                    company,
+                    "sent",
+                    letter=used_letter,
+                    ab_arm=ab_arm,
+                    subject=used_subject,
+                )
+                sent_emails.add(email)
+                print(f"[{i}/{len(queue)}] sent  {email}  [{used_letter}|{ab_arm or '-'}]  subj:{used_subject}")
             except Exception as exc:  # noqa: BLE001
-                log_sent(email, company, "failed", str(exc), letter=used_letter)
+                log_sent(
+                    email,
+                    company,
+                    "failed",
+                    str(exc),
+                    letter=used_letter,
+                    ab_arm=ab_arm,
+                    subject=used_subject,
+                )
                 print(f"[{i}/{len(queue)}] FAIL  {email}  [{used_letter}]  {exc}")
                 if looks_like_ban(exc):
                     print("Stopping: Gmail rate-limit / auth warning. Try again tomorrow.")

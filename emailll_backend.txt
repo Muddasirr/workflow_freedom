@@ -1,0 +1,10 @@
+{greeting}
+
+{opening}I ship product UI in Next.js / React / TypeScript, and Go when the backend needs it. At Euronet I built Java payment APIs (ISO 8583, JWT, PostgreSQL).
+
+Also built AutoCloudEngineerAgent: propose infra → Kubernetes canary only → bench → reject, roll back, or promote.
+
+{ask}
+
+Muhammad Muddasir
++92-3249867842 · muddasirrizwan9@gmail.com · muddasirrizwan.com
