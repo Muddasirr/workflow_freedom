@@ -1,0 +1,9 @@
+﻿Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,Location Clause,Letter,SMTP Verification
+BioNTech,Germany,,careers@biontech.de,known company contact,,biontech.de,,,,,mxa-006a3d01.gslb.pphosted.com rcpt 250 b'2.1.5 Recipient ok' | fake:mxa-006a3d01.gslb.pphosted.com rcpt 550 b'5.1.1 User Unknown'
+Deutsche Telekom,Germany,,jobs@telekom.de,known company contact,,telekom.de,,,,,mailin.ng.telekom.net rcpt 250 b'recipient <jobs@telekom.de> ok' | fake:mailin.ng.telekom.net rcpt 550 b'#5.1.0 Address rejected.'
+DHL,Germany,,jobs@dhl.com,known company contact,,dhl.com,,,,,dhl-com.fortimailcloud.com rcpt 250 b'2.1.5 <jobs@dhl.com>... Recipient ok' | fake:dhl-com.fortimailcloud.com rcpt 550 b'5.1.1 <no-mailbox-uhleiwn0gti3@dhl.com>... User unknown'
+Gerresheimer,Germany,,careers@gerresheimer.com,known company contact,,gerresheimer.com,,,,,mxa-0093ec01.gslb.pphosted.com rcpt 250 b'2.1.5 Recipient ok' | fake:mxa-0093ec01.gslb.pphosted.com rcpt 550 b'5.1.1 User Unknown'
+Infineon,Germany,,careers@infineon.com,known company contact,,infineon.com,,,,,smtp11.infineon.com rcpt 250 b'recipient <careers@infineon.com> ok' | fake:smtp11.infineon.com rcpt 550 b'#5.1.0 Address rejected.'
+Jungheinrich,Germany,,karriere@jungheinrich.de,known company contact,,jungheinrich.de,,,,,mxa-001d3802.gslb.pphosted.com rcpt 250 b'2.1.5 Recipient ok' | fake:mxa-001d3802.gslb.pphosted.com rcpt 550 b'5.1.1 User Unknown'
+Merck,Germany,,recruiting@merckgroup.com,known company contact,,merckgroup.com,,,,,mxa-005f4802.gslb.pphosted.com rcpt 250 b'2.1.5 Recipient ok' | fake:mxa-005f4802.gslb.pphosted.com rcpt 550 b'5.1.1 User Unknown'
+Puma Energy,Germany,,careers@pumaenergy.com,known company contact,,pumaenergy.com,,,,,mail10.smtpdaemon.net rcpt 250 b'recipient <careers@pumaenergy.com> ok' | fake:mail10.smtpdaemon.net rcpt 550 b'#5.1.0 Address rejected.'

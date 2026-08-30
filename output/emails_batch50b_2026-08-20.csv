@@ -1,0 +1,15 @@
+﻿Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,Location Clause,Letter,SMTP Verification
+Din Industries,Remote,,hrdpl@dinindustries.com,company website,,dinindustries.com,,, (remote),,cache strict-valid
+MDPI,Remote,,hr.singapore@mdpi.com,company website,,mdpi.com,,, (remote),,cache strict-valid
+SolutionInn,Remote,,mahrukh@solutioninn.com,company website,,solutioninn.com,,, (remote),,cache strict-valid
+Tuta EU,Europe,,jobs@tutao.de,company website,,tuta.com,,, (remote),,mail.tutanota.de rcpt 250 b'2.1.5 Ok' | fake:mail.tutanota.de rcpt 550 b'5.7.1 <no-mailbox-qh3bo77lhhni@tutao.de>: Recipient address rejected: Mailbox not found'
+1Password,Remote,,nextbit@agilebits.com,company website,,agilebits.com,,, (remote),,cache strict-valid
+1Password,Remote,,business@1password.com,company website,,1password.com,,, (remote),,cache strict-valid
+BSS Commerce,Remote,,middle.east@bsscommerce.com,company website,,bsscommerce.com,,, (remote),,cache strict-valid
+eOcean,Remote,,anum.khan@eocean.net,company website,,eocean.net,,, (remote),,cache strict-valid
+Earlybird,Remote,,info@earlybird.com,company website,,earlybird.com,,, (remote),,cache strict-valid
+Narsun Studios,Remote,,info@narsunstudios.com,company website,,narsunstudios.com,,, (remote),,cache strict-valid
+Outline,Remote,,hello@getoutline.com,company website,,getoutline.com,,, (remote),,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-482b15268adsi10073193f8f.471 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipient's email address for typos or\n5.1.1 unnecessary spaces. For more information, go to\n5.1.1  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-482b151f"
+Point Nine,Remote,,info@pointnine.com,company website,,pointnine.com,,, (remote),,cache strict-valid
+TransferGo,Europe,,hello@transfergo.com,company website,,transfergo.com,,, (remote),,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-482b1525877si10189163f8f.438 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipient's email address for typos or\n5.1.1 unnecessary spaces. For more information, go to\n5.1.1  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-482b1527"
+Vizteck,Remote,,info@vizteck.com,company website,,vizteck.com,,, (remote),,cache strict-valid

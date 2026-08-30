@@ -1,0 +1,3 @@
+﻿Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,Location Clause,Letter,SMTP Verification
+Advance.AI,Singapore,,marketing@advance.ai,company website,,advance.ai,https://advance.ai/careers,,,,"mx1.larksuite.com rcpt 250 b'2.1.5 Ok' | fake:mx1.larksuite.com rcpt 550 b'verify address failed, User not found no-mailbox-fkjmluq46aja@advance.ai'"
+Lazada,Singapore,,lazada-tech-infra@lazada.com,company website,,lazada.com,https://lazada.com/careers,,,,"mx1.alibaba-inc.com rcpt 250 b'Rcpt Ok' | fake:mx1.alibaba-inc.com rcpt 554 b""RCPT (no-mailbox-s6vmvjdbqsb0@lazada.com) dosn't exist"""

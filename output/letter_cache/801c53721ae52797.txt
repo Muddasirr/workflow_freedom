@@ -1,0 +1,15 @@
+Hi Dash0 team,
+
+The Senior Product Engineer, Frontend role matches my work at Codet.ai, where I build React and TypeScript interfaces that turn complex backend state into clear, actionable views for non-technical users.
+
+I co-own frontend architecture on our no-code platform: dynamic database modules, drag-and-drop trigger-condition-action workflows, and an in-app AI assistant. On Rulr, a ReactFlow and Monaco visual builder, I kept dense, data-rich UIs responsive under heavy interaction. I also shipped AutoCloudEngineerAgent on LangGraph, combining agentic automation with invariant checks and Kubernetes canary rollbacks, which maps well to Agent0 and an OpenTelemetry-native, AI-centric product.
+
+I want to help developers explore billions of signals without overwhelm, and champion UX in decisions with product, design, and backend engineers.
+
+Open to a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

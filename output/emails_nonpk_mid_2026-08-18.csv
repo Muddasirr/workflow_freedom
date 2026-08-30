@@ -1,0 +1,2 @@
+﻿Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,Location Clause,Letter,SMTP Verification
+Boubyan Digital,Kuwait,Kuwait City,info-boubyan@boubyan.com,company website,,boubyan.com,https://boubyan.com/careers,,,,mx1-eu1.ppe-hosted.com rcpt 250 b'2.1.5 Ok' | fake:mx1-eu1.ppe-hosted.com rcpt 550 b'5.1.1 <no-mailbox-jfz8rw3ew0np@boubyan.com>: Recipient address rejected: User unknown'

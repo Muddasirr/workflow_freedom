@@ -1,0 +1,13 @@
+Hi Innovage.io team,
+
+The Full Stack Developer (Shopify Experience) role matches the Next.js and React product work I do at Codet.ai, where I build and scale a no-code platform with dynamic database modules, field relationships, and configurable frontends.
+
+I work in the Node.js and Next.js stack daily, shipping drag-and-drop workflows and data-driven UI that turn structured records into usable layouts, similar to the problems Metafields and Metaobjects solve on custom PDPs. I have not shipped Liquid storefronts in production yet, but I have owned complex, client-facing interfaces end to end. I also use AI-assisted development in my workflow through LangGraph agents and an in-app assistant at Codet, which fits your Claude bonus.
+
+Innovage’s remote-first, builder-focused team working on diverse e-commerce projects is exactly the environment I want to grow in. I am open to a short call to discuss fit, and my resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

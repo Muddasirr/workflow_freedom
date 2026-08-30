@@ -1,0 +1,15 @@
+Hi PLACE team,
+
+The Remote React/TypeScript Web Developer with AI Tools role fits the work I do at Codet.ai, shipping polished Next.js and TypeScript interfaces for a no-code platform where teams build apps without writing code.
+
+Day to day I turn product requirements into UI: drag-and-drop workflow builders, dynamic database modules with tables and relationships, and an in-app AI assistant embedded in the product flow. I work quickly with AI-assisted development while keeping code review and architecture clear. I also built AutoCloudEngineerAgent on LangGraph, which proposes infrastructure changes, validates them in a Kubernetes canary, and rolls back when invariants fail. At Euronet I delivered Java REST APIs for fintech payment integrations, so I am used to translating specs into dependable full-stack deliverables when backend work is part of the scope.
+
+PLACE’s work at the intersection of real estate and technology, helping productive real estate teams, is the kind of remote-first product engineering I want to do next.
+
+Open to a short call to walk through relevant work. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

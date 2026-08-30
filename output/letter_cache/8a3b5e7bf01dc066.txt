@@ -1,0 +1,14 @@
+Hi Planned Systems International team,
+
+The AI Engineer role supporting VA OIT fits work I already do at Codet.ai: LangGraph agents, generative assistants, and automation embedded in engineering workflows and DevSecOps-style delivery.
+
+I built AutoCloudEngineerAgent on LangGraph. It proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when hard safety constraints fail. That mirrors your need for secure, scalable agents aligned with governance and Trustworthy AI principles. On the same platform I ship an in-app AI assistant and drag-and-drop workflow automation (trigger, condition, action) in Next.js, with FastAPI and REST integrations. At Euronet I delivered Java REST APIs for fintech with JWT RBAC and PostgreSQL, which helps when wiring AI capabilities into existing enterprise applications and pipelines.
+
+I want to help PSI identify high-value AI opportunities for VA software engineering, testing, and documentation, and deliver PoCs that meet cybersecurity, privacy, and accessibility requirements.
+
+Open to a short call. Resume attached. Remote from Karachi (UTC+5).
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,62 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Sample Role,Letter,SMTP Verification
+Oscilar,Remote,,careers@oscilar.com,manual,Software Engineer,emailll_agent.txt,
+Neuroscale,Remote,,careers@neuroscale.io,manual,Software Engineer,emailll_agent.txt,
+Beyond,Remote,,careers@beyond.com,manual,Software Engineer,emailll_frontend.txt,
+Able,Remote,,careers@ableclothing.com,manual,Software Engineer,emailll_frontend.txt,
+Optix,Remote,,careers@optixapp.com,manual,Software Engineer,emailll_frontend.txt,
+Lobster,Remote,,hello@lobste.rs,manual,Software Engineer,emailll_frontend.txt,
+TradePending,Remote,,careers@tradepending.com,manual,Software Engineer,emailll_frontend.txt,
+NexTurn,Remote,,careers@nexturn.com,manual,Software Engineer,emailll_frontend.txt,
+BrandChamp,Remote,,careers@brandchamp.io,manual,Software Engineer,emailll_frontend.txt,
+Numa,Remote,,careers@numa.com,manual,Software Engineer,emailll_frontend.txt,
+Black Ore,Remote,,careers@blackore.ai,manual,Software Engineer,emailll_agent.txt,
+TRM Labs,Remote,,contact@trmlabs.com,manual,Software Engineer,emailll_agent.txt,strict-valid
+Yoko Co,Remote,,questions@yokoco.com,manual,Software Engineer,emailll_frontend.txt,
+Whippy,Remote,,careers@whippy.ai,manual,Software Engineer,emailll_agent.txt,
+Windmill,Remote,,careers@windmill.dev,manual,Software Engineer,emailll_agent.txt,
+Runpod,Remote,,careers@runpod.io,manual,Software Engineer,emailll_agent.txt,
+Censys,Remote,,careers@censys.io,manual,Software Engineer,emailll_agent.txt,strict-valid
+Lemlist,Remote,,careers@lemlist.com,manual,Software Engineer,emailll_frontend.txt,
+Wakeflow,Remote,,hello@wakeflow.io,manual,Software Engineer,emailll_frontend.txt,
+Pebl,Remote,,hello@thepebl.com,manual,Software Engineer,emailll_frontend.txt,
+Air Apps,Remote,,careers@airapps.co,manual,Software Engineer,emailll_frontend.txt,
+Entefy,Remote,,careers@entefy.com,manual,Software Engineer,emailll_agent.txt,
+Gismart,Remote,,careers@gismart.com,manual,Software Engineer,emailll_frontend.txt,
+Semble,Remote,,careers@semble.io,manual,Software Engineer,emailll_frontend.txt,
+Meister,Remote,,careers@meisterlabs.com,manual,Software Engineer,emailll_frontend.txt,strict-valid
+Lightbase,Remote,,hello@lightbase.nl,manual,Software Engineer,emailll_frontend.txt,
+Algoteque,Remote,,careers@algoteque.com,manual,Software Engineer,emailll_agent.txt,
+Danti,Remote,,careers@danti.com,manual,Software Engineer,emailll_agent.txt,
+Geonetric,Remote,,careers@geonetric.com,manual,Software Engineer,emailll_frontend.txt,
+Tyfone,Remote,,careers@tyfone.com,manual,Software Engineer,emailll_frontend.txt,strict-valid
+One10,Remote,,careers@one10.co,manual,Software Engineer,emailll_frontend.txt,
+Aha,Remote,,careers@aha.io,manual,Software Engineer,emailll_frontend.txt,
+Velotio,Remote,,careers@velotio.com,manual,Software Engineer,emailll_frontend.txt,strict-valid
+Foxbox Digital,Remote,,careers@foxboxdigital.com,manual,Software Engineer,emailll_frontend.txt,
+Sellkar,Remote,,info@sellkar.pk,manual,Software Engineer,emailll_frontend.txt,
+Code Ninety,Remote,,info@codeninety.com,manual,Software Engineer,emailll_frontend.txt,
+Tkxel,Remote,,info@tkxel.com,manual,Software Engineer,emailll_frontend.txt,
+Logicose,Remote,,jobs@logicose.com,manual,Software Engineer,emailll_frontend.txt,
+Sofizar,Remote,,jobs@sofizar.com,manual,Software Engineer,emailll_frontend.txt,
+WebHR,Remote,,info@webhr.co,manual,Software Engineer,emailll_frontend.txt,strict-valid
+Webnet,Remote,,info@webnet.com.pk,manual,Software Engineer,emailll_frontend.txt,strict-valid
+TJM Labs,Remote,,careers@tjmlabs.com,manual,Software Engineer,emailll_agent.txt,
+Erasys,Remote,,careers@erasys.de,manual,Software Engineer,emailll_frontend.txt,
+MLabs,Remote,,careers@mlabs.com.br,manual,Software Engineer,emailll_frontend.txt,
+Meilisearch,Remote,,careers@meilisearch.com,manual,Software Engineer,emailll_backend.txt,
+ConfigCat,Remote,,careers@configcat.com,manual,Software Engineer,emailll_frontend.txt,
+Checkly,Remote,,careers@checklyhq.com,manual,Software Engineer,emailll_frontend.txt,
+Fathom,Remote,,hello@usefathom.com,manual,Software Engineer,emailll_frontend.txt,
+Loops,Remote,,chris@loops.so,manual,Software Engineer,emailll_frontend.txt,
+Lovable,Remote,,careers@lovable.dev,manual,Software Engineer,emailll_frontend.txt,
+Prefect,Remote,,careers@prefect.io,manual,Software Engineer,emailll_agent.txt,
+Dagster,Remote,,careers@dagster.io,manual,Software Engineer,emailll_agent.txt,
+Pipedream,Remote,,careers@pipedream.com,manual,Software Engineer,emailll_agent.txt,
+Fillout,Remote,,careers@fillout.com,manual,Software Engineer,emailll_frontend.txt,
+Better Stack,Remote,,careers@betterstack.com,manual,Software Engineer,emailll_frontend.txt,
+LogRocket,Remote,,careers@logrocket.com,manual,Software Engineer,emailll_frontend.txt,
+Securiti,Remote,,careers@securiti.ai,manual,Software Engineer,emailll_agent.txt,
+Boubyan,Remote,,info-boubyan@boubyan.com,cache,Software Engineer,emailll_frontend.txt,strict-valid
+Cu,Remote,,systemhr.recruiting@cu.edu,cache,Software Engineer,emailll_frontend.txt,strict-valid
+Validusgrp,Remote,,hr@validusgrp.com,cache,Software Engineer,emailll_frontend.txt,strict-valid
+Gmail,Remote,,shreelakshmi76@gmail.com,cache,Software Engineer,emailll_frontend.txt,strict-valid

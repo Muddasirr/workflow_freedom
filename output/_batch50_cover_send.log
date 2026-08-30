@@ -1,0 +1,21 @@
+Today sent=3 room=77 target=55
+Unused new-company contacts: 444
+Queue written (75): /home/sleepwellsystem/Desktop/codet-webb/output/emails_batch50_cover_send_2026-08-29.csv
+  preview 1: careers@askaribank.com | Askari Bank | Software Engineer at Askari Bank
+  preview 2: careers@brightspyre.com | BrightSpyre | Software Engineer at BrightSpyre
+  preview 3: careers@recur.com | Coderisti / Recur | Software Engineer at Coderisti / Recur
+  preview 4: careers@confiz.com | Confiz | Software Engineer at Confiz
+  preview 5: careers@dpl.com.pk | DPL | Software Engineer at DPL
+  preview 6: careers@elixirtech.com | Elixir Technologies | Software Engineer at Elixir Technologies
+  preview 7: careers@empiric.com | Empiric | Software Engineer at Empiric
+  preview 8: careers@engro.com | Engro | Software Engineer at Engro
+  preview 9: careers@faysalbank.com | Faysal Bank | Software Engineer at Faysal Bank
+  preview 10: careers@folio3.ae | Folio3 UAE/PK | Software Engineer at Folio3 UAE/PK
+  preview 11: careers@foodpanda.pk | Foodpanda Pakistan | Software Engineer at Foodpanda Pakistan
+  preview 12: careers@hbl.com | HBL | Software Engineer at HBL
+[1/55] SENT careers@askaribank.com (Askari Bank)
+  wait 57s…
+[2/55] SENT careers@brightspyre.com (BrightSpyre)
+  wait 65s…
+[3/55] SENT careers@recur.com (Coderisti / Recur)
+  wait 44s…

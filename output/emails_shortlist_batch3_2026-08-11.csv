@@ -1,0 +1,2 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,SMTP Verification
+Baserow,Remote,Worldwide remote,jobs@baserow.io,guessed pattern (verify before sending),hr@baserow.io,baserow.io,https://baserow.io/careers,,mail.protonmail.ch rcpt 250 b'2.1.5 Ok' | fake:mail.protonmail.ch rcpt 550 b'5.1.1 <no-mailbox-5cafe37zji8u@baserow.io>: Recipient address rejected: Address does not exist'

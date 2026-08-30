@@ -1,0 +1,16 @@
+Hi remotestar-team team,
+
+The FullStack Developer (Next.js & Java) role lines up with the work I have been doing across Next.js product engineering at Codet.ai and Java backend services at Euronet. At Codet, I build and scale a no-code platform in Next.js with dynamic routing, PostgreSQL-backed data modules, and drag-and-drop workflows customers use daily. At Euronet, I shipped Java EE REST APIs for fintech, including ISO 8583 payment flows, JWT RBAC, and third-party integrations in a microservice-style setup.
+
+That background covers your core needs: strong Next.js and Node.js frontend work, Java backend development, database design, and Unix tooling through bash and SSH on deployment pipelines I have run with Docker and Kubernetes canary flows. I also keep Next.js surfaces structured for SEO as features go out. I communicate clearly in English and am ready to pick up HSQLDB, sqlite3, and NGINX configuration on your stack.
+
+Your client’s profitable ecommerce platform, handling thousands of orders each day, and the chance to work directly with the CTO as the central developer on stable, simple systems, is exactly the ownership I am looking for.
+
+Open to a short call. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

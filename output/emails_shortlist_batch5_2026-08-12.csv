@@ -1,0 +1,16 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,SMTP Verification
+Qashio,UAE,Dubai / remote,people@qashio.com,company website,hr@qashio.com,qashio.com,https://qashio.com/careers,,cache
+Mrsool,KSA,Riyadh / remote,people@mrsool.co,guessed pattern (verify before sending),hr@mrsool.co,mrsool.co,https://mrsool.co/careers,,cache
+Sary,KSA,Riyadh / remote,people@sary.com,guessed pattern (verify before sending),hr@sary.com,sary.com,https://sary.com/careers,,cache
+Qlub,MENA,Dubai,people@qlub.io,company website,"hr@qlub.io, info-xx@qlub.io, info@qlub.io, info-sa@qlub.io, info-kw@qlub.io, info-qa@qlub.io, info-au@qlub.io, info-sg@qlub.io, info-my@qlub.io, info-hk@qlub.io, info-kr@qlub.io, info-br@qlub.io, info-us@qlub.io, info.bh@qlub.io, info.eg@qlub.io, info.jo@qlub.io",qlub.io,https://qlub.io/careers,,cache
+Riskified,MENA,Tel Aviv / remote,recruiting@riskified.com,guessed pattern (verify before sending),hr@riskified.com,riskified.com,https://riskified.com/careers,,cache
+Tamara,MENA,Riyadh,people@tamara.co,guessed pattern (verify before sending),hr@tamara.co,tamara.co,https://tamara.co/careers,,cache
+Aspire,Singapore,Singapore / remote,recruiting@aspireapp.com,company website,"hr@aspireapp.com, singapore-dpo@aspireapp.com",aspireapp.com,https://aspireapp.com/careers,,cache
+Sea Group,Singapore,Singapore,people@sea.com,company website,"hr@sea.com, ir@sea.com, partnership@sea.com",sea.com,https://sea.com/careers,,cache
+Shopee,Singapore,Singapore / remote,people@shopee.com,guessed pattern (verify before sending),hr@shopee.com,shopee.com,https://shopee.com/careers,,cache
+BigPay,Malaysia,Kuala Lumpur / remote,people@bigpayme.com,guessed pattern (verify before sending),hr@bigpayme.com,bigpayme.com,https://bigpayme.com/careers,,cache
+StoreHub,Malaysia,Kuala Lumpur / remote,people@storehub.com,guessed pattern (verify before sending),hr@storehub.com,storehub.com,https://storehub.com/careers,,cache
+Lago,Europe,Paris / remote,people@getlago.com,guessed pattern (verify before sending),hr@getlago.com,getlago.com,https://getlago.com/careers,,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-48150d85f39si3759227f8f.170 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does "
+Qonto,Europe,Paris / remote,people@qonto.com,guessed pattern (verify before sending),hr@qonto.com,qonto.com,https://qonto.com/careers,,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-48150d85341si3865018f8f.233 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does "
+SafetyWing,Europe,Europe / remote,people@safetywing.com,company website,"hr@safetywing.com, partnerships@safetywing.com",safetywing.com,https://safetywing.com/careers,,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-48150d8741bsi3451115f8f.145 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does "
+Shippeo,Europe,Paris / remote,people@shippeo.com,guessed pattern (verify before sending),hr@shippeo.com,shippeo.com,https://shippeo.com/careers,,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-48150d8f008si3467455f8f.283 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does "

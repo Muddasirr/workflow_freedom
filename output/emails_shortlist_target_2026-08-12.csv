@@ -1,0 +1,5 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,SMTP Verification
+Mamo Pay,UAE,Dubai / remote,people@mamopay.com,company website,,mamopay.com,https://mamopay.com/careers,,strict-valid
+Syarah,KSA,Riyadh / remote,careers@syarah.com,guessed pattern (verify before sending),hr@syarah.com,syarah.com,https://syarah.com/careers,,strict-valid
+Bending Spoons,Europe,Milan / remote,careers@bendingspoons.com,guessed pattern (verify before sending),hr@bendingspoons.com,bendingspoons.com,https://bendingspoons.com/careers,,strict-valid
+Sequra,Europe,Barcelona / remote,careers@sequra.com,guessed pattern (verify before sending),hr@sequra.com,sequra.com,https://sequra.com/careers,,strict-valid

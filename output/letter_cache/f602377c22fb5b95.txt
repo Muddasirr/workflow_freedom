@@ -1,0 +1,16 @@
+Hi Bloomerang team,
+
+Your Sr. Software Engineer (Tech Lead) - Typescript/React role matches my hands-on work on a SaaS no-code platform at Codet.ai, where I build TypeScript/React features end to end, from dynamic database modeling and REST-backed records to drag-and-drop trigger, condition, and action workflows.
+
+Your AI-first engineering direction is where I have direct proof. I built AutoCloudEngineerAgent in LangGraph to automate infra proposals, run canary deploys on Kubernetes, execute invariant benches, and roll back when checks fail, so automation stays bounded by hard safety rules. Earlier at Euronet, I delivered Java REST APIs with JWT RBAC and PostgreSQL for ISO 8583 payment integrations, which grounded my API design and production debugging on real fintech traffic.
+
+I am drawn to Bloomerang because your giving platform helps nonprofits raise more while your team explores how AI can automate work around development and free engineers for harder problems.
+
+Happy to connect for a brief call. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

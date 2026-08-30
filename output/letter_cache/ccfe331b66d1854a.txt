@@ -1,0 +1,15 @@
+Hi ISU team,
+
+Your AI Engineer role centers on moving AI from stakeholder requirements into production with testing and lifecycle support, which matches how I work at Codet.ai on a no-code platform with drag-and-drop workflows, an in-app AI assistant, and features shipped end to end.
+
+I have built multi-agent systems with AutoCloudEngineerAgent in LangGraph. It proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benchmarks, then rejects, rolls back, or recommends promotion, with hard safety constraints that an advisory LLM cannot override. At Euronet I developed Java REST APIs with JWT RBAC and PostgreSQL for fintech payment integrations, which aligns with your focus on secure authentication, authorization, and data protection in cloud environments. I also work directly with stakeholders to document needs and turn them into maintainable applications, similar to supporting extension and research users in higher education.
+
+I'm interested in ITS's work embedding practical AI into university services, where monitoring, troubleshooting, and ongoing fixes matter after launch.
+
+Happy to discuss relevant projects on a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

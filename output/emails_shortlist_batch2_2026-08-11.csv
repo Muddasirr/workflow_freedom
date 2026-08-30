@@ -1,0 +1,27 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,SMTP Verification
+Gaditek,Karachi,Karachi,hr@gaditek.com,guessed pattern (verify before sending),hr@gaditek.com,gaditek.com,https://gaditek.com/careers,,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-4814a5a9cbbsi2967571f8f.63 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does not exist. Please try"
+Zameen,Karachi,Karachi,hr@zameen.com,guessed pattern (verify before sending),hr@zameen.com,zameen.com,https://zameen.com/careers,,"smtp.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-4814a5bb386si3086781f8f.129 - gsmtp' | fake:smtp.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does not exist. Please try\n5.1"
+Bahrain FinTech Bay,Bahrain,Manama,hr@bahrainfintechbay.com,guessed pattern (verify before sending),hr@bahrainfintechbay.com,bahrainfintechbay.com,https://bahrainfintechbay.com/careers,,cache strict-valid
+Telda,Egypt,Cairo / remote,people@telda.app,guessed pattern (verify before sending),hr@telda.app,telda.app,https://telda.app/careers,,cache strict-valid
+EasyStore,Malaysia,Kuala Lumpur / remote,jobs@easystore.co,guessed pattern (verify before sending),hr@easystore.co,easystore.co,https://easystore.co/careers,,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-4814a747831si3194694f8f.215 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does not exist. Please tr"
+Aircall,Europe,Paris / remote,talent@aircall.io,company website,hr@aircall.io,aircall.io,https://aircall.io/careers,,cache strict-valid
+Alan,Europe,Paris / remote,talent@alan.com,company website,"hr@alan.com, contact@alan.com",alan.com,https://alan.com/careers,,cache strict-valid
+Aleph Alpha,Europe,Heidelberg / remote,hiring@aleph-alpha.com,guessed pattern (verify before sending),hr@aleph-alpha.com,aleph-alpha.com,https://aleph-alpha.com/careers,,cache strict-valid
+Algolia,Europe,Paris / remote,talent@algolia.com,company website,"partners@algolia.com, billing@algolia.com, hr@algolia.com",algolia.com,https://algolia.com/careers,,cache strict-valid
+Back Market,Europe,Paris / remote,hr@backmarket.com,guessed pattern (verify before sending),hr@backmarket.com,backmarket.com,https://backmarket.com/careers,,cache strict-valid
+BlaBlaCar,Europe,Paris / remote,people@blablacar.com,guessed pattern (verify before sending),hr@blablacar.com,blablacar.com,https://blablacar.com/careers,,cache strict-valid
+Bunq,Europe,Amsterdam / remote,jobs@bunq.com,company website,hr@bunq.com,bunq.com,https://bunq.com/careers,,cache strict-valid
+Cabify,Europe,Madrid / remote,people@cabify.com,guessed pattern (verify before sending),hr@cabify.com,cabify.com,https://cabify.com/careers,,cache strict-valid
+Cal.com,Europe,Europe / remote,hr@cal.com,guessed pattern (verify before sending),hr@cal.com,cal.com,https://cal.com/careers,,cache strict-valid
+Cleo,Europe,London / remote,talent@meetcleo.com,guessed pattern (verify before sending),hr@meetcleo.com,meetcleo.com,https://meetcleo.com/careers,,cache strict-valid
+Dashlane,Europe,Paris / remote,talent@dashlane.com,guessed pattern (verify before sending),hr@dashlane.com,dashlane.com,https://dashlane.com/careers,,cache strict-valid
+Deezer,Europe,Paris / remote,talent@deezer.com,guessed pattern (verify before sending),hr@deezer.com,deezer.com,https://deezer.com/careers,,cache strict-valid
+Doctolib,Europe,Paris / remote,hr@doctolib.com,guessed pattern (verify before sending),hr@doctolib.com,doctolib.com,https://doctolib.com/careers,,cache strict-valid
+Doctrine,Europe,Paris / remote,hr@doctrine.fr,guessed pattern (verify before sending),hr@doctrine.fr,doctrine.fr,https://doctrine.fr/careers,,cache strict-valid
+Ecosia,Europe,Berlin / remote,jobs@ecosia.org,guessed pattern (verify before sending),hr@ecosia.org,ecosia.org,https://ecosia.org/careers,,cache strict-valid
+Framer,Europe,Amsterdam / remote,hello@framer.com,company website,"abuse@framer.com, hr@framer.com",framer.com,https://framer.com/careers,,cache strict-valid
+Marshmallow,Europe,London / remote,hello@marshmallow.com,guessed pattern (verify before sending),hr@marshmallow.com,marshmallow.com,https://marshmallow.com/careers,,cache strict-valid
+Onfido,Europe,London / remote,people@onfido.com,guessed pattern (verify before sending),hr@onfido.com,onfido.com,https://onfido.com/careers,,cache strict-valid
+Preply,Europe,Kyiv / remote,careers@preply.com,guessed pattern (verify before sending),hr@preply.com,preply.com,https://preply.com/careers,,cache strict-valid
+Qdrant,Europe,Berlin / remote,careers@qdrant.tech,guessed pattern (verify before sending),hr@qdrant.tech,qdrant.tech,https://qdrant.tech/careers,,cache strict-valid
+Rapyd,Europe,London / remote,jobs@rapyd.net,guessed pattern (verify before sending),hr@rapyd.net,rapyd.net,https://rapyd.net/careers,,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-4814a5a93easi3175136f8f.17 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does not exist. Please try"

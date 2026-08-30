@@ -1,0 +1,15 @@
+Hi Diligent team,
+
+The Software Engineer (NodeJS, Typescript) role fits the work I do at Codet.ai, where I build TypeScript services and product features on a no-code platform, from dynamic database modules to workflow APIs that run in production.
+
+Your focus on secure, scalable microservices and reliable APIs matches my recent ownership of features from planning through release. I support production with Kubernetes canary deployments and automated rollback when invariant checks fail, and I use React daily alongside backend work. At Euronet I built Java REST APIs for fintech payment flows with JWT RBAC and PostgreSQL, which shaped how I design secure integrations under real usage. I also use AI tooling in day-to-day coding and debugging, including a LangGraph agent where model output is checked against fixed safety constraints before anything ships.
+
+I am interested in Diligent’s hands-on product engineering culture and the chance to grow across backend, cloud, and AI-assisted development on software that runs reliably at scale.
+
+Happy to connect for a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

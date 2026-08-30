@@ -1,0 +1,12 @@
+Hi Tehreem,
+
+Applying for: Associate Web Developer (Pakistan remote).
+
+I ship product frontend at Codet.ai in Next.js, React, and TypeScript: a drag-and-drop no-code canvas (trigger → condition → action) and an in-app AI assistant beside the editor. Comfortable with responsive UI, REST APIs, Git, and shipping production features with ownership.
+
+Also built AutoCloudEngineerAgent (LangGraph) — useful background if you need someone who can work across product UI and AI-assisted tooling.
+
+Resume attached — portfolio: muddasirrizwan.com. Available full-time remote from Karachi. Open to a short call this week.
+
+Muhammad Muddasir
++92-3249867842 · muddasirrizwan9@gmail.com · muddasirrizwan.com

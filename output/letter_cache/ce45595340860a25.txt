@@ -1,0 +1,15 @@
+Hi Our Future Health team,
+
+I'm applying for the Software Engineer (Typescript & Node) role on Research Enablement. At Codet.ai I build full-stack product in TypeScript on Next.js and Node, including a dynamic database module on PostgreSQL with tables, relationships, and record services.
+
+Your squad's full-stack ownership model matches how I already ship: UI workflow components, backend APIs, and deployment safety. I developed AutoCloudEngineerAgent with LangGraph to propose infrastructure changes, deploy only to a Kubernetes canary, run invariant benches, then reject, roll back, or recommend promotion when hard safety constraints fail. At Euronet I delivered REST APIs with JWT RBAC and PostgreSQL for payment integrations, where careful authorization around sensitive payloads was routine.
+
+I'm interested in Research Enablement because your systems process highly sensitive health and genetic data while empowering researchers through a trusted environment, and that intersection is where I want to grow next.
+
+Open to a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

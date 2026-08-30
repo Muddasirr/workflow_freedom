@@ -1,0 +1,3 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,SMTP Verification
+Qlik,Remote,Worldwide,recruitment@qlik.com,guessed pattern (verify before sending),,qlik.com,https://qlik.com/careers,,mxa-0021b601.gslb.pphosted.com rcpt 250 b'2.1.5 Recipient ok' | fake:mxa-0021b601.gslb.pphosted.com rcpt 550 b'5.1.1 User Unknown'
+Iress,Remote,Worldwide,recruitment@iress.com,guessed pattern (verify before sending),,iress.com,https://iress.com/careers,,mxa-00574e01.gslb.pphosted.com rcpt 250 b'2.1.5 Recipient ok' | fake:mxa-00574e01.gslb.pphosted.com rcpt 550 b'5.1.1 User Unknown'

@@ -1,0 +1,6 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,SMTP Verification
+QIB,Qatar,Doha,careers@qib.com.qa,guessed pattern (verify before sending),,qib.com.qa,https://qib.com.qa/careers,,smtp.qib.com.qa rcpt 250 b'recipient <careers@qib.com.qa> ok' | fake:smtp.qib.com.qa rcpt 550 b'#5.1.0 Address rejected.'
+Buildkite,Australia,Melbourne,careers@buildkite.com,guessed pattern (verify before sending),,buildkite.com,https://buildkite.com/careers,,cached
+Rokt,Australia,Sydney,careers@rokt.com,guessed pattern (verify before sending),,rokt.com,https://rokt.com/careers,,cached
+SiteMinder,Australia,Sydney,careers@siteminder.com,guessed pattern (verify before sending),,siteminder.com,https://siteminder.com/careers,,cached
+Qatar Islamic Bank Digital,Qatar,Doha,info@qib.com.qa,company website,,qib.com.qa,https://qib.com.qa/careers,,strict

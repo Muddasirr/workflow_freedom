@@ -1,0 +1,5 @@
+﻿Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,Location Clause,Letter,Seniority,Experience Fit,Matched Skills,Job Summary,SMTP Verification
+Hugging Face,Remote,,careers@huggingface.co,prior shortlist,,huggingface.co,,,,,,,,,cache strict-valid
+n8n,Remote,,talent@n8n.io,prior shortlist,,n8n.io,,,,,,,,,cache strict-valid
+Hf,Remote,,careers@hf.co,mailbox cache,,hf.co,,,,,,,,,cache strict-valid
+Jungheinrich,Remote,,karriere@jungheinrich.de,mailbox cache,,jungheinrich.de,,,,,,,,,cache strict-valid

@@ -1,0 +1,15 @@
+Hi Intelligent Inference team,
+
+The AI Engineer, Inference Platform role matches the production agent and deployment work I do at Codet.ai today. I built AutoCloudEngineerAgent in LangGraph, which proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when hard safety constraints fail. That pattern mirrors the control and reliability your i2 gateway needs for self-hosted open-weight models on CUDA and CANN hardware.
+
+On the product side, I have shipped a Next.js no-code platform with dynamic database modules, drag-and-drop workflows, and an in-app AI assistant. I also built Java REST APIs at Euronet for regulated fintech flows with JWT RBAC and PostgreSQL, experience that translates to OpenAI-compatible APIs, streaming, and serving banks and enterprises that cannot route workloads abroad.
+
+Your sovereign regional deployment in Pakistan, with token usage visibility and localized billing, is exactly the inference infrastructure I want to help scale across AMEA.
+
+Open to a short call to walk through my agent and platform work. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

@@ -1,0 +1,13 @@
+Hi Confiz team,
+
+Confiz’s Software Engineer role in Pakistan / Remote maps to the TypeScript and React services I ship at Codet.ai for workflow and data-heavy product surfaces. I build UI modules, REST-backed database layers for tables and relationships, and drag-and-drop action flows that enterprise users rely on daily.
+
+That lines up with delivering React frontends and Node-backed API services for your client engagements. I define endpoints, wire third-party integrations, and keep PostgreSQL data consistent across features. At Euronet I built Java EE REST APIs for fintech, including ISO 8583 payment flows and JWT RBAC, which shaped how I design secure, testable APIs under production constraints. I also deploy through Docker and Kubernetes canary paths on an internal infra agent, so cloud-aware delivery is familiar work for me.
+
+I would like to bring that full-stack delivery to Confiz’s enterprise client projects from Pakistan. Open to a short call to walk through relevant work; resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

@@ -1,0 +1,6 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,SMTP Verification
+StaffAny,Singapore,Singapore / remote,hr@staffany.com,guessed pattern (verify before sending),,staffany.com,https://staffany.com/careers,,cache strict-valid
+Carousell,Singapore,Singapore / remote,recruitment@carousell.com,guessed pattern (verify before sending),,carousell.com,https://carousell.com/careers,,cache strict-valid
+Framer,Europe,Amsterdam / remote,hello@framer.com,company website,,framer.com,https://framer.com/careers,,cache strict-valid
+Marshmallow,Europe,London / remote,hello@marshmallow.com,company website,,marshmallow.com,https://marshmallow.com/careers,,cache strict-valid
+Scandit,Europe,Zurich / remote,contact@scandit.com,company website,,scandit.com,https://scandit.com/careers,,"aspmx.l.google.com rcpt 250 b'2.1.5 OK ffacd0b85a97d-4815a5b6312si2554550f8f.227 - gsmtp' | fake:aspmx.l.google.com rcpt 550 b""5.1.1 The email account that you tried to reach does not exist. Please try\n5.1.1 double-checking the recipient's email address for typos or\n5.1.1 unnecessary spaces. For more information, go to\n5.1.1  https://support.google.com/mail/?p=NoSuchUser ffacd0b85a97d-4815a5d13"

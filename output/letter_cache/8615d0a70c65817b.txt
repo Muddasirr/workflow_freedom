@@ -1,0 +1,15 @@
+Hi Crost AI team,
+
+Your Full-Stack Product Engineer (React/Next.js + AI Infrastructure) role matches the production Next.js and TypeScript user flows I ship at Codet.ai, from drag-and-drop workflows to a dynamic database module serving real customer sessions.
+
+I debug issues across frontend code, APIs, and integrations. At Euronet I isolated fintech REST and payment failures in Java services and PostgreSQL. At Codet I built AutoCloudEngineerAgent on LangGraph with Kubernetes canary deploys and hard rollback rules, plus an in-app AI assistant. I use Docker regularly and keep CI-friendly release paths. For the cart, checkout, and session problems you described, I would add Playwright end-to-end tests and tighter product analytics instrumentation around funnels and error monitoring.
+
+Working with founders on prioritized fixes tied to conversion and regression metrics is exactly the ownership I want in a remote product engineering role.
+
+Open to a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

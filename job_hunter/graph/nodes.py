@@ -103,7 +103,11 @@ def find_jobs(state: GraphState) -> GraphState:
         skip_domains=sent_domains,
         limit=max(int(state.get("limit") or 8) * 4, 40),
     )
-    board_jobs = collect_jobs(junior_only=True, scrape_emails=False)
+    board_jobs = collect_jobs(
+        junior_only=True,
+        pakistan_friendly_only=True,
+        scrape_emails=False,
+    )
     jobs = list(board_jobs) + list(career_jobs)
     best: dict[str, Job] = {}
     for job in jobs:
@@ -227,7 +231,7 @@ def validate_email(state: GraphState) -> GraphState:
 
 
 def write_letter(state: GraphState) -> GraphState:
-    """Step 4a — Cursor letter from the posting; template fallback if the agent fails."""
+    """Step 4a — Cursor letter from the posting (ai-job-search voice). No generic template when agent is on."""
     card = dict(state.get("current") or {})
     job = _card_to_job(card)
     role = role_label(job)
@@ -235,7 +239,8 @@ def write_letter(state: GraphState) -> GraphState:
     template = pick_letter(job)
     body = ""
     kind = template.name
-    if role and not state.get("no_agent"):
+    use_agent = not state.get("no_agent")
+    if role and use_agent:
         try:
             from job_hunter.agent_letter import agent_enabled, write_cover_letter
 
@@ -245,14 +250,26 @@ def write_letter(state: GraphState) -> GraphState:
                     company=card.get("company") or "",
                     role=role,
                     location=card.get("location") or "",
-                    summary=card.get("excerpt") or "",
+                    summary=(card.get("description") or card.get("excerpt") or ""),
                     skills=card.get("skills") or "",
                     apply_url=card.get("url") or "",
                 )
-                kind = "cursor-agent"
+                kind = "cursor-agent-ai-job-search"
+            else:
+                _log(state, "  STEP 4  CURSOR_API_KEY missing — cannot write tailored letter")
         except Exception as exc:  # noqa: BLE001
-            _log(state, f"  agent fallback: {exc}")
+            _log(state, f"  STEP 4  agent failed: {exc}")
             body = ""
+    if not body and use_agent:
+        # Never send Mad-Libs templates when user expects ai-job-search letters.
+        card["status"] = "no-letter"
+        card["reason"] = "tailored cover letter failed"
+        card["letter"] = ""
+        card["letter_kind"] = ""
+        card["title"] = role
+        _log(state, "  STEP 4  skip send — no tailored letter")
+        state["current"] = card
+        return state
     if not body:
         body = render_body(
             template.read_text(encoding="utf-8"),
@@ -265,7 +282,10 @@ def write_letter(state: GraphState) -> GraphState:
     card["letter"] = body
     card["letter_kind"] = kind
     card["title"] = role
-    _log(state, f"  STEP 4  letter ready  [{kind}]")
+    card["status"] = "letter-ready"
+    preview = " ".join(body.split())[:160]
+    _log(state, f"  STEP 4  letter ready  [{kind}] ({len(body)} chars)")
+    _log(state, f"    preview: {preview}…")
     state["current"] = card
     return state
 
@@ -273,6 +293,8 @@ def write_letter(state: GraphState) -> GraphState:
 def deliver(state: GraphState) -> GraphState:
     """Step 4b — send resume + letter, or dry-run."""
     card = dict(state.get("current") or {})
+    if card.get("status") == "no-letter" or not (card.get("letter") or "").strip():
+        return skip(state)
     email = card.get("email") or ""
     company = card.get("company") or ""
     body = card.get("letter") or ""

@@ -1,0 +1,14 @@
+Hi NBC Universal team,
+
+Your Sr Software Engineer role on agentic, LLM-powered applications fits the LangGraph orchestration work I ship at Codet.ai today. I built AutoCloudEngineerAgent, which proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back or recommends promotion when safety checks fail.
+
+That work covers agentic workflows, prompt tuning for reliability, and cloud-native deployment with hard constraints the LLM cannot override. I also deliver trigger-condition-action flows and an in-app AI assistant on our Next.js platform, with Python backends and REST APIs. At Euronet I built Java REST services for fintech payment integrations with JWT RBAC and PostgreSQL.
+
+I want to extend that foundation into observability, MCP server components, and AWS serverless patterns outlined in your posting. Open to a short call to walk through my agent design. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

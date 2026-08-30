@@ -1,0 +1,2 @@
+﻿Company,Region,City,HR / Recruiter Email,Email Source,Other Emails,Domain,Careers / Apply URL,Sample Role,Location Clause,Letter,SMTP Verification
+Systechlogic,Karachi,Karachi,info@systechlogic.com,company website,,systechlogic.com,https://systechlogic.com/contact,,,,"mail.systechlogic.com rcpt 250 b'Accepted' | fake:mail.systechlogic.com rcpt 550 b'No Such User Here""'"

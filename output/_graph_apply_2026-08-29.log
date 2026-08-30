@@ -1,0 +1,84 @@
+STEP 1  Find job postings
+Scraping careers pages for 90 unsent software companies (0 already have a published email)…
+  HIT Tractable                    1 roles  email=-  Embedded Systems Engineer
+  HIT Railway                      1 roles  email=-  Growth Content Engineer Remote (anywhere
+  HIT Lovable                      3 roles  email=-  Brand Engineer Design • Multiple locatio, AI Research Engineer, Post-Training Engi, Forward Deployed Engineer Engineering • 
+  HIT dbt Labs                     2 roles  email=-  Software Engineer, Software Engineer II
+  HIT Mustakbil Tech               7 roles  email=-  Full-Stack Laravel Engineer - Production, AI/OCR Engineer, Civil Engineer
+  Career-page junior SWE/AI/product roles: 14  (0 with a hiring email)
+Fetching job boards…
+  [Himalayas] 0 listings pulled
+  [SadaPay] 2 listings pulled
+  [Arbeitnow] 9 listings pulled
+  [RemoteOK] 100 listings pulled
+  [Greenhouse] 950 listings pulled
+  [Jobicy] 334 listings pulled
+  [Remotive] 19 listings pulled
+  [We Work Remotely] 129 listings pulled
+  [JazzHR PK] 35 listings pulled
+  [Lever] 108 listings pulled
+Pulled 1686 raw listings. Scoring junior SWE/AI/product roles…
+  Matching 0–2 year / junior-friendly roles: 53
+  67 matching roles, 19 unsent companies to walk
+
+[1/19] Software Development Engineer II Full Stack - Business (Remote @ Colombia) @ OfferUp
+  STEP 2  no published hiring email — skip
+
+[2/19] Backend Software Engineer, PDP Experience @ Reddit
+  STEP 2  no published hiring email — skip
+
+[3/19] Product Engineer @ SuperPlane
+  STEP 2  no published hiring email — skip
+
+[4/19] DESARROLLADOR FULL STACK @ Kruger NearShore LLC - Rekluti
+  STEP 2  no published hiring email — skip
+
+[5/19] Full-Stack Product Engineer - Agentic First @ Wonderdog
+  STEP 2  no published hiring email — skip
+
+[6/19] Junior DevOps Engineer (CI/CD & Developer Tooling) remote (m/f/d) @ Charisma-tec
+  STEP 2  no published hiring email — skip
+
+[7/19] Full-Stack Laravel Engineer - Production Support And Integrations @ Mustakbil Tech
+  STEP 2  no published hiring email — skip
+
+[8/19] Formateur IT Indépendant  Cybersécurité, IA, Cloud, DevOps et Réseaux ... @ Alphorm
+  STEP 2  no published hiring email — skip
+
+[9/19] Independent Board Director (ML-Driven Product & Data Platform Leader) @ Appodeal
+  STEP 2  no published hiring email — skip
+
+[10/19] Data Analyst, Reporting Partnerships @ Doximity
+  STEP 2  no published hiring email — skip
+
+[11/19] AI Product Development Coach (Contract) @ Leland
+  STEP 2  no published hiring email — skip
+
+[12/19] DevOps Engineer @ Tenchi Security
+  STEP 2  no published hiring email — skip
+
+[13/19] Oracle Fusion Cloud Lead â Logistics & Supply Chain Management @ Tessera Labs
+  STEP 2  no published hiring email — skip
+
+[14/19] Web Developer @ Charles Technology Africa
+  STEP 2  no published hiring email — skip
+
+[15/19] Software Engineer @ dbt Labs
+  STEP 2  no published hiring email — skip
+
+[16/19] Course Director UX UI and AI @ Interaction Design Foundation
+  STEP 2  no published hiring email — skip
+
+[17/19] Brand Engineer Design • Multiple locations @ Lovable
+  STEP 2  no published hiring email — skip
+
+[18/19] Growth Content Engineer Remote (anywhere) @ Railway
+  STEP 2  no published hiring email — skip
+
+[19/19] Embedded Systems Engineer @ Tractable
+  STEP 2  no published hiring email — skip
+Done walking jobs.
+
+Walked 19 companies
+  Ready/sent: 0
+  Skipped:    19
