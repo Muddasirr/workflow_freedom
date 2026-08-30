@@ -1,0 +1,109 @@
+%% Example CV - Muhammad Muddasir
+%% Comprehensive overview of all competencies, experience, and achievements.
+%% Use as a master reference when tailoring role-specific CVs.
+%%
+%% Compile with: lualatex main_example.tex
+
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+
+\renewcommand*{\namefont}{\fontsize{34}{36}\bfseries\upshape}
+\colorlet{firstnamecolor}{color1}
+\colorlet{lastnamecolor}{color1}
+\colorlet{namecolor}{color1}
+\renewcommand*{\sectionstyle}[1]{{\sectionfont\color{color1}#1}}
+
+\usepackage[utf8]{inputenc}
+\AtEndPreamble{\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    pdftitle={Muhammad Muddasir - CV},
+    pdfpagemode=UseNone,
+}}
+\usepackage[scale=0.80]{geometry}
+\usepackage{import}
+
+\name{Muhammad}{Muddasir}
+\address{Karachi, Pakistan}{}{}
+\phone[mobile]{+92-3249867842}
+\email{muddasirrizwan9@gmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/muddasir-rizwan}{LinkedIn}, \href{https://muddasirrizwan.com}{Website}}
+
+\begin{document}
+
+\makecvtitle
+
+\vspace{6pt}
+\small{Software engineer shipping fullstack web products and applied AI systems. Builds no-code platforms and interactive workflow UIs in Next.js/TypeScript, and LangGraph agent control planes with hard safety constraints. Prior fintech API work in Java. Open to fullstack, frontend, and AI engineering roles in Pakistan or remote worldwide.}
+
+\section{Core Competencies}
+\vspace{1pt}
+\begin{itemize}
+\item \textbf{Frontend}: React.js, Next.js, TypeScript, Redux, Material UI, Tailwind CSS, shadcn/ui, ReactFlow, Monaco Editor, React-DnD
+\item \textbf{Backend}: Node.js, Express.js, Java / Java EE, REST APIs, JWT/RBAC, FastAPI, PostgreSQL, MongoDB
+\item \textbf{AI / agents}: LangChain, LangGraph, Python, LLM application workflows with canary/rollback safety rails
+\item \textbf{Product platforms}: No-code builders, dynamic database modules, visual workflow editors
+\item \textbf{Tools}: Docker, Git, AWS, CI/CD (basics), Agile/Scrum, Kubernetes (canary deploy context)
+\end{itemize}
+
+\section{Professional Experience}
+\vspace{3pt}
+\begin{itemize}
+
+\item{\cventry{June 2025--Present}{Software Engineer}{Codet.ai}{Karachi, Pakistan}{}{\vspace{1pt}
+\begin{itemize}
+    \item Built and scaled a no-code platform using Next.js for creating and managing applications without writing code
+    \item Designed a dynamic database module (tables, fields, relationships, records)
+    \item Developed drag-and-drop interfaces for workflows and UI components
+    \item Shipped AutoCloudEngineerAgent, a LangGraph control plane for safe infra proposals with Kubernetes canary deploys, invariant benches, and promote/rollback
+    \item Built a GP-UCB / trust-region optimizer with BO-ICL as an advisory LLM surrogate under hard safety constraints
+\end{itemize}}}
+
+\vspace{3pt}
+
+\item{\cventry{February 2025--May 2025}{Software Engineer}{Euronet}{Pakistan}{}{\vspace{1pt}
+\begin{itemize}
+    \item Developed RESTful APIs in Java / Java EE for fintech applications; implemented ISO 8583 payment APIs
+    \item Implemented JWT authentication and role-based access control
+    \item Used PostgreSQL for query optimization; integrated third-party payment APIs
+    \item Debugged and optimized legacy code for system efficiency
+\end{itemize}}}
+
+\end{itemize}
+
+\section{Selected Projects}
+\vspace{1pt}
+\begin{itemize}
+\item \textbf{Crop Yield Predictor} (Next.js, Node.js, FastAPI, PostgreSQL): Geospatial crop-yield prediction with Mapbox GL field drawing and ML workflows
+\item \textbf{Rulr} (Next.js, TypeScript, ReactFlow, Monaco): Visual API-logic builder with DnD, schema validation, and typed MUI components
+\item \textbf{Askwhy - Filter Bubble} (Vite, React, Supabase): Filter-bubble detection app with auth, realtime DB, Tailwind/shadcn UI
+\end{itemize}
+
+\section{Education}
+\vspace{1pt}
+\begin{itemize}
+\item{\cventry{2021--2025}{BSc in Computer Science}{Institute of Business Administration (IBA)}{Karachi, Pakistan}{}{}}
+\end{itemize}
+
+\section{Languages}
+\vspace{1pt}
+\begin{itemize}
+\item{English (fluent), Urdu (fluent).}
+\end{itemize}
+
+\section{Certifications}
+\vspace{1pt}
+\begin{itemize}
+\item{Sentiment Analysis in Python; Google Data Analytics Specialization; Introduction to Deep Learning with PyTorch; Introduction to Natural Language Processing in Python.}
+\end{itemize}
+
+\section{References}
+\vspace{1pt}
+\begin{itemize}
+\item{Available upon request.}
+\end{itemize}
+
+\end{document}
