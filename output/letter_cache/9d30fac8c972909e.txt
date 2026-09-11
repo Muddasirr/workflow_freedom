@@ -1,0 +1,16 @@
+Hi Trainline team,
+
+I'm applying for the Software Engineer / Full Stack Engineer role. My year at Codet.ai has been focused on a production Next.js platform in TypeScript and React, where I own a dynamic database module with tables, fields, relationships, and records, plus drag-and-drop workflow UI from triggers through conditions to actions.
+
+I've also worked on AI-adjacent systems in Python. AutoCloudEngineerAgent uses LangGraph so an LLM can advise infra proposals, but Kubernetes canary deploys, invariant benches, and rollbacks stay under hard safety rules. Before Codet, at Euronet I delivered Java REST APIs for fintech with PostgreSQL, JWT RBAC, and third-party payment integrations.
+
+The React, Next.js, TypeScript, Python, and API focus in your posting matches my current stack, and I'd welcome contributing on a London or remote team.
+
+Happy to connect on a short call. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

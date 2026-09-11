@@ -1,0 +1,14 @@
+Hi MutuiOnline team,
+
+I'm writing about your Software Engineer (Full Stack / Frontend / AI) opening. Your React, Next.js, TypeScript, Python, and AI stack is what I use daily at Codet.ai.
+
+I'm Muddasir Rizwan, a software engineer building and scaling a no-code platform in Next.js with dynamic databases, drag-and-drop workflows, and an in-app AI assistant.
+
+At Codet.ai I built AutoCloudEngineerAgent in LangGraph and Python, which deploys to Kubernetes canaries and enforces safety checks before promotion, aligned with the AI and full-stack work in your posting.
+
+Could we grab 15 minutes this week?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

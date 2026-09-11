@@ -1,0 +1,13 @@
+Hi Cartlow PK team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role in Lahore / remote and the React/Next.js/TypeScript/Python/AI stack on cartlow.com/careers.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building a Next.js no-code platform with drag-and-drop workflows and an in-app AI assistant.
+
+Recently I built AutoCloudEngineerAgent in LangGraph: it proposes infra, deploys to a Kubernetes canary, runs invariant benches, and rolls back unless safety checks pass.
+
+Would you have 15 minutes this week for a quick chat?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><theHarvester><cmd>-d ie.whatjobs.com -b hunter,duckduckgo,yahoo,baidu,hudsonrock,gitlab,urlscan,mojeek -l 40 -f /home/sleepwellsystem/Desktop/codet-webb/output/harvester_cache/run_ie_whatjobs_com --quiet</cmd></theHarvester>

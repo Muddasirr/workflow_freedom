@@ -1,0 +1,14 @@
+Hi DPL team,
+
+The Full Stack .NET Developer role aligns with my experience building secure REST APIs and scalable web applications for FinTech and product platforms.
+
+At Euronet, I delivered Java EE REST services for payment processing, ISO 8583 integrations, JWT RBAC, and PostgreSQL, along with third-party payment connectors. At Codet.ai, I build full-stack features on a Next.js no-code platform: dynamic database modules, drag-and-drop workflows, and REST-backed UI with an in-app AI assistant. I also developed AutoCloudEngineerAgent in LangGraph, which deploys infrastructure changes to Kubernetes canaries, runs invariant benches, and rolls back unsafe releases. My stack has been Java and Next.js, and I am ready to bring the same API design and delivery discipline to .NET Core and Angular. That background fits your needs for high-performance FinTech applications, Docker, Kubernetes, and AI-driven work.
+
+DPL’s culture of experimentation and shaping 4IR technology is why this opening caught my attention.
+
+Open to a brief call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

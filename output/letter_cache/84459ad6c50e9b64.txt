@@ -1,0 +1,15 @@
+Hi SAP team,
+
+The Forward Deployed AI Engineer role fits the production agent and cloud-native work I do at Codet.ai today. I built AutoCloudEngineerAgent in LangGraph, which proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, then rolls back or recommends promotion when safety checks fail.
+
+That experience lines up with developing enterprise applications that integrate LLMs and agent-based components, and with prototyping and iterating under real deployment constraints. On the same platform I shipped a dynamic database module and drag-and-drop trigger-condition-action workflows in Next.js, implementing features in a fast-moving team while keeping code quality through reviews and testing. At Euronet I delivered Java REST APIs for fintech payments with JWT RBAC and PostgreSQL, which taught me to translate business rules into reliable integrations.
+
+I'm early in my AI engineering career and drawn to SAP's customer-embedded delivery model, where solutions need to make a tangible difference for enterprise users.
+
+Open to a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

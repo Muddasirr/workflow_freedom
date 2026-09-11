@@ -1,0 +1,16 @@
+Hi Slidly Logistics team,
+
+Your Website Development brief, a modern, aesthetic site built from scratch in Next.js and React, matches what I do at Codet.ai. I ship production TypeScript interfaces there, including drag-and-drop UI components and responsive layouts for a no-code platform used by non-technical users.
+
+Outside work, Crop Yield Predictor uses Next.js with Mapbox and PostgreSQL for a consumer-facing, mobile-first experience. Rulr is a ReactFlow visual builder with TypeScript end to end. If ecommerce or D2C is part of your plan, I can structure product pages, checkout flows, and catalog navigation that stay fast and easy to maintain.
+
+You want a professional site that represents Slidly on first scroll. That is the standard I build to. Portfolio and project details are at muddasirrizwan.com.
+
+Happy to connect for a short call on scope, timeline, and design direction. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

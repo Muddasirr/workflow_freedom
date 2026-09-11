@@ -1,0 +1,14 @@
+Hi Just Eat Takeaway team,
+
+I am reaching out about your Software Engineer (Full Stack / Frontend / AI) role, where the stack centers on React, Next.js, TypeScript, Python, and AI across London, Amsterdam, or remote.
+
+I am a software engineer at Codet.ai in Karachi, focused on full-stack product work and open to remote roles worldwide.
+
+At Codet.ai I scaled a Next.js no-code platform with drag-and-drop workflows and shipped a LangGraph in-app AI assistant that deploys only to Kubernetes canaries under hard safety checks.
+
+Would you have 15 minutes this week for a brief call?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

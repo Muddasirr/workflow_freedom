@@ -1,0 +1,15 @@
+Hi Mawdoo3 team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role for Amman/remote and the React/Next.js/TypeScript/Python/AI stack in the posting.
+
+I am Muddasir Rizwan, a software engineer at Codet.ai where I build a no-code Next.js platform with drag-and-drop workflows and an in-app AI assistant.
+
+Recently I shipped AutoCloudEngineerAgent in LangGraph: it proposes infra, deploys to a Kubernetes canary, runs invariant checks, then rolls back or recommends promotion.
+
+Would you have 15 minutes this week for a quick call?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

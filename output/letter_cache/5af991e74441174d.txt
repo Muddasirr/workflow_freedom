@@ -1,0 +1,13 @@
+Hi Presight team,
+
+I'm reaching out about your Engineer - Full Stack role in the UAE. I'm Muddasir Rizwan, a software engineer at Codet.ai since June 2025, working daily in React, Next.js, TypeScript, Python, and AI.
+
+Recently I scaled Codet.ai's no-code platform in Next.js with drag-and-drop workflows and a LangGraph agent that deploys only to Kubernetes canary and runs invariant checks before rollout, which matches the React/Next.js/TypeScript/Python/AI profile in your posting.
+
+Would you have 15 minutes this week for a quick call?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

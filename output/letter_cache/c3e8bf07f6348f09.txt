@@ -1,0 +1,14 @@
+Hi RepairDesk team,
+
+I'm interested in the Full Stack Engineer (Node, Vue, MySQL) role in Lahore. At Codet.ai I build and scale a Next.js platform with a dynamic database module for tables, fields, relationships, and records, so I'm used to owning features from UI through persistence.
+
+Your posting calls out React, Next.js, TypeScript, Python, and AI/LLM work. I ship drag-and-drop workflow UI in TypeScript and React, plus an in-app AI assistant, and I built AutoCloudEngineerAgent in LangGraph with hard safety gates around canary deploys. On the server side, I work with PostgreSQL every day, and at Euronet I delivered Java REST APIs with JWT RBAC for payment integrations.
+
+An associate-friendly full-stack seat where I can grow on Node and Vue while contributing on TypeScript, relational data, and AI features is exactly the kind of role I want next.
+
+Open to a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

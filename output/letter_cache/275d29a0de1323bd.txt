@@ -1,0 +1,13 @@
+Hi Lightricks team,
+
+I'm writing about the Software Engineer (Full Stack / Frontend / AI) role in Jerusalem or remote. I'm Muddasir Rizwan, a software engineer at Codet.ai building a Next.js no-code platform in TypeScript, React, and Python.
+
+At Codet.ai I built drag-and-drop workflows, an in-app AI assistant, and AutoCloudEngineerAgent on LangGraph with Kubernetes canary deploys and safety-checked rollbacks. That matches your React/Next.js/TypeScript/Python/AI stack.
+
+Would 15 minutes this week work for a quick chat?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

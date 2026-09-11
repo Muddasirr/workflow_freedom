@@ -1,0 +1,12 @@
+Hi Lab3 Asia team,
+
+The AI Engineer / AI Agent Engineer role matches the agentic systems I build at Codet.ai in Python and TypeScript. Over the past year I shipped AutoCloudEngineerAgent, a LangGraph workflow that proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when hard safety constraints fail.
+
+That work fits your focus on LLM agents and agentic workflows. I also built trigger-condition-action automations and an in-app AI assistant on our no-code platform, which reinforced the system design mindset in your requirements: explicit state, guarded tool calls, and clear failure paths before anything reaches production.
+
+A full-time remote role centered on AI agents and multi-agent patterns is why this opening stood out. I would welcome a short call to walk through the LangGraph architecture and how I would grow it toward RAG and MCP-style tool integrations. Resume attached; portfolio at muddasirrizwan.com.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+Remote from Karachi (UTC+5)

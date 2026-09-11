@@ -1,0 +1,9 @@
+Hi DataDome team,
+
+I'm reaching out about your AI Engineer opening (Remote, France). I'm Muddasir Rizwan, a software engineer at Codet.ai building no-code platforms and production AI systems.
+
+At Codet.ai I built AutoCloudEngineerAgent on LangGraph: it proposes infra, deploys to a Kubernetes canary, runs invariant benchmarks, then rolls back or recommends promotion based on hard safety constraints.
+
+Would you have 15 minutes this week to talk about how that maps to your AI Engineer work?
+
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

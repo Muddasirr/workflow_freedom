@@ -1,0 +1,15 @@
+Hi Busigence team,
+
+The React Developer role on your Engineering team matches the frontend work I have been doing at Codet.ai, where I build React and Next.js interfaces for a data platform with drag-and-drop workflow components and a dynamic database module for tables, fields, and relationships.
+
+Your posting calls for JavaScript, HTML5, and CSS3 from scratch on sophisticated data platform applications, which is how I work day to day. I also shipped Rulr, a ReactFlow visual workflow builder with custom nodes and graph state across complex flows. At Euronet I built Java REST APIs and PostgreSQL-backed fintech services, so partnering with your data engineering team to surface analytics and decision workflows in the UI is familiar ground. Codet is a lean product team, so I am used to owning features end to end as an individual contributor.
+
+Busigence’s decision intelligence work, combining data, technology, and behavior for real users, is the kind of product-facing React work I want next.
+
+I am open to a short call and have attached my resume.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

@@ -1,0 +1,14 @@
+Hi Zong CMPak team,
+
+Your Software Engineer / Full Stack Engineer role in Islamabad fits the work I do now at Codet.ai, where I ship Next.js, TypeScript, and React for a no-code platform with dynamic database modules, drag-and-drop trigger-condition-action workflows, and an in-app AI assistant.
+
+The posting tags React, Next.js, TypeScript, Python, AI/LLM, and APIs. I own the frontend stack daily, and at Euronet I built Java REST payment APIs with JWT RBAC and PostgreSQL for fintech integrations. I also built AutoCloudEngineerAgent in LangGraph, which proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when checks fail. My Rulr project extends the same workflow mindset with a ReactFlow and Monaco visual builder.
+
+I would like to bring that associate-level full-stack and AI-adjacent experience to Zong CMPak in Islamabad, and I am open to onsite or hybrid in the region from Karachi.
+
+Happy to walk through fit on a short call. My resume is attached.
+
+Muhammad Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

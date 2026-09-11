@@ -1,0 +1,15 @@
+Hi Plutus21 team,
+
+Saw your Karachi Full Stack Engineer role for someone building and shipping in TypeScript/React/Next.js and Python/FastAPI.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi, currently shipping full-stack product on that stack.
+
+At Codet.ai I built a no-code platform in Next.js and FastAPI: dynamic database modules, drag-and-drop workflows, and features from design through production for real users.
+
+Open to a 15-minute call this week if that sounds useful.
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,16 @@
+Hi Avensys team,
+
+I'm applying for the Software Engineer role in Singapore. At Codet.ai I automate cloud deployments on Kubernetes with safety gates, and at Euronet I delivered fintech REST APIs for payment flows, which fits your focus on secure, scalable infrastructure for banking and financial services clients.
+
+I built AutoCloudEngineerAgent in Python and LangGraph to propose infrastructure, deploy only to a Kubernetes canary, run invariant benchmarks, and reject or roll back when checks fail. That pipeline work matches your responsibility to automate deployment, monitoring, and resilient operations in cloud environments. I also maintain a production Next.js platform with dynamic data models and workflow automation, so I can troubleshoot issues across application and container layers. At Euronet I implemented Java EE REST APIs with ISO 8583 payment integration, JWT RBAC, and PostgreSQL, giving me direct experience with the regulated APIs many of your enterprise clients rely on.
+
+A long-term contract with a Singapore team serving diverse sectors is a strong fit for how I like to work: agile delivery with clear ownership from code to operations.
+
+Happy to connect for a brief call. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

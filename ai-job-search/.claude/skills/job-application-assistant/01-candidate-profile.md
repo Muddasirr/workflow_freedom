@@ -11,7 +11,7 @@ framework_version: 1.1.1
 - **Email:** muddasirrizwan9@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/muddasir-rizwan
 - **Website:** https://muddasirrizwan.com
-- **GitHub:** (not listed on CV; add if available)
+- **GitHub:** https://github.com/Muddasirr
 - **Status:** Employed as Software Engineer at Codet.ai; open to switching
 - **Constraints:** Based in Karachi / Pakistan; open to remote worldwide and Pakistan-based roles. No hard relocation ban.
 

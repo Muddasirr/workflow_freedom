@@ -1,0 +1,3278 @@
+[
+  {
+    "company": "Tintash",
+    "domain": "tintash.com",
+    "email": "careers@tintash.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tintash.com/careers"
+  },
+  {
+    "company": "Foodpanda Pakistan",
+    "domain": "foodpanda.pk",
+    "email": "careers@foodpanda.pk",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://foodpanda.pk/careers"
+  },
+  {
+    "company": "Telenor Pakistan",
+    "domain": "telenor.com.pk",
+    "email": "careers@telenor.com.pk",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://telenor.com.pk/careers"
+  },
+  {
+    "company": "Securiti",
+    "domain": "securiti.ai",
+    "email": "careers@securiti.ai",
+    "tag": "catch",
+    "location": "Karachi / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://securiti.ai/careers"
+  },
+  {
+    "company": "Confiz",
+    "domain": "confiz.com",
+    "email": "careers@confiz.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://confiz.com/careers"
+  },
+  {
+    "company": "Tkxel",
+    "domain": "tkxel.com",
+    "email": "careers@tkxel.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tkxel.com/careers"
+  },
+  {
+    "company": "Netsol",
+    "domain": "netsoltech.com",
+    "email": "careers@netsoltech.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://netsoltech.com/careers"
+  },
+  {
+    "company": "Empiric",
+    "domain": "empiric.com",
+    "email": "careers@empiric.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://empiric.com/careers"
+  },
+  {
+    "company": "Elixir Technologies",
+    "domain": "elixirtech.com",
+    "email": "careers@elixirtech.com",
+    "tag": "catch",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://elixirtech.com/careers"
+  },
+  {
+    "company": "Sekel Technologies",
+    "domain": "sekeltech.com",
+    "email": "careers@sekeltech.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://sekeltech.com/careers"
+  },
+  {
+    "company": "Zigron",
+    "domain": "zigron.com",
+    "email": "careers@zigron.com",
+    "tag": "catch",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zigron.com/careers"
+  },
+  {
+    "company": "StormFiber",
+    "domain": "stormfiber.com",
+    "email": "careers@stormfiber.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://stormfiber.com/careers"
+  },
+  {
+    "company": "Meezan Bank",
+    "domain": "meezanbank.com",
+    "email": "careers@meezanbank.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://meezanbank.com/careers"
+  },
+  {
+    "company": "JazzCash",
+    "domain": "jazzcash.com.pk",
+    "email": "careers@jazzcash.com.pk",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://jazzcash.com.pk/careers"
+  },
+  {
+    "company": "PTCL",
+    "domain": "ptcl.com.pk",
+    "email": "careers@ptcl.com.pk",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ptcl.com.pk/careers"
+  },
+  {
+    "company": "Ufone",
+    "domain": "ufone.com",
+    "email": "careers@ufone.com",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ufone.com/careers"
+  },
+  {
+    "company": "Zong CMPak",
+    "domain": "zong.com.pk",
+    "email": "careers@zong.com.pk",
+    "tag": "catch",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zong.com.pk/careers"
+  },
+  {
+    "company": "Talabat",
+    "domain": "talabat.com",
+    "email": "careers@talabat.com",
+    "tag": "catch",
+    "location": "Dubai",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://talabat.com/careers"
+  },
+  {
+    "company": "Swvl",
+    "domain": "swvl.com",
+    "email": "careers@swvl.com",
+    "tag": "catch",
+    "location": "Cairo / Dubai",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://swvl.com/careers"
+  },
+  {
+    "company": "Salla",
+    "domain": "salla.sa",
+    "email": "careers@salla.sa",
+    "tag": "catch",
+    "location": "Riyadh",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://salla.sa/careers"
+  },
+  {
+    "company": "HungerStation",
+    "domain": "hungerstation.com",
+    "email": "careers@hungerstation.com",
+    "tag": "catch",
+    "location": "Riyadh",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://hungerstation.com/careers"
+  },
+  {
+    "company": "Paymob",
+    "domain": "paymob.com",
+    "email": "careers@paymob.com",
+    "tag": "catch",
+    "location": "Cairo",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://paymob.com/careers"
+  },
+  {
+    "company": "Anghami",
+    "domain": "anghami.com",
+    "email": "careers@anghami.com",
+    "tag": "catch",
+    "location": "Beirut / Dubai",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://anghami.com/careers"
+  },
+  {
+    "company": "Qatar Airways IT",
+    "domain": "qatarairways.com",
+    "email": "careers@qatarairways.com",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://qatarairways.com/careers"
+  },
+  {
+    "company": "Snoonu",
+    "domain": "snoonu.com",
+    "email": "careers@snoonu.com",
+    "tag": "catch",
+    "location": "Doha / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://snoonu.com/careers"
+  },
+  {
+    "company": "Rain Bahrain",
+    "domain": "rain.bh",
+    "email": "careers@rain.bh",
+    "tag": "catch",
+    "location": "Manama",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://rain.bh/careers"
+  },
+  {
+    "company": "CrediMax",
+    "domain": "credimax.com.bh",
+    "email": "careers@credimax.com.bh",
+    "tag": "catch",
+    "location": "Manama",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://credimax.com.bh/careers"
+  },
+  {
+    "company": "Magnati",
+    "domain": "magnati.com",
+    "email": "careers@magnati.com",
+    "tag": "catch",
+    "location": "Abu Dhabi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://magnati.com/careers"
+  },
+  {
+    "company": "Namshi",
+    "domain": "namshi.com",
+    "email": "careers@namshi.com",
+    "tag": "catch",
+    "location": "Dubai",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://namshi.com/careers"
+  },
+  {
+    "company": "Mumzworld",
+    "domain": "mumzworld.com",
+    "email": "careers@mumzworld.com",
+    "tag": "catch",
+    "location": "Dubai",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mumzworld.com/careers"
+  },
+  {
+    "company": "Nearpay",
+    "domain": "nearpay.io",
+    "email": "careers@nearpay.io",
+    "tag": "catch",
+    "location": "Riyadh / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://nearpay.io/careers"
+  },
+  {
+    "company": "Valeo Egypt",
+    "domain": "valeo.com",
+    "email": "careers@valeo.com",
+    "tag": "catch",
+    "location": "Cairo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://valeo.com/careers"
+  },
+  {
+    "company": "Tajawal",
+    "domain": "tajawal.com",
+    "email": "careers@tajawal.com",
+    "tag": "catch",
+    "location": "Dubai / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tajawal.com/careers"
+  },
+  {
+    "company": "OpenSooq",
+    "domain": "opensooq.com",
+    "email": "careers@opensooq.com",
+    "tag": "catch",
+    "location": "Amman / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://opensooq.com/careers"
+  },
+  {
+    "company": "Mawdoo3",
+    "domain": "mawdoo3.com",
+    "email": "careers@mawdoo3.com",
+    "tag": "catch",
+    "location": "Amman / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mawdoo3.com/careers"
+  },
+  {
+    "company": "Murex",
+    "domain": "murex.com",
+    "email": "careers@murex.com",
+    "tag": "catch",
+    "location": "Beirut / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://murex.com/careers"
+  },
+  {
+    "company": "Jawaker",
+    "domain": "jawaker.com",
+    "email": "careers@jawaker.com",
+    "tag": "catch",
+    "location": "Dubai / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://jawaker.com/careers"
+  },
+  {
+    "company": "Synapse Analytics",
+    "domain": "synapse-analytics.io",
+    "email": "careers@synapse-analytics.io",
+    "tag": "catch",
+    "location": "Cairo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://synapse-analytics.io/careers"
+  },
+  {
+    "company": "Bosta",
+    "domain": "bosta.co",
+    "email": "careers@bosta.co",
+    "tag": "catch",
+    "location": "Cairo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://bosta.co/careers"
+  },
+  {
+    "company": "NymCard",
+    "domain": "nymcard.com",
+    "email": "careers@nymcard.com",
+    "tag": "catch",
+    "location": "Abu Dhabi / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://nymcard.com/careers"
+  },
+  {
+    "company": "ZenHR",
+    "domain": "zenhr.com",
+    "email": "careers@zenhr.com",
+    "tag": "catch",
+    "location": "Amman / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zenhr.com/careers"
+  },
+  {
+    "company": "Soum",
+    "domain": "soum.sa",
+    "email": "careers@soum.sa",
+    "tag": "catch",
+    "location": "Riyadh / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://soum.sa/careers"
+  },
+  {
+    "company": "RemotePass",
+    "domain": "remotepass.com",
+    "email": "careers@remotepass.com",
+    "tag": "catch",
+    "location": "Dubai / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://remotepass.com/careers"
+  },
+  {
+    "company": "ShopBack",
+    "domain": "shopback.com",
+    "email": "careers@shopback.com",
+    "tag": "catch",
+    "location": "Singapore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://shopback.com/careers"
+  },
+  {
+    "company": "Carro",
+    "domain": "carro.co",
+    "email": "careers@carro.co",
+    "tag": "catch",
+    "location": "Singapore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://carro.co/careers"
+  },
+  {
+    "company": "Foodpanda APAC",
+    "domain": "foodpanda.com",
+    "email": "careers@foodpanda.com",
+    "tag": "catch",
+    "location": "Singapore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://foodpanda.com/careers"
+  },
+  {
+    "company": "AirAsia Digital",
+    "domain": "airasia.com",
+    "email": "careers@airasia.com",
+    "tag": "catch",
+    "location": "Kuala Lumpur / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://airasia.com/careers"
+  },
+  {
+    "company": "Touch 'n Go Digital",
+    "domain": "tngdigital.com.my",
+    "email": "careers@tngdigital.com.my",
+    "tag": "strict",
+    "location": "Kuala Lumpur",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tngdigital.com.my/careers"
+  },
+  {
+    "company": "Boost",
+    "domain": "myboost.com.my",
+    "email": "careers@myboost.com.my",
+    "tag": "strict",
+    "location": "Kuala Lumpur",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://myboost.com.my/careers"
+  },
+  {
+    "company": "iPay88",
+    "domain": "ipay88.com",
+    "email": "hr@ipay88.com",
+    "tag": "catch",
+    "location": "Kuala Lumpur",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ipay88.com/careers"
+  },
+  {
+    "company": "Cars24 Gulf",
+    "domain": "cars24.com",
+    "email": "careers@cars24.com",
+    "tag": "catch",
+    "location": "Dubai / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://cars24.com/careers"
+  },
+  {
+    "company": "Ziina",
+    "domain": "ziina.com",
+    "email": "careers@ziina.com",
+    "tag": "catch",
+    "location": "Dubai / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ziina.com/careers"
+  },
+  {
+    "company": "HungerStation",
+    "domain": "hungerstation.com",
+    "email": "careers@hungerstation.com",
+    "tag": "catch",
+    "location": "Riyadh / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://hungerstation.com/careers"
+  },
+  {
+    "company": "Rasan",
+    "domain": "rasan.co",
+    "email": "careers@rasan.co",
+    "tag": "catch",
+    "location": "Riyadh / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://rasan.co/careers"
+  },
+  {
+    "company": "Tameeni",
+    "domain": "tameeni.com",
+    "email": "careers@tameeni.com",
+    "tag": "catch",
+    "location": "Riyadh / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tameeni.com/careers"
+  },
+  {
+    "company": "STC Bank",
+    "domain": "stcbank.com.sa",
+    "email": "careers@stcbank.com.sa",
+    "tag": "strict",
+    "location": "Riyadh / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://stcbank.com.sa/careers"
+  },
+  {
+    "company": "Talabat",
+    "domain": "talabat.com",
+    "email": "careers@talabat.com",
+    "tag": "catch",
+    "location": "Kuwait / Dubai / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://talabat.com/careers"
+  },
+  {
+    "company": "Rain Bahrain",
+    "domain": "rain.bh",
+    "email": "careers@rain.bh",
+    "tag": "catch",
+    "location": "Manama / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://rain.bh/careers"
+  },
+  {
+    "company": "Monday.com",
+    "domain": "monday.com",
+    "email": "careers@monday.com",
+    "tag": "catch",
+    "location": "Tel Aviv / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://monday.com/careers"
+  },
+  {
+    "company": "Wix",
+    "domain": "wix.com",
+    "email": "careers@wix.com",
+    "tag": "catch",
+    "location": "Tel Aviv / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://wix.com/careers"
+  },
+  {
+    "company": "Similarweb",
+    "domain": "similarweb.com",
+    "email": "careers@similarweb.com",
+    "tag": "catch",
+    "location": "Tel Aviv / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://similarweb.com/careers"
+  },
+  {
+    "company": "Melio",
+    "domain": "meliopayments.com",
+    "email": "careers@meliopayments.com",
+    "tag": "catch",
+    "location": "Tel Aviv / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://meliopayments.com/careers"
+  },
+  {
+    "company": "Lightricks",
+    "domain": "lightricks.com",
+    "email": "careers@lightricks.com",
+    "tag": "catch",
+    "location": "Jerusalem / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://lightricks.com/careers"
+  },
+  {
+    "company": "OakNorth",
+    "domain": "oaknorth.com",
+    "email": "careers@oaknorth.com",
+    "tag": "strict",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://oaknorth.com/careers"
+  },
+  {
+    "company": "Paddle",
+    "domain": "paddle.com",
+    "email": "careers@paddle.com",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://paddle.com/careers"
+  },
+  {
+    "company": "Thought Machine",
+    "domain": "thoughtmachine.net",
+    "email": "hr@thoughtmachine.net",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://thoughtmachine.net/careers"
+  },
+  {
+    "company": "Faculty",
+    "domain": "faculty.ai",
+    "email": "hr@faculty.ai",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://faculty.ai/careers"
+  },
+  {
+    "company": "Darktrace",
+    "domain": "darktrace.com",
+    "email": "careers@darktrace.com",
+    "tag": "catch",
+    "location": "Cambridge / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://darktrace.com/careers"
+  },
+  {
+    "company": "Skyscanner",
+    "domain": "skyscanner.net",
+    "email": "careers@skyscanner.net",
+    "tag": "strict",
+    "location": "Edinburgh / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://skyscanner.net/careers"
+  },
+  {
+    "company": "Trainline",
+    "domain": "thetrainline.com",
+    "email": "careers@thetrainline.com",
+    "tag": "strict",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://thetrainline.com/careers"
+  },
+  {
+    "company": "Deliveroo",
+    "domain": "deliveroo.com",
+    "email": "careers@deliveroo.com",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://deliveroo.com/careers"
+  },
+  {
+    "company": "Just Eat Takeaway",
+    "domain": "justeattakeaway.com",
+    "email": "careers@justeattakeaway.com",
+    "tag": "catch",
+    "location": "London / Amsterdam / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://justeattakeaway.com/careers"
+  },
+  {
+    "company": "GetYourGuide",
+    "domain": "getyourguide.com",
+    "email": "careers@getyourguide.com",
+    "tag": "catch",
+    "location": "Berlin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://getyourguide.com/careers"
+  },
+  {
+    "company": "Zalando",
+    "domain": "zalando.com",
+    "email": "careers@zalando.com",
+    "tag": "catch",
+    "location": "Berlin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zalando.com/careers"
+  },
+  {
+    "company": "HelloFresh",
+    "domain": "hellofresh.com",
+    "email": "careers@hellofresh.com",
+    "tag": "catch",
+    "location": "Berlin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://hellofresh.com/careers"
+  },
+  {
+    "company": "Adyen",
+    "domain": "adyen.com",
+    "email": "careers@adyen.com",
+    "tag": "catch",
+    "location": "Amsterdam / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://adyen.com/careers"
+  },
+  {
+    "company": "Bird",
+    "domain": "bird.com",
+    "email": "careers@bird.com",
+    "tag": "catch",
+    "location": "Amsterdam / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://bird.com/careers"
+  },
+  {
+    "company": "Picnic",
+    "domain": "picnic.app",
+    "email": "careers@picnic.app",
+    "tag": "strict",
+    "location": "Amsterdam / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://picnic.app/careers"
+  },
+  {
+    "company": "Backbase",
+    "domain": "backbase.com",
+    "email": "careers@backbase.com",
+    "tag": "catch",
+    "location": "Amsterdam / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://backbase.com/careers"
+  },
+  {
+    "company": "Ledger",
+    "domain": "ledger.com",
+    "email": "careers@ledger.com",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ledger.com/careers"
+  },
+  {
+    "company": "Dataiku",
+    "domain": "dataiku.com",
+    "email": "careers@dataiku.com",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://dataiku.com/careers"
+  },
+  {
+    "company": "Mistral AI",
+    "domain": "mistral.ai",
+    "email": "careers@mistral.ai",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mistral.ai/careers"
+  },
+  {
+    "company": "Swile",
+    "domain": "swile.co",
+    "email": "careers@swile.co",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://swile.co/careers"
+  },
+  {
+    "company": "Scaleway",
+    "domain": "scaleway.com",
+    "email": "careers@scaleway.com",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://scaleway.com/careers"
+  },
+  {
+    "company": "OVHcloud",
+    "domain": "ovhcloud.com",
+    "email": "careers@ovhcloud.com",
+    "tag": "strict",
+    "location": "Roubaix / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ovhcloud.com/careers"
+  },
+  {
+    "company": "Glovo",
+    "domain": "glovoapp.com",
+    "email": "careers@glovoapp.com",
+    "tag": "catch",
+    "location": "Barcelona / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://glovoapp.com/careers"
+  },
+  {
+    "company": "TravelPerk",
+    "domain": "travelperk.com",
+    "email": "careers@travelperk.com",
+    "tag": "catch",
+    "location": "Barcelona / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://travelperk.com/careers"
+  },
+  {
+    "company": "Holded",
+    "domain": "holded.com",
+    "email": "careers@holded.com",
+    "tag": "catch",
+    "location": "Barcelona / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://holded.com/careers"
+  },
+  {
+    "company": "CoverManager",
+    "domain": "covermanager.com",
+    "email": "careers@covermanager.com",
+    "tag": "catch",
+    "location": "Seville / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://covermanager.com/careers"
+  },
+  {
+    "company": "Habitissimo",
+    "domain": "habitissimo.com",
+    "email": "careers@habitissimo.com",
+    "tag": "catch",
+    "location": "Palma / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://habitissimo.com/careers"
+  },
+  {
+    "company": "Fever",
+    "domain": "feverup.com",
+    "email": "careers@feverup.com",
+    "tag": "catch",
+    "location": "Madrid / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://feverup.com/careers"
+  },
+  {
+    "company": "Idealista",
+    "domain": "idealista.com",
+    "email": "careers@idealista.com",
+    "tag": "strict",
+    "location": "Madrid / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://idealista.com/careers"
+  },
+  {
+    "company": "Clarity AI",
+    "domain": "clarity.ai",
+    "email": "careers@clarity.ai",
+    "tag": "catch",
+    "location": "Madrid / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://clarity.ai/careers"
+  },
+  {
+    "company": "Scalapay",
+    "domain": "scalapay.com",
+    "email": "careers@scalapay.com",
+    "tag": "catch",
+    "location": "Milan / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://scalapay.com/careers"
+  },
+  {
+    "company": "MutuiOnline",
+    "domain": "mutuionline.it",
+    "email": "careers@mutuionline.it",
+    "tag": "strict",
+    "location": "Milan / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mutuionline.it/careers"
+  },
+  {
+    "company": "Yolo Group",
+    "domain": "yolo-insurance.com",
+    "email": "careers@yolo-insurance.com",
+    "tag": "catch",
+    "location": "Milan / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://yolo-insurance.com/careers"
+  },
+  {
+    "company": "Young Platform",
+    "domain": "youngplatform.com",
+    "email": "careers@youngplatform.com",
+    "tag": "catch",
+    "location": "Turin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://youngplatform.com/careers"
+  },
+  {
+    "company": "DoveVado / Moovit IT",
+    "domain": "moovit.com",
+    "email": "careers@moovit.com",
+    "tag": "catch",
+    "location": "Italy / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://moovit.com/careers"
+  },
+  {
+    "company": "Fiscozen",
+    "domain": "fiscozen.it",
+    "email": "careers@fiscozen.it",
+    "tag": "catch",
+    "location": "Milan / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://fiscozen.it/careers"
+  },
+  {
+    "company": "VueStorefront / Alokai",
+    "domain": "alokai.com",
+    "email": "careers@alokai.com",
+    "tag": "catch",
+    "location": "Italy / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://alokai.com/careers"
+  },
+  {
+    "company": "Farfetch",
+    "domain": "farfetch.com",
+    "email": "careers@farfetch.com",
+    "tag": "catch",
+    "location": "Porto / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://farfetch.com/careers"
+  },
+  {
+    "company": "Klarna",
+    "domain": "klarna.com",
+    "email": "careers@klarna.com",
+    "tag": "strict",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://klarna.com/careers"
+  },
+  {
+    "company": "Zettle",
+    "domain": "zettle.com",
+    "email": "careers@zettle.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zettle.com/careers"
+  },
+  {
+    "company": "Wolt",
+    "domain": "wolt.com",
+    "email": "hr@wolt.com",
+    "tag": "catch",
+    "location": "Helsinki / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://wolt.com/careers"
+  },
+  {
+    "company": "Smartly",
+    "domain": "smartly.io",
+    "email": "careers@smartly.io",
+    "tag": "catch",
+    "location": "Helsinki / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://smartly.io/careers"
+  },
+  {
+    "company": "Supermetrics",
+    "domain": "supermetrics.com",
+    "email": "careers@supermetrics.com",
+    "tag": "catch",
+    "location": "Helsinki / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://supermetrics.com/careers"
+  },
+  {
+    "company": "Visma",
+    "domain": "visma.com",
+    "email": "careers@visma.com",
+    "tag": "catch",
+    "location": "Oslo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://visma.com/careers"
+  },
+  {
+    "company": "Bitdefender",
+    "domain": "bitdefender.com",
+    "email": "careers@bitdefender.com",
+    "tag": "catch",
+    "location": "Bucharest / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://bitdefender.com/careers"
+  },
+  {
+    "company": "DeepL",
+    "domain": "deepl.com",
+    "email": "careers@deepl.com",
+    "tag": "catch",
+    "location": "Cologne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://deepl.com/careers"
+  },
+  {
+    "company": "Stability AI",
+    "domain": "stability.ai",
+    "email": "hr@stability.ai",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://stability.ai/careers"
+  },
+  {
+    "company": "Synthesia",
+    "domain": "synthesia.io",
+    "email": "careers@synthesia.io",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://synthesia.io/careers"
+  },
+  {
+    "company": "HiBob",
+    "domain": "hibob.com",
+    "email": "careers@hibob.com",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://hibob.com/careers"
+  },
+  {
+    "company": "Ghost",
+    "domain": "ghost.org",
+    "email": "hr@ghost.org",
+    "tag": "catch",
+    "location": "Singapore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ghost.org/careers"
+  },
+  {
+    "company": "Trading 212",
+    "domain": "trading212.com",
+    "email": "careers@trading212.com",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://trading212.com/careers"
+  },
+  {
+    "company": "eToro",
+    "domain": "etoro.com",
+    "email": "careers@etoro.com",
+    "tag": "strict",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://etoro.com/careers"
+  },
+  {
+    "company": "Bitstamp",
+    "domain": "bitstamp.net",
+    "email": "careers@bitstamp.net",
+    "tag": "catch",
+    "location": "Luxembourg / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://bitstamp.net/careers"
+  },
+  {
+    "company": "Bitpanda",
+    "domain": "bitpanda.com",
+    "email": "careers@bitpanda.com",
+    "tag": "catch",
+    "location": "Vienna / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://bitpanda.com/careers"
+  },
+  {
+    "company": "Nexo",
+    "domain": "nexo.com",
+    "email": "careers@nexo.com",
+    "tag": "catch",
+    "location": "Sofia / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://nexo.com/careers"
+  },
+  {
+    "company": "Tresorit",
+    "domain": "tresorit.com",
+    "email": "careers@tresorit.com",
+    "tag": "strict",
+    "location": "Zurich / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tresorit.com/careers"
+  },
+  {
+    "company": "pCloud",
+    "domain": "pcloud.com",
+    "email": "careers@pcloud.com",
+    "tag": "catch",
+    "location": "Sofia / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://pcloud.com/careers"
+  },
+  {
+    "company": "Mullvad",
+    "domain": "mullvad.net",
+    "email": "careers@mullvad.net",
+    "tag": "catch",
+    "location": "Gothenburg / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mullvad.net/careers"
+  },
+  {
+    "company": "Directus",
+    "domain": "directus.io",
+    "email": "careers@directus.io",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://directus.io/careers"
+  },
+  {
+    "company": "Sentry",
+    "domain": "sentry.io",
+    "email": "careers@sentry.io",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://sentry.io/careers"
+  },
+  {
+    "company": "Basecamp",
+    "domain": "basecamp.com",
+    "email": "careers@basecamp.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://basecamp.com/careers"
+  },
+  {
+    "company": "Substack",
+    "domain": "substack.com",
+    "email": "careers@substack.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://substack.com/careers"
+  },
+  {
+    "company": "Coda",
+    "domain": "coda.io",
+    "email": "careers@coda.io",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://coda.io/careers"
+  },
+  {
+    "company": "Hasura",
+    "domain": "hasura.io",
+    "email": "careers@hasura.io",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://hasura.io/careers"
+  },
+  {
+    "company": "PlanetScale",
+    "domain": "planetscale.com",
+    "email": "careers@planetscale.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://planetscale.com/careers"
+  },
+  {
+    "company": "Railway",
+    "domain": "railway.app",
+    "email": "careers@railway.app",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://railway.app/careers"
+  },
+  {
+    "company": "Loops",
+    "domain": "loops.so",
+    "email": "careers@loops.so",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://loops.so/careers"
+  },
+  {
+    "company": "Lemlist",
+    "domain": "lemlist.com",
+    "email": "careers@lemlist.com",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://lemlist.com/careers"
+  },
+  {
+    "company": "Swan",
+    "domain": "swan.io",
+    "email": "careers@swan.io",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://swan.io/careers"
+  },
+  {
+    "company": "Voodoo",
+    "domain": "voodoo.io",
+    "email": "careers@voodoo.io",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://voodoo.io/careers"
+  },
+  {
+    "company": "Front",
+    "domain": "front.com",
+    "email": "careers@front.com",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://front.com/careers"
+  },
+  {
+    "company": "Lydia",
+    "domain": "lydia-app.com",
+    "email": "careers@lydia-app.com",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://lydia-app.com/careers"
+  },
+  {
+    "company": "Truecaller",
+    "domain": "truecaller.com",
+    "email": "careers@truecaller.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://truecaller.com/careers"
+  },
+  {
+    "company": "Kry",
+    "domain": "kry.se",
+    "email": "careers@kry.se",
+    "tag": "strict",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://kry.se/careers"
+  },
+  {
+    "company": "Trustly",
+    "domain": "trustly.com",
+    "email": "careers@trustly.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://trustly.com/careers"
+  },
+  {
+    "company": "King",
+    "domain": "king.com",
+    "email": "careers@king.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://king.com/careers"
+  },
+  {
+    "company": "Spotify",
+    "domain": "spotify.com",
+    "email": "careers@spotify.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://spotify.com/careers"
+  },
+  {
+    "company": "UiPath",
+    "domain": "uipath.com",
+    "email": "careers@uipath.com",
+    "tag": "strict",
+    "location": "Bucharest / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://uipath.com/careers"
+  },
+  {
+    "company": "Grammarly",
+    "domain": "grammarly.com",
+    "email": "careers@grammarly.com",
+    "tag": "catch",
+    "location": "Kyiv / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://grammarly.com/careers"
+  },
+  {
+    "company": "Freshworks",
+    "domain": "freshworks.com",
+    "email": "careers@freshworks.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://freshworks.com/careers"
+  },
+  {
+    "company": "Zoho",
+    "domain": "zoho.com",
+    "email": "careers@zoho.com",
+    "tag": "strict",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zoho.com/careers"
+  },
+  {
+    "company": "Postman",
+    "domain": "postman.com",
+    "email": "careers@postman.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://postman.com/careers"
+  },
+  {
+    "company": "Clay",
+    "domain": "clay.com",
+    "email": "careers@clay.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://clay.com/careers"
+  },
+  {
+    "company": "Ashby",
+    "domain": "ashbyhq.com",
+    "email": "careers@ashbyhq.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ashbyhq.com/careers"
+  },
+  {
+    "company": "Deel",
+    "domain": "deel.com",
+    "email": "careers@deel.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://deel.com/careers"
+  },
+  {
+    "company": "Replicate",
+    "domain": "replicate.com",
+    "email": "careers@replicate.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://replicate.com/careers"
+  },
+  {
+    "company": "Modal",
+    "domain": "modal.com",
+    "email": "jobs@modal.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://modal.com/careers"
+  },
+  {
+    "company": "Liveblocks",
+    "domain": "liveblocks.io",
+    "email": "careers@liveblocks.io",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://liveblocks.io/careers"
+  },
+  {
+    "company": "Novu",
+    "domain": "novu.co",
+    "email": "careers@novu.co",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://novu.co/careers"
+  },
+  {
+    "company": "OpenStatus",
+    "domain": "openstatus.dev",
+    "email": "careers@openstatus.dev",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://openstatus.dev/careers"
+  },
+  {
+    "company": "Twenty",
+    "domain": "twenty.com",
+    "email": "careers@twenty.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://twenty.com/careers"
+  },
+  {
+    "company": "AppSmith",
+    "domain": "appsmith.com",
+    "email": "jobs@appsmith.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://appsmith.com/careers"
+  },
+  {
+    "company": "NocoDB",
+    "domain": "nocodb.com",
+    "email": "careers@nocodb.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://nocodb.com/careers"
+  },
+  {
+    "company": "Tailscale",
+    "domain": "tailscale.com",
+    "email": "careers@tailscale.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tailscale.com/careers"
+  },
+  {
+    "company": "Fastly",
+    "domain": "fastly.com",
+    "email": "careers@fastly.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://fastly.com/careers"
+  },
+  {
+    "company": "Netlify",
+    "domain": "netlify.com",
+    "email": "careers@netlify.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://netlify.com/careers"
+  },
+  {
+    "company": "New Relic",
+    "domain": "newrelic.com",
+    "email": "careers@newrelic.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://newrelic.com/careers"
+  },
+  {
+    "company": "PagerDuty",
+    "domain": "pagerduty.com",
+    "email": "careers@pagerduty.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://pagerduty.com/careers"
+  },
+  {
+    "company": "Mixpanel",
+    "domain": "mixpanel.com",
+    "email": "careers@mixpanel.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mixpanel.com/careers"
+  },
+  {
+    "company": "FullStory",
+    "domain": "fullstory.com",
+    "email": "careers@fullstory.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://fullstory.com/careers"
+  },
+  {
+    "company": "Sourcegraph",
+    "domain": "sourcegraph.com",
+    "email": "careers@sourcegraph.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://sourcegraph.com/careers"
+  },
+  {
+    "company": "SonarSource",
+    "domain": "sonarsource.com",
+    "email": "careers@sonarsource.com",
+    "tag": "catch",
+    "location": "Geneva / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://sonarsource.com/careers"
+  },
+  {
+    "company": "Gitea",
+    "domain": "gitea.com",
+    "email": "careers@gitea.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://gitea.com/careers"
+  },
+  {
+    "company": "Vultr",
+    "domain": "vultr.com",
+    "email": "careers@vultr.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://vultr.com/careers"
+  },
+  {
+    "company": "Linode",
+    "domain": "linode.com",
+    "email": "careers@linode.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://linode.com/careers"
+  },
+  {
+    "company": "Cloudinary",
+    "domain": "cloudinary.com",
+    "email": "careers@cloudinary.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://cloudinary.com/careers"
+  },
+  {
+    "company": "Mailgun",
+    "domain": "mailgun.com",
+    "email": "careers@mailgun.com",
+    "tag": "strict",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mailgun.com/careers"
+  },
+  {
+    "company": "MoEngage",
+    "domain": "moengage.com",
+    "email": "careers@moengage.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://moengage.com/careers"
+  },
+  {
+    "company": "Softr",
+    "domain": "softr.io",
+    "email": "careers@softr.io",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://softr.io/careers"
+  },
+  {
+    "company": "Asana",
+    "domain": "asana.com",
+    "email": "careers@asana.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://asana.com/careers"
+  },
+  {
+    "company": "Height",
+    "domain": "height.app",
+    "email": "careers@height.app",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://height.app/careers"
+  },
+  {
+    "company": "Excalidraw",
+    "domain": "excalidraw.com",
+    "email": "careers@excalidraw.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://excalidraw.com/careers"
+  },
+  {
+    "company": "Fivetran",
+    "domain": "fivetran.com",
+    "email": "careers@fivetran.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://fivetran.com/careers"
+  },
+  {
+    "company": "dbt Labs",
+    "domain": "getdbt.com",
+    "email": "careers@getdbt.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://getdbt.com/careers"
+  },
+  {
+    "company": "Airbyte",
+    "domain": "airbyte.com",
+    "email": "careers@airbyte.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://airbyte.com/careers"
+  },
+  {
+    "company": "Census",
+    "domain": "getcensus.com",
+    "email": "careers@getcensus.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://getcensus.com/careers"
+  },
+  {
+    "company": "Segment",
+    "domain": "segment.com",
+    "email": "careers@segment.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://segment.com/careers"
+  },
+  {
+    "company": "RudderStack",
+    "domain": "rudderstack.com",
+    "email": "careers@rudderstack.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://rudderstack.com/careers"
+  },
+  {
+    "company": "Snowplow",
+    "domain": "snowplow.io",
+    "email": "careers@snowplow.io",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://snowplow.io/careers"
+  },
+  {
+    "company": "Hex",
+    "domain": "hex.tech",
+    "email": "careers@hex.tech",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://hex.tech/careers"
+  },
+  {
+    "company": "Observable",
+    "domain": "observablehq.com",
+    "email": "careers@observablehq.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://observablehq.com/careers"
+  },
+  {
+    "company": "AssemblyAI",
+    "domain": "assemblyai.com",
+    "email": "careers@assemblyai.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://assemblyai.com/careers"
+  },
+  {
+    "company": "RunPod",
+    "domain": "runpod.io",
+    "email": "careers@runpod.io",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://runpod.io/careers"
+  },
+  {
+    "company": "Together AI",
+    "domain": "together.ai",
+    "email": "careers@together.ai",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://together.ai/careers"
+  },
+  {
+    "company": "Anyscale",
+    "domain": "anyscale.com",
+    "email": "careers@anyscale.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://anyscale.com/careers"
+  },
+  {
+    "company": "Weights & Biases",
+    "domain": "wandb.ai",
+    "email": "careers@wandb.ai",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://wandb.ai/careers"
+  },
+  {
+    "company": "Comet ML",
+    "domain": "comet.com",
+    "email": "careers@comet.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://comet.com/careers"
+  },
+  {
+    "company": "Orb",
+    "domain": "withorb.com",
+    "email": "careers@withorb.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://withorb.com/careers"
+  },
+  {
+    "company": "Metronome",
+    "domain": "metronome.com",
+    "email": "careers@metronome.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://metronome.com/careers"
+  },
+  {
+    "company": "Unit Finance",
+    "domain": "unit.co",
+    "email": "careers@unit.co",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://unit.co/careers"
+  },
+  {
+    "company": "Increase",
+    "domain": "increase.com",
+    "email": "careers@increase.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://increase.com/careers"
+  },
+  {
+    "company": "Nubank",
+    "domain": "nubank.com.br",
+    "email": "careers@nubank.com.br",
+    "tag": "catch",
+    "location": "Sao Paulo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://nubank.com.br/careers"
+  },
+  {
+    "company": "Xendit",
+    "domain": "xendit.co",
+    "email": "hr@xendit.co",
+    "tag": "catch",
+    "location": "Jakarta / Singapore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://xendit.co/careers"
+  },
+  {
+    "company": "Midtrans",
+    "domain": "midtrans.com",
+    "email": "careers@midtrans.com",
+    "tag": "catch",
+    "location": "Jakarta / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://midtrans.com/careers"
+  },
+  {
+    "company": "Traveloka",
+    "domain": "traveloka.com",
+    "email": "careers@traveloka.com",
+    "tag": "catch",
+    "location": "Jakarta / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://traveloka.com/careers"
+  },
+  {
+    "company": "GoTo",
+    "domain": "gotocompany.com",
+    "email": "careers@gotocompany.com",
+    "tag": "catch",
+    "location": "Jakarta / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://gotocompany.com/careers"
+  },
+  {
+    "company": "Ajaib",
+    "domain": "ajaib.co.id",
+    "email": "careers@ajaib.co.id",
+    "tag": "catch",
+    "location": "Jakarta / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ajaib.co.id/careers"
+  },
+  {
+    "company": "Zalora",
+    "domain": "zalora.com",
+    "email": "careers@zalora.com",
+    "tag": "catch",
+    "location": "Singapore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zalora.com/careers"
+  },
+  {
+    "company": "Validus",
+    "domain": "validus.sg",
+    "email": "careers@validus.sg",
+    "tag": "catch",
+    "location": "Singapore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://validus.sg/careers"
+  },
+  {
+    "company": "Groww",
+    "domain": "groww.in",
+    "email": "careers@groww.in",
+    "tag": "catch",
+    "location": "India / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://groww.in/careers"
+  },
+  {
+    "company": "Swiggy",
+    "domain": "swiggy.com",
+    "email": "careers@swiggy.com",
+    "tag": "catch",
+    "location": "India / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://swiggy.com/careers"
+  },
+  {
+    "company": "Zomato",
+    "domain": "zomato.com",
+    "email": "hr@zomato.com",
+    "tag": "catch",
+    "location": "India / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zomato.com/careers"
+  },
+  {
+    "company": "Druva",
+    "domain": "druva.com",
+    "email": "careers@druva.com",
+    "tag": "catch",
+    "location": "India / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://druva.com/careers"
+  },
+  {
+    "company": "Icertis",
+    "domain": "icertis.com",
+    "email": "careers@icertis.com",
+    "tag": "catch",
+    "location": "India / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://icertis.com/careers"
+  },
+  {
+    "company": "SoftPyramid",
+    "domain": "softpyramid.com",
+    "email": "careers@softpyramid.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://softpyramid.com/careers"
+  },
+  {
+    "company": "VTeams",
+    "domain": "vteams.com",
+    "email": "careers@vteams.com",
+    "tag": "catch",
+    "location": "Lahore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://vteams.com/careers"
+  },
+  {
+    "company": "CyberVision",
+    "domain": "cybervisiontech.com",
+    "email": "careers@cybervisiontech.com",
+    "tag": "catch",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://cybervisiontech.com/careers"
+  },
+  {
+    "company": "CresTech",
+    "domain": "crestechsoftware.com",
+    "email": "careers@crestechsoftware.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://crestechsoftware.com/careers"
+  },
+  {
+    "company": "Ebryx",
+    "domain": "ebryx.com",
+    "email": "careers@ebryx.com",
+    "tag": "catch",
+    "location": "Lahore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ebryx.com/careers"
+  },
+  {
+    "company": "Fermat Commerce",
+    "domain": "fermatcommerce.com",
+    "email": "careers@fermatcommerce.com",
+    "tag": "catch",
+    "location": "Lahore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://fermatcommerce.com/careers"
+  },
+  {
+    "company": "Cartlow PK",
+    "domain": "cartlow.com",
+    "email": "careers@cartlow.com",
+    "tag": "catch",
+    "location": "Lahore / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://cartlow.com/careers"
+  },
+  {
+    "company": "Bookme Tech",
+    "domain": "bookme.pk",
+    "email": "careers@bookme.pk",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://bookme.pk/careers"
+  },
+  {
+    "company": "BrightSpyre Tech",
+    "domain": "brightspyre.com",
+    "email": "hr@brightspyre.com",
+    "tag": "catch",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://brightspyre.com/careers"
+  },
+  {
+    "company": "LMKT Digital",
+    "domain": "lmkt.com",
+    "email": "hr@lmkt.com",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://lmkt.com/careers"
+  },
+  {
+    "company": "StormFiber Digital",
+    "domain": "stormfiber.com",
+    "email": "careers@stormfiber.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://stormfiber.com/careers"
+  },
+  {
+    "company": "PTCL Digital",
+    "domain": "ptcl.com.pk",
+    "email": "careers@ptcl.com.pk",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ptcl.com.pk/careers"
+  },
+  {
+    "company": "Telenor Digital",
+    "domain": "telenor.com.pk",
+    "email": "careers@telenor.com.pk",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://telenor.com.pk/careers"
+  },
+  {
+    "company": "Ufone Digital",
+    "domain": "ufone.com",
+    "email": "careers@ufone.com",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ufone.com/careers"
+  },
+  {
+    "company": "Zong Digital",
+    "domain": "zong.com.pk",
+    "email": "careers@zong.com.pk",
+    "tag": "catch",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zong.com.pk/careers"
+  },
+  {
+    "company": "Easypaisa Tech",
+    "domain": "easypaisa.com.pk",
+    "email": "careers@easypaisa.com.pk",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://easypaisa.com.pk/careers"
+  },
+  {
+    "company": "JazzCash Tech",
+    "domain": "jazzcash.com.pk",
+    "email": "careers@jazzcash.com.pk",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://jazzcash.com.pk/careers"
+  },
+  {
+    "company": "Finja Tech",
+    "domain": "finja.pk",
+    "email": "careers@finja.pk",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://finja.pk/careers"
+  },
+  {
+    "company": "Meezan Tech",
+    "domain": "meezanbank.com",
+    "email": "careers@meezanbank.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://meezanbank.com/careers"
+  },
+  {
+    "company": "JS Bank Digital",
+    "domain": "jsbl.com",
+    "email": "careers@jsbl.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://jsbl.com/careers"
+  },
+  {
+    "company": "DIB Pakistan Digital",
+    "domain": "dibpak.com",
+    "email": "careers@dibpak.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://dibpak.com/careers"
+  },
+  {
+    "company": "Tintash Pakistan",
+    "domain": "tintash.com",
+    "email": "careers@tintash.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tintash.com/careers"
+  },
+  {
+    "company": "Securiti Pakistan",
+    "domain": "securiti.ai",
+    "email": "careers@securiti.ai",
+    "tag": "catch",
+    "location": "Karachi / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://securiti.ai/careers"
+  },
+  {
+    "company": "Cubix Pakistan",
+    "domain": "cubix.co",
+    "email": "careers@cubix.co",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://cubix.co/careers"
+  },
+  {
+    "company": "Arbisoft Pakistan",
+    "domain": "arbisoft.com",
+    "email": "careers@arbisoft.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://arbisoft.com/careers"
+  },
+  {
+    "company": "Confiz Pakistan",
+    "domain": "confiz.com",
+    "email": "careers@confiz.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://confiz.com/careers"
+  },
+  {
+    "company": "Tkxel Pakistan",
+    "domain": "tkxel.com",
+    "email": "careers@tkxel.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tkxel.com/careers"
+  },
+  {
+    "company": "Netsol Pakistan",
+    "domain": "netsoltech.com",
+    "email": "careers@netsoltech.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://netsoltech.com/careers"
+  },
+  {
+    "company": "PureLogics Pakistan",
+    "domain": "purelogics.com",
+    "email": "careers@purelogics.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://purelogics.com/careers"
+  },
+  {
+    "company": "Dubizzle Labs Pakistan",
+    "domain": "dubizzlelabs.com",
+    "email": "hr@dubizzlelabs.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://dubizzlelabs.com/careers"
+  },
+  {
+    "company": "Empiric Pakistan",
+    "domain": "empiric.com",
+    "email": "careers@empiric.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://empiric.com/careers"
+  },
+  {
+    "company": "Mindstorm Pakistan",
+    "domain": "mindstormstudios.com",
+    "email": "careers@mindstormstudios.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mindstormstudios.com/careers"
+  },
+  {
+    "company": "Netsmartz Pakistan",
+    "domain": "netsmartz.com",
+    "email": "hr@netsmartz.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://netsmartz.com/careers"
+  },
+  {
+    "company": "Elixir Pakistan",
+    "domain": "elixirtech.com",
+    "email": "careers@elixirtech.com",
+    "tag": "catch",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://elixirtech.com/careers"
+  },
+  {
+    "company": "DPL Pakistan",
+    "domain": "dpl.com.pk",
+    "email": "hr@dpl.com.pk",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://dpl.com.pk/careers"
+  },
+  {
+    "company": "Creative Chaos Pakistan",
+    "domain": "creativechaos.co",
+    "email": "hr@creativechaos.co",
+    "tag": "strict",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://creativechaos.co/careers"
+  },
+  {
+    "company": "KoderLabs Pakistan",
+    "domain": "koderlabs.com",
+    "email": "careers@koderlabs.com",
+    "tag": "strict",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://koderlabs.com/careers"
+  },
+  {
+    "company": "Sekel Pakistan",
+    "domain": "sekeltech.com",
+    "email": "careers@sekeltech.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://sekeltech.com/careers"
+  },
+  {
+    "company": "DevBatch Pakistan",
+    "domain": "devbatch.com",
+    "email": "careers@devbatch.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://devbatch.com/careers"
+  },
+  {
+    "company": "Techverx Pakistan",
+    "domain": "techverx.com",
+    "email": "careers@techverx.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://techverx.com/careers"
+  },
+  {
+    "company": "Speridian Pakistan",
+    "domain": "speridian.com",
+    "email": "hr@speridian.com",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://speridian.com/careers"
+  },
+  {
+    "company": "Zigron Pakistan",
+    "domain": "zigron.com",
+    "email": "careers@zigron.com",
+    "tag": "catch",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zigron.com/careers"
+  },
+  {
+    "company": "HazenTech Pakistan",
+    "domain": "hazentech.com",
+    "email": "hr@hazentech.com",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://hazentech.com/careers"
+  },
+  {
+    "company": "Teknobuilt Pakistan",
+    "domain": "teknobuilt.com",
+    "email": "careers@teknobuilt.com",
+    "tag": "strict",
+    "location": "Islamabad",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://teknobuilt.com/careers"
+  },
+  {
+    "company": "Powersoft19 Pakistan",
+    "domain": "powersoft19.com",
+    "email": "careers@powersoft19.com",
+    "tag": "strict",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://powersoft19.com/careers"
+  },
+  {
+    "company": "NorthBay Pakistan",
+    "domain": "northbaysolutions.com",
+    "email": "jobs@northbaysolutions.com",
+    "tag": "strict",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://northbaysolutions.com/careers"
+  },
+  {
+    "company": "Contour Pakistan",
+    "domain": "contour-software.com",
+    "email": "hr@contour-software.com",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://contour-software.com/careers"
+  },
+  {
+    "company": "Bazaar Pakistan",
+    "domain": "bazaartech.com",
+    "email": "hr@bazaartech.com",
+    "tag": "strict",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://bazaartech.com/careers"
+  },
+  {
+    "company": "Retailo Pakistan",
+    "domain": "retailo.co",
+    "email": "careers@retailo.co",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://retailo.co/careers"
+  },
+  {
+    "company": "Foodpanda Pakistan Tech",
+    "domain": "foodpanda.pk",
+    "email": "careers@foodpanda.pk",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://foodpanda.pk/careers"
+  },
+  {
+    "company": "Dawaai Tech",
+    "domain": "dawaai.pk",
+    "email": "hr@dawaai.pk",
+    "tag": "catch",
+    "location": "Karachi",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://dawaai.pk/careers"
+  },
+  {
+    "company": "Shophive Tech",
+    "domain": "shophive.com",
+    "email": "careers@shophive.com",
+    "tag": "catch",
+    "location": "Lahore",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://shophive.com/careers"
+  },
+  {
+    "company": "UPayments",
+    "domain": "upayments.com",
+    "email": "careers@upayments.com",
+    "tag": "catch",
+    "location": "Kuwait / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://upayments.com/careers"
+  },
+  {
+    "company": "Warba Bank Digital",
+    "domain": "warbabank.com",
+    "email": "careers@warbabank.com",
+    "tag": "catch",
+    "location": "Kuwait",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://warbabank.com/careers"
+  },
+  {
+    "company": "Jazeera Airways Digital",
+    "domain": "jazeeraairways.com",
+    "email": "careers@jazeeraairways.com",
+    "tag": "strict",
+    "location": "Kuwait",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://jazeeraairways.com/careers"
+  },
+  {
+    "company": "CBK Digital",
+    "domain": "cbk.com",
+    "email": "careers@cbk.com",
+    "tag": "catch",
+    "location": "Kuwait",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://cbk.com/careers"
+  },
+  {
+    "company": "Markaz Kuwait",
+    "domain": "markaz.com",
+    "email": "careers@markaz.com",
+    "tag": "strict",
+    "location": "Kuwait",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://markaz.com/careers"
+  },
+  {
+    "company": "Dukhan Bank Digital",
+    "domain": "dukhanbank.com",
+    "email": "careers@dukhanbank.com",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://dukhanbank.com/careers"
+  },
+  {
+    "company": "Ahli Bank Qatar Digital",
+    "domain": "ahlibank.com.qa",
+    "email": "careers@ahlibank.com.qa",
+    "tag": "strict",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://ahlibank.com.qa/careers"
+  },
+  {
+    "company": "QIIB Digital",
+    "domain": "qiib.com.qa",
+    "email": "careers@qiib.com.qa",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://qiib.com.qa/careers"
+  },
+  {
+    "company": "Estithmar Holding Digital",
+    "domain": "estithmarholding.com",
+    "email": "careers@estithmarholding.com",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://estithmarholding.com/careers"
+  },
+  {
+    "company": "GWC Digital",
+    "domain": "gwclogistics.com",
+    "email": "careers@gwclogistics.com",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://gwclogistics.com/careers"
+  },
+  {
+    "company": "Mwani Qatar Digital",
+    "domain": "mwani.com.qa",
+    "email": "careers@mwani.com.qa",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mwani.com.qa/careers"
+  },
+  {
+    "company": "Qatari Diar Digital",
+    "domain": "qataridiar.com",
+    "email": "careers@qataridiar.com",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://qataridiar.com/careers"
+  },
+  {
+    "company": "Snoonu Qatar",
+    "domain": "snoonu.com",
+    "email": "careers@snoonu.com",
+    "tag": "catch",
+    "location": "Doha / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://snoonu.com/careers"
+  },
+  {
+    "company": "Qatar Airways Tech",
+    "domain": "qatarairways.com",
+    "email": "careers@qatarairways.com",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://qatarairways.com/careers"
+  },
+  {
+    "company": "Malomatia Tech",
+    "domain": "malomatia.com",
+    "email": "careers@malomatia.com",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://malomatia.com/careers"
+  },
+  {
+    "company": "Masraf Al Rayan Tech",
+    "domain": "alrayan.com",
+    "email": "careers@alrayan.com",
+    "tag": "catch",
+    "location": "Doha",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://alrayan.com/careers"
+  },
+  {
+    "company": "SafetyCulture",
+    "domain": "safetyculture.com",
+    "email": "careers@safetyculture.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://safetyculture.com/careers"
+  },
+  {
+    "company": "Deputy",
+    "domain": "deputy.com",
+    "email": "careers@deputy.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://deputy.com/careers"
+  },
+  {
+    "company": "Employment Hero",
+    "domain": "employmenthero.com",
+    "email": "careers@employmenthero.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://employmenthero.com/careers"
+  },
+  {
+    "company": "Linktree",
+    "domain": "linktr.ee",
+    "email": "careers@linktr.ee",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://linktr.ee/careers"
+  },
+  {
+    "company": "Envato",
+    "domain": "envato.com",
+    "email": "careers@envato.com",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://envato.com/careers"
+  },
+  {
+    "company": "Campaign Monitor",
+    "domain": "campaignmonitor.com",
+    "email": "careers@campaignmonitor.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://campaignmonitor.com/careers"
+  },
+  {
+    "company": "Zip Co",
+    "domain": "zip.co",
+    "email": "careers@zip.co",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zip.co/careers"
+  },
+  {
+    "company": "Afterpay",
+    "domain": "afterpay.com",
+    "email": "careers@afterpay.com",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://afterpay.com/careers"
+  },
+  {
+    "company": "Expert360",
+    "domain": "expert360.com",
+    "email": "careers@expert360.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://expert360.com/careers"
+  },
+  {
+    "company": "Up Banking",
+    "domain": "up.com.au",
+    "email": "careers@up.com.au",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://up.com.au/careers"
+  },
+  {
+    "company": "Wisetech Global",
+    "domain": "wisetechglobal.com",
+    "email": "careers@wisetechglobal.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://wisetechglobal.com/careers"
+  },
+  {
+    "company": "TechnologyOne",
+    "domain": "technologyonecorp.com",
+    "email": "careers@technologyonecorp.com",
+    "tag": "catch",
+    "location": "Brisbane / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://technologyonecorp.com/careers"
+  },
+  {
+    "company": "NextDC",
+    "domain": "nextdc.com",
+    "email": "careers@nextdc.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://nextdc.com/careers"
+  },
+  {
+    "company": "Xero AU",
+    "domain": "xero.com",
+    "email": "careers@xero.com",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://xero.com/careers"
+  },
+  {
+    "company": "SafetyCulture AU",
+    "domain": "safetyculture.com",
+    "email": "careers@safetyculture.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://safetyculture.com/careers"
+  },
+  {
+    "company": "Deputy AU",
+    "domain": "deputy.com",
+    "email": "careers@deputy.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://deputy.com/careers"
+  },
+  {
+    "company": "Employment Hero AU",
+    "domain": "employmenthero.com",
+    "email": "careers@employmenthero.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://employmenthero.com/careers"
+  },
+  {
+    "company": "Linktree AU",
+    "domain": "linktr.ee",
+    "email": "careers@linktr.ee",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://linktr.ee/careers"
+  },
+  {
+    "company": "Envato AU",
+    "domain": "envato.com",
+    "email": "careers@envato.com",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://envato.com/careers"
+  },
+  {
+    "company": "Campaign Monitor AU",
+    "domain": "campaignmonitor.com",
+    "email": "careers@campaignmonitor.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://campaignmonitor.com/careers"
+  },
+  {
+    "company": "Carsales AU",
+    "domain": "carsales.com.au",
+    "email": "hr@carsales.com.au",
+    "tag": "strict",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://carsales.com.au/careers"
+  },
+  {
+    "company": "Tyro AU",
+    "domain": "tyro.com",
+    "email": "hr@tyro.com",
+    "tag": "strict",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tyro.com/careers"
+  },
+  {
+    "company": "Zip AU",
+    "domain": "zip.co",
+    "email": "careers@zip.co",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zip.co/careers"
+  },
+  {
+    "company": "Afterpay AU",
+    "domain": "afterpay.com",
+    "email": "careers@afterpay.com",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://afterpay.com/careers"
+  },
+  {
+    "company": "Brighte AU",
+    "domain": "brighte.com.au",
+    "email": "hr@brighte.com.au",
+    "tag": "strict",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://brighte.com.au/careers"
+  },
+  {
+    "company": "Expert360 AU",
+    "domain": "expert360.com",
+    "email": "careers@expert360.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://expert360.com/careers"
+  },
+  {
+    "company": "Up Banking AU",
+    "domain": "up.com.au",
+    "email": "careers@up.com.au",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://up.com.au/careers"
+  },
+  {
+    "company": "Wisetech AU",
+    "domain": "wisetechglobal.com",
+    "email": "careers@wisetechglobal.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://wisetechglobal.com/careers"
+  },
+  {
+    "company": "TechnologyOne AU",
+    "domain": "technologyonecorp.com",
+    "email": "careers@technologyonecorp.com",
+    "tag": "catch",
+    "location": "Brisbane / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://technologyonecorp.com/careers"
+  },
+  {
+    "company": "NextDC AU",
+    "domain": "nextdc.com",
+    "email": "careers@nextdc.com",
+    "tag": "catch",
+    "location": "Sydney / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://nextdc.com/careers"
+  },
+  {
+    "company": "Xero Australia",
+    "domain": "xero.com",
+    "email": "careers@xero.com",
+    "tag": "catch",
+    "location": "Melbourne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://xero.com/careers"
+  },
+  {
+    "company": "Mambu",
+    "domain": "mambu.com",
+    "email": "careers@mambu.com",
+    "tag": "catch",
+    "location": "Amsterdam / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mambu.com/careers"
+  },
+  {
+    "company": "Solaris",
+    "domain": "solarisgroup.com",
+    "email": "careers@solarisgroup.com",
+    "tag": "catch",
+    "location": "Berlin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://solarisgroup.com/careers"
+  },
+  {
+    "company": "Vivid Money",
+    "domain": "vivid.money",
+    "email": "careers@vivid.money",
+    "tag": "catch",
+    "location": "Berlin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://vivid.money/careers"
+  },
+  {
+    "company": "Plum",
+    "domain": "withplum.com",
+    "email": "careers@withplum.com",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://withplum.com/careers"
+  },
+  {
+    "company": "Moneybox",
+    "domain": "moneyboxapp.com",
+    "email": "careers@moneyboxapp.com",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://moneyboxapp.com/careers"
+  },
+  {
+    "company": "Gousto",
+    "domain": "gousto.co.uk",
+    "email": "careers@gousto.co.uk",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://gousto.co.uk/careers"
+  },
+  {
+    "company": "Flink",
+    "domain": "goflink.com",
+    "email": "careers@goflink.com",
+    "tag": "catch",
+    "location": "Berlin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://goflink.com/careers"
+  },
+  {
+    "company": "Morgen",
+    "domain": "morgen.so",
+    "email": "careers@morgen.so",
+    "tag": "strict",
+    "location": "Berlin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://morgen.so/careers"
+  },
+  {
+    "company": "MailerLite",
+    "domain": "mailerlite.com",
+    "email": "careers@mailerlite.com",
+    "tag": "catch",
+    "location": "Vilnius / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mailerlite.com/careers"
+  },
+  {
+    "company": "ConfigCat",
+    "domain": "configcat.com",
+    "email": "careers@configcat.com",
+    "tag": "catch",
+    "location": "Budapest / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://configcat.com/careers"
+  },
+  {
+    "company": "Better Stack",
+    "domain": "betterstack.com",
+    "email": "careers@betterstack.com",
+    "tag": "catch",
+    "location": "Prague / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://betterstack.com/careers"
+  },
+  {
+    "company": "Checkly",
+    "domain": "checklyhq.com",
+    "email": "careers@checklyhq.com",
+    "tag": "catch",
+    "location": "Amsterdam / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://checklyhq.com/careers"
+  },
+  {
+    "company": "Smartlook",
+    "domain": "smartlook.com",
+    "email": "careers@smartlook.com",
+    "tag": "catch",
+    "location": "Brno / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://smartlook.com/careers"
+  },
+  {
+    "company": "Windmill",
+    "domain": "windmill.dev",
+    "email": "careers@windmill.dev",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://windmill.dev/careers"
+  },
+  {
+    "company": "Wolt EU",
+    "domain": "wolt.com",
+    "email": "hr@wolt.com",
+    "tag": "catch",
+    "location": "Helsinki / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://wolt.com/careers"
+  },
+  {
+    "company": "Contentsquare EU",
+    "domain": "contentsquare.com",
+    "email": "careers@contentsquare.com",
+    "tag": "strict",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://contentsquare.com/careers"
+  },
+  {
+    "company": "Jumia",
+    "domain": "jumia.com",
+    "email": "careers@jumia.com",
+    "tag": "catch",
+    "location": "Cairo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://jumia.com/careers"
+  },
+  {
+    "company": "Baremetrics",
+    "domain": "baremetrics.com",
+    "email": "careers@baremetrics.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://baremetrics.com/careers"
+  },
+  {
+    "company": "LogRocket",
+    "domain": "logrocket.com",
+    "email": "careers@logrocket.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://logrocket.com/careers"
+  },
+  {
+    "company": "ClickHouse",
+    "domain": "clickhouse.com",
+    "email": "careers@clickhouse.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://clickhouse.com/careers"
+  },
+  {
+    "company": "Prefect",
+    "domain": "prefect.io",
+    "email": "careers@prefect.io",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://prefect.io/careers"
+  },
+  {
+    "company": "Pipedream",
+    "domain": "pipedream.com",
+    "email": "careers@pipedream.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://pipedream.com/careers"
+  },
+  {
+    "company": "Fillout",
+    "domain": "fillout.com",
+    "email": "careers@fillout.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://fillout.com/careers"
+  },
+  {
+    "company": "Calendly",
+    "domain": "calendly.com",
+    "email": "careers@calendly.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://calendly.com/careers"
+  },
+  {
+    "company": "SavvyCal",
+    "domain": "savvycal.com",
+    "email": "careers@savvycal.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://savvycal.com/careers"
+  },
+  {
+    "company": "Motion",
+    "domain": "usemotion.com",
+    "email": "careers@usemotion.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://usemotion.com/careers"
+  },
+  {
+    "company": "Kraken",
+    "domain": "kraken.com",
+    "email": "careers@kraken.com",
+    "tag": "catch",
+    "location": "Worldwide remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://kraken.com/careers"
+  },
+  {
+    "company": "Paymob Egypt",
+    "domain": "paymob.com",
+    "email": "careers@paymob.com",
+    "tag": "catch",
+    "location": "Cairo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://paymob.com/careers"
+  },
+  {
+    "company": "Namshi UAE",
+    "domain": "namshi.com",
+    "email": "careers@namshi.com",
+    "tag": "catch",
+    "location": "Dubai / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://namshi.com/careers"
+  },
+  {
+    "company": "Mumzworld UAE",
+    "domain": "mumzworld.com",
+    "email": "careers@mumzworld.com",
+    "tag": "catch",
+    "location": "Dubai / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mumzworld.com/careers"
+  },
+  {
+    "company": "Breadfast Egypt",
+    "domain": "breadfast.com",
+    "email": "careers@breadfast.com",
+    "tag": "strict",
+    "location": "Cairo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://breadfast.com/careers"
+  },
+  {
+    "company": "Elmenus Egypt",
+    "domain": "elmenus.com",
+    "email": "careers@elmenus.com",
+    "tag": "strict",
+    "location": "Cairo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://elmenus.com/careers"
+  },
+  {
+    "company": "Snoonu Remote",
+    "domain": "snoonu.com",
+    "email": "careers@snoonu.com",
+    "tag": "catch",
+    "location": "Doha / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://snoonu.com/careers"
+  },
+  {
+    "company": "Langfuse EU",
+    "domain": "langfuse.com",
+    "email": "careers@langfuse.com",
+    "tag": "catch",
+    "location": "Berlin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://langfuse.com/careers"
+  },
+  {
+    "company": "PostHog EU",
+    "domain": "posthog.com",
+    "email": "hr@posthog.com",
+    "tag": "catch",
+    "location": "Europe / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://posthog.com/careers"
+  },
+  {
+    "company": "Mistral EU",
+    "domain": "mistral.ai",
+    "email": "careers@mistral.ai",
+    "tag": "catch",
+    "location": "Paris / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mistral.ai/careers"
+  },
+  {
+    "company": "Synthesia EU",
+    "domain": "synthesia.io",
+    "email": "careers@synthesia.io",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://synthesia.io/careers"
+  },
+  {
+    "company": "Stability AI EU",
+    "domain": "stability.ai",
+    "email": "hr@stability.ai",
+    "tag": "catch",
+    "location": "London / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://stability.ai/careers"
+  },
+  {
+    "company": "DeepL EU",
+    "domain": "deepl.com",
+    "email": "careers@deepl.com",
+    "tag": "catch",
+    "location": "Cologne / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://deepl.com/careers"
+  },
+  {
+    "company": "Weaviate EU",
+    "domain": "weaviate.io",
+    "email": "hr@weaviate.io",
+    "tag": "catch",
+    "location": "Amsterdam / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://weaviate.io/careers"
+  },
+  {
+    "company": "Intercom EU",
+    "domain": "intercom.com",
+    "email": "hr@intercom.com",
+    "tag": "catch",
+    "location": "Dublin / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://intercom.com/careers"
+  },
+  {
+    "company": "TravelPerk EU",
+    "domain": "travelperk.com",
+    "email": "careers@travelperk.com",
+    "tag": "catch",
+    "location": "Barcelona / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://travelperk.com/careers"
+  },
+  {
+    "company": "Remote.com EU",
+    "domain": "remote.com",
+    "email": "hr@remote.com",
+    "tag": "catch",
+    "location": "Lisbon / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://remote.com/careers"
+  },
+  {
+    "company": "Nord Security EU",
+    "domain": "nordsecurity.com",
+    "email": "careers@nordsecurity.com",
+    "tag": "catch",
+    "location": "Vilnius / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://nordsecurity.com/careers"
+  },
+  {
+    "company": "Mullvad EU",
+    "domain": "mullvad.net",
+    "email": "careers@mullvad.net",
+    "tag": "catch",
+    "location": "Gothenburg / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://mullvad.net/careers"
+  },
+  {
+    "company": "Tresorit EU",
+    "domain": "tresorit.com",
+    "email": "careers@tresorit.com",
+    "tag": "strict",
+    "location": "Zurich / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://tresorit.com/careers"
+  },
+  {
+    "company": "pCloud EU",
+    "domain": "pcloud.com",
+    "email": "careers@pcloud.com",
+    "tag": "catch",
+    "location": "Sofia / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://pcloud.com/careers"
+  },
+  {
+    "company": "Bitdefender EU",
+    "domain": "bitdefender.com",
+    "email": "careers@bitdefender.com",
+    "tag": "catch",
+    "location": "Bucharest / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://bitdefender.com/careers"
+  },
+  {
+    "company": "Smartly EU",
+    "domain": "smartly.io",
+    "email": "careers@smartly.io",
+    "tag": "catch",
+    "location": "Helsinki / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://smartly.io/careers"
+  },
+  {
+    "company": "Supermetrics EU",
+    "domain": "supermetrics.com",
+    "email": "careers@supermetrics.com",
+    "tag": "catch",
+    "location": "Helsinki / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://supermetrics.com/careers"
+  },
+  {
+    "company": "Klarna EU",
+    "domain": "klarna.com",
+    "email": "careers@klarna.com",
+    "tag": "strict",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://klarna.com/careers"
+  },
+  {
+    "company": "Spotify EU",
+    "domain": "spotify.com",
+    "email": "careers@spotify.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://spotify.com/careers"
+  },
+  {
+    "company": "Truecaller EU",
+    "domain": "truecaller.com",
+    "email": "careers@truecaller.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://truecaller.com/careers"
+  },
+  {
+    "company": "Trustly EU",
+    "domain": "trustly.com",
+    "email": "careers@trustly.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://trustly.com/careers"
+  },
+  {
+    "company": "King EU",
+    "domain": "king.com",
+    "email": "careers@king.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://king.com/careers"
+  },
+  {
+    "company": "Zettle EU",
+    "domain": "zettle.com",
+    "email": "careers@zettle.com",
+    "tag": "catch",
+    "location": "Stockholm / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://zettle.com/careers"
+  },
+  {
+    "company": "Pleo EU",
+    "domain": "pleo.io",
+    "email": "careers@pleo.io",
+    "tag": "catch",
+    "location": "Copenhagen / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://pleo.io/careers"
+  },
+  {
+    "company": "Visma EU",
+    "domain": "visma.com",
+    "email": "careers@visma.com",
+    "tag": "catch",
+    "location": "Oslo / remote",
+    "title": "Software Engineer / Full Stack Engineer",
+    "url": "https://visma.com/careers"
+  }
+]

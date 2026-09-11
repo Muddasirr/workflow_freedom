@@ -1,0 +1,16 @@
+Hi Daira team,
+
+Your AI Engineer opening fits work I already do at Codet.ai: shipping agent features inside a product, not isolated prototypes.
+
+I built AutoCloudEngineerAgent on LangGraph. It proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, then rolls back or recommends promotion based on results. That loop is how I experiment with emerging AI capabilities while keeping hard safety constraints in code. On the same platform I also integrated an in-app AI assistant and drag-and-drop trigger, condition, and action workflows in Next.js, so agent behavior shows up where users work.
+
+Before Codet I wrote Java REST APIs at Euronet for fintech integrations, which keeps my agent work grounded in solid software engineering. My GitHub profile has the projects behind this work.
+
+I'm interested in Daira because you want engineers who enjoy building and experimenting with agents, and that is how I spend most of my week.
+
+Happy to walk through a recent agent feature on a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,13 @@
+Hi RemoteBase team,
+
+Saw your Remote Frontend / Full Stack Engineer role for Next.js, React, and LangGraph, based in Karachi (UTC+5). I'm Muddasir Rizwan, a software engineer at Codet.ai with about a year of experience building production full-stack products in Next.js.
+
+At Codet.ai I built our no-code platform in Next.js and shipped AutoCloudEngineerAgent on LangGraph, which proposes infra, deploys to a K8s canary, and rolls back when invariant benches fail.
+
+Would you have 15 minutes this week to chat?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

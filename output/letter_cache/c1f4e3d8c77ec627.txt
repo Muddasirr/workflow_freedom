@@ -1,0 +1,13 @@
+Hi Deliveroo team,
+
+I'm interested in the Software Engineer (Full Stack / Frontend / AI) opening. The React, Next.js, TypeScript, and Python AI focus matches what I build daily.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai working on a Next.js no-code platform with dynamic databases and drag-and-drop workflows.
+
+I recently shipped AutoCloudEngineerAgent on LangGraph in Python: it proposes infra, deploys to a Kubernetes canary, and rolls back when invariant benches fail.
+
+Would you have 15 minutes this week for a quick chat?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

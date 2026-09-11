@@ -1,0 +1,14 @@
+Hi TrendTide team,
+
+Your Full-Stack Developer role aligns with how I build at Codet.ai: Next.js and TypeScript products with admin tooling, structured data, and APIs backed by PostgreSQL.
+
+The most complex application I have worked on is our no-code platform. I personally built the dynamic database module for tables, fields, relationships, and records, plus drag-and-drop workflows and UI components with trigger, condition, and action logic, and RBAC-style permission patterns across the builder. That experience fits your focus on complex admin dashboards, role-based access, and responsive consumer-facing web apps integrated with backend services. At Euronet I shipped Java REST APIs with JWT RBAC and PostgreSQL for fintech flows, which sharpened my approach to secure API design.
+
+I am interested in contributing to TrendTide’s international project building admin systems, consumer apps, and APIs from the ground up here in Karachi.
+
+Open to a brief call to discuss fit. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

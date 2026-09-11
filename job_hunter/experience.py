@@ -19,13 +19,32 @@ SENIOR_TITLE_HINTS = (
     "head of software",
     "director of",
     "architect",
-    "iii",
+    " iii",
+    " iii,",
+    " iii)",
     " iv",
+    " iv,",
+    "l4",
     "l5",
     "l6",
     "l7",
+    "l8",
+    "(l4",
+    "(l5",
+    "(l6",
+    "(l7",
+    "(l8",
     "ic4",
     "ic5",
+    "ic6",
+)
+
+# Level II+ engineer titles (Amazon SDE II, Google SWE III, etc.) = above 0–2 YOE target.
+LEVEL_TWO_PLUS = re.compile(
+    r"\b(?:software engineer|developer|sde|swe|engineer)\s*,?\s*(?:ii|iii|iv|2|3|4)\b"
+    r"|\b(?:ii|iii|iv)\s*,?\s*(?:software engineer|developer|engineer)\b"
+    r"|\bengineer\s+(?:ii|iii|iv)\b",
+    re.I,
 )
 
 JUNIOR_TITLE_RE = re.compile(
@@ -91,7 +110,7 @@ def classify_experience(job: Job) -> Job:
     title = (job.title or "").lower()
     blob = _blob(job)
 
-    senior_title = any(h in title for h in SENIOR_TITLE_HINTS)
+    senior_title = any(h in title for h in SENIOR_TITLE_HINTS) or bool(LEVEL_TWO_PLUS.search(job.title or ""))
     junior_title = bool(JUNIOR_TITLE_RE.search(title))
     junior_blob = bool(JUNIOR_TITLE_RE.search(blob))
     junior_years = bool(JUNIOR_YEARS.search(blob))
@@ -126,3 +145,22 @@ def is_junior_keepable(job: Job, *, strict: bool = False) -> bool:
     if strict:
         return job.experience_fit == "Yes"
     return job.experience_fit in {"Yes", "Maybe"}
+
+
+def role_ok_for_junior(title: str, description: str = "") -> bool:
+    """Drop senior/staff/L4+ and 3+ year postings for 0–2 YOE outreach."""
+    title_l = (title or "").lower()
+    if LEVEL_TWO_PLUS.search(title or ""):
+        return False
+    if any(h in title_l for h in SENIOR_TITLE_HINTS):
+        # Google/Netflix-style L3 is entry-level; L4+ is not.
+        if re.search(r"\bl3\b", title_l) and not re.search(r"\bl[4-9]\b", title_l):
+            pass
+        else:
+            return False
+    if re.search(r"\b(?:lead|manager|director|head of)\b", title_l):
+        return False
+    blob = f"{title} {description}"[:5000].lower()
+    if TOO_SENIOR_YEARS.search(blob) and not JUNIOR_YEARS.search(blob):
+        return False
+    return True

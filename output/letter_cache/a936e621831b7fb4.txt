@@ -1,0 +1,15 @@
+Hi Murex team,
+
+Saw your Software Engineer (Full Stack / Frontend / AI) opening at murex.com/careers and the React/Next.js/TypeScript plus Python/AI focus.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi where I build and ship a production no-code platform.
+
+Recently I built our Next.js/TypeScript client and a LangGraph in-app AI agent that proposes infra changes, tests on Kubernetes canaries, and rolls back unsafe deploys automatically.
+
+Could we grab 15 minutes this week to see if I fit the team?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

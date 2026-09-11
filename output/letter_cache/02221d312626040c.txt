@@ -1,0 +1,14 @@
+Hi Confiz team,
+
+The Software Engineer / Full Stack Engineer opening in Lahore fits work I have been doing at Codet.ai, where I build and scale a no-code platform in Next.js, TypeScript, and React, including dynamic database modules and drag-and-drop workflow components.
+
+Your Python and AI/LLM tags match a separate track I own: AutoCloudEngineerAgent in LangGraph, which proposes infra, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when hard safety constraints fail. I also delivered REST APIs during a fintech stint at Euronet, JWT RBAC, PostgreSQL, and third-party payment integrations, so full-stack API work is not new to me.
+
+I am interested in Confiz because the role blends frontend product engineering with AI-adjacent backend work in Lahore, and I am open to onsite or hybrid there from Karachi.
+
+Open to a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,15 @@
+Hi Hashpotato team,
+
+Your Frontend / Full Stack Engineer role combines Next.js/React with AI agents for remote Karachi.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building a no-code platform in Next.js with drag-and-drop workflows and an in-app AI assistant.
+
+I also ship LangGraph agents (AutoCloudEngineerAgent) that deploy to Kubernetes canaries with invariant checks before promotion, which maps closely to your AI agent work.
+
+Would you have 15 minutes this week for a quick conversation?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

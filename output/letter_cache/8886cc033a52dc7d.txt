@@ -1,0 +1,13 @@
+Hi Wavetec team,
+
+I'm writing about your Junior Software Engineer / Frontend role in Karachi, where the stack is React/Next.js plus Java/API and you asked candidates to share a portfolio.
+
+I'm Muhammad Muddasir Rizwan, a software engineer at Codet.ai building a no-code platform in Next.js.
+
+At Codet.ai I shipped drag-and-drop workflow UI and a dynamic database module in React/Next.js; you can see my work at muddasirrizwan.com.
+
+Would you have 15 minutes this week for a quick call?
+
+Best,
+Muhammad Muddasir Rizwan
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

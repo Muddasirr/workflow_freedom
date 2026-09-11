@@ -1,0 +1,14 @@
+Hi Woot Tech team,
+
+The Software Engineer role matches work I do now at Codet.ai, where I build and scale a no-code platform in Next.js, TypeScript, and React for full-stack product engineering.
+
+I ship drag-and-drop workflows and UI components with trigger, condition, and action logic, plus an in-app AI assistant. I also built the dynamic database module for tables, fields, relationships, and records. On the Python side, I developed AutoCloudEngineerAgent with LangGraph for infra proposals and canary Kubernetes deploys with invariant benches before promotion. At Euronet I delivered Java REST APIs for fintech with PostgreSQL and payment integrations, so I can own features from UI through backend.
+
+Your NASTP Silicon base in Karachi and focus on product engineering, not trainee work, fits how I already contribute on a live platform day to day.
+
+Open to a short call to discuss fit. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

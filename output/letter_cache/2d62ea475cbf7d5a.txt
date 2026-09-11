@@ -1,0 +1,14 @@
+Hi Adyen team,
+
+I'm interested in your Software Engineer (Full Stack / Frontend / AI) role in Amsterdam or remote, especially the React, Next.js, TypeScript, and Python/AI stack fit.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi with a BS in Computer Science from IBA Karachi.
+
+At Codet.ai I build our no-code platform in Next.js and TypeScript, including a LangGraph AI assistant that deploys through Kubernetes canary checks before promotion.
+
+Would you have 15 minutes this week for a quick call?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

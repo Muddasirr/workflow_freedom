@@ -1,0 +1,15 @@
+Hi Boardwalk Marketing team,
+
+I am interested in Junior or Associate Software Engineer work across your full stack, frontend, or AI engineering tracks. At Codet.ai I ship customer-facing product in Next.js and TypeScript, including drag-and-drop workflows, UI components, and a dynamic database module for tables, fields, and relationships. That maps closely to building usable analytics-facing product in React and Next.js.
+
+For AI tooling, I built AutoCloudEngineerAgent with LangGraph and Python. It proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant checks, and rolls back when hard safety constraints fail. Earlier at Euronet I built Java REST APIs for fintech flows with PostgreSQL, JWT RBAC, and third-party payment integrations, so I can help on backend services as well as frontend and agent work.
+
+Boardwalk’s focus on data-driven marketing and analytics, and shipping in a small remote team, is the kind of environment where I want to grow. Are you currently hiring early-career IC engineers who can work remote from Karachi (UTC+5)?
+
+Open to a short call. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

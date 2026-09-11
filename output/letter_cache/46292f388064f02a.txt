@@ -1,0 +1,14 @@
+Hi Talabat team,
+
+I'm applying for the Software Engineer / Full Stack Engineer role in Dubai. At Codet.ai I've spent the past year building a Next.js no-code platform with React, TypeScript, and Python APIs, which lines up with your stack for shipping customer-facing features end to end.
+
+On the frontend, I own drag-and-drop workflows and a dynamic database module where users define tables, relationships, and records without writing code. On the backend, I built REST integrations and an AutoCloudEngineerAgent in LangGraph that proposes infrastructure, deploys to a Kubernetes canary, and rolls back when invariant checks fail. Earlier at Euronet I shipped Java EE payment APIs with JWT RBAC and PostgreSQL for fintech flows, so I'm comfortable with production API design and data modeling.
+
+I'm interested in Talabat because this associate-level full stack path in Dubai sits at the intersection of React product work and AI-adjacent engineering, and I'm open to onsite or hybrid in the region.
+
+Happy to talk on a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

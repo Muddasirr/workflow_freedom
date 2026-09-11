@@ -1,0 +1,13 @@
+Hi Ampstek team,
+
+The Software Engineer – Java & React.js role fits the full-stack path I have been on: Java REST backends paired with React and TypeScript front ends. At Euronet, I developed Java EE REST APIs for fintech products, including ISO 8583 payment integrations, JWT RBAC, and PostgreSQL-backed services. That work maps to your needs for secure REST API development, data persistence, and dependable backend behavior.
+
+At Codet.ai, I build responsive web applications in Next.js and React with TypeScript, including reusable UI components and drag-and-drop workflow interfaces. I can carry that into the React.js, ES6+, and component-driven UI work you describe, including stateful interfaces teams use daily.
+
+I am early in my career with strong hands-on delivery and am ready to deepen my Java backend work alongside your Spring Boot stack in Dubai. I would welcome a short call to discuss fit; my resume is attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

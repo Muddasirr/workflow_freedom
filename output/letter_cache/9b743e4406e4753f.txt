@@ -1,0 +1,14 @@
+Hi Digitalogy team,
+
+I'm reaching out about Junior / Associate Software Engineer opportunities across your full stack, frontend, or AI-engineering tracks. At Codet.ai I ship product in Next.js and TypeScript, including drag-and-drop workflows and a dynamic database module so teams can build apps without writing code, which aligns with the React and Next.js skills in your posting.
+
+On the AI side, I built AutoCloudEngineerAgent with LangGraph: it proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, then rolls back or recommends promotion under hard safety constraints. That pairs with the Python and AI tooling in your stack. Earlier at Euronet I delivered Java REST APIs for fintech with PostgreSQL and JWT RBAC.
+
+I'm drawn to Digitalogy's model of placing strong communicators into world-leading client teams with flexibility and cultural alignment. If you are hiring IC engineers at early career level for remote work, I would welcome a short call. My resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

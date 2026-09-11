@@ -1,0 +1,15 @@
+Hi Meezan Bank team,
+
+Your Software Engineer / Full Stack Engineer role in Karachi fits the Next.js, TypeScript, and React work I deliver at Codet.ai, where I build a no-code platform with dynamic database tables, drag-and-drop workflows, and REST APIs that wire triggers, conditions, and actions.
+
+You list React, Next.js, Python, and AI/LLM skills. I built our in-app AI assistant and AutoCloudEngineerAgent in Python with LangGraph, running invariant benches before any Kubernetes canary change is promoted or rolled back. At Euronet I also shipped Java REST APIs for fintech payment flows with JWT RBAC and PostgreSQL, so I can own full-stack features from UI through secure backend integration.
+
+I am in Karachi and open to onsite or hybrid here. Combining product engineering with AI-adjacent services is the direction I want to grow, and Meezan is a strong place to do that locally.
+
+Open to a brief call to walk through relevant projects. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

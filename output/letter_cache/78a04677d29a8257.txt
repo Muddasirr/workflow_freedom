@@ -1,0 +1,15 @@
+Hi OpenSooq team,
+
+Your Software Engineer (Full Stack / Frontend / AI) opening stood out, especially the React, Next.js, TypeScript, Python, and AI stack and the Amman or remote setup.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi building a no-code platform.
+
+At Codet.ai I shipped drag-and-drop workflows and an in-app AI assistant in Next.js, plus a LangGraph agent that deploys to a Kubernetes canary with safety checks before rollout.
+
+Would you have 15 minutes this week to chat about fit?
+
+Thanks,
+Muhammad Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

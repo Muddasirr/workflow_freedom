@@ -1,0 +1,12 @@
+Hi n8n team,
+
+Your Full Stack / Frontend Engineer role building n8n workflows is the product surface I work on today. I am Muddasir Rizwan, an early-career software engineer at Codet.ai in Karachi, open to remote worldwide.
+
+I built Rulr with ReactFlow, a visual workflow editor where users wire trigger, condition, and action nodes without writing code.
+
+Would you have 15 minutes this week to see if my workflow UI background fits your team?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

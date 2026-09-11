@@ -1,0 +1,16 @@
+Hi Liz,
+
+I noticed the open Software Engineer (L7) Application Networking role at Netflix and wanted to reach out directly. At Codet.ai I work on production systems where secure service-to-service behavior is non-negotiable: Kubernetes canary deploys with invariant benches and automatic rollback, plus a dynamic database layer that internal modules depend on for every request.
+
+Before that, at Euronet, I built Java REST APIs for payment flows with JWT RBAC and PostgreSQL, work that sits close to identity and access enforcement under real fintech traffic. I also built AutoCloudEngineerAgent in LangGraph, which proposes infrastructure changes, validates them on a canary, and blocks promotion when safety constraints fail.
+
+Your team’s description of Application Networking as the secure front door and fabric for the fleet, at the scale of Streaming, Live, Ads, and Gaming, is exactly the layer I have been building toward.
+
+Open to a short call if you think there is a fit to forward internally. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

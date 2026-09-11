@@ -1,0 +1,13 @@
+Hi Arbisoft team,
+
+Saw your Associate / Junior Software Engineer role for React/Next.js and Python at Arbisoft Pakistan.
+
+I'm Muddasir Rizwan, Software Engineer at Codet.ai since June and a recent IBA Karachi CS grad focused on shipped product work.
+
+At Codet.ai I built the no-code platform in Next.js and a LangGraph Python agent that deploys to Kubernetes canaries with automated rollback when invariant benches fail.
+
+Could we grab 15 minutes this week? I'm open to Lahore or remote PK.
+
+Best,
+Muddasir Rizwan
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

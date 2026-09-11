@@ -1,0 +1,14 @@
+Hi StormFiber team,
+
+The Software Engineer / Full Stack Engineer role in Karachi matches the Next.js and React product work I have been shipping at Codet.ai. I built and scaled a no-code platform with dynamic database tables, field relationships, and drag-and-drop trigger, condition, and action workflows, all in TypeScript and Next.js.
+
+Your posting also calls for Python, AI/LLM, and APIs. I developed AutoCloudEngineerAgent on LangGraph: it proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when safety checks fail. Before Codet, at Euronet I delivered Java REST APIs for ISO 8583 payment flows with JWT RBAC and PostgreSQL, so I can own backend integration as well as frontend features.
+
+I am based in Karachi and open to onsite or hybrid work. StormFiber’s mix of React, Next.js, TypeScript, Python, and AI-adjacent engineering is the scope I want next.
+
+Happy to connect on a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

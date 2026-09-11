@@ -1,0 +1,13 @@
+Hi Zigron team,
+
+Your Software Engineer / Full Stack Engineer role in Islamabad aligns with the production Next.js and TypeScript platform I have been building at Codet.ai since June 2025: dynamic database modules, drag-and-drop trigger-condition-action workflows, and an in-app AI assistant that lets users ship apps without writing code.
+
+The posting’s React, Next.js, TypeScript, Python, and AI/LLM requirements match my day-to-day stack. I contributed to AutoCloudEngineerAgent on LangGraph, which proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when hard safety constraints fail. At Euronet I delivered Java REST APIs for fintech, including ISO 8583 payment integrations with JWT RBAC and PostgreSQL.
+
+I am interested in growing on a full-stack, AI-adjacent track in Islamabad, onsite or hybrid. I am happy to discuss fit on a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Based in Karachi (UTC+5), open to travel in the region.

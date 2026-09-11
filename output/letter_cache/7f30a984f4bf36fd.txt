@@ -1,0 +1,13 @@
+Hi Mistral AI team,
+
+I'm reaching out about the Software Engineer (Full Stack / Frontend / AI) role in Paris / remote, aligned with your React, Next.js, TypeScript, Python, and AI stack.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi with a BS in Computer Science from IBA Karachi.
+
+At Codet.ai I built a Next.js no-code platform with drag-and-drop workflows and an in-app AI assistant, plus a LangGraph agent that deploys to Kubernetes canaries with hard safety rollbacks.
+
+Could we find 15 minutes this week to talk?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

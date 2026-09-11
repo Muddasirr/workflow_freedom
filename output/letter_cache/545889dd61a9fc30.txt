@@ -1,0 +1,14 @@
+Hi Picnic team,
+
+Your Software Engineer (Full Stack / Frontend / AI) role in Amsterdam stood out, especially the React, Next.js, TypeScript, Python, and AI stack on your careers page.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi building a no-code platform, open to remote worldwide.
+
+At Codet.ai I shipped a LangGraph agent in Python that deploys infra to Kubernetes canaries and only promotes changes after invariant benches pass hard safety guardrails.
+
+Would you have 15 minutes this week for a quick chat?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

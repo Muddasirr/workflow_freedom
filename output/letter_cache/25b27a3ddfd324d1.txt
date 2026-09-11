@@ -1,0 +1,13 @@
+Hi CommissionCrowd team,
+
+I'm interested in your Junior / Associate Software Engineer path across full stack, frontend, or AI engineering. Your stack tags around React, Next.js, TypeScript, Python, and LangGraph match what I use daily at Codet.ai, where I build a no-code platform with dynamic database modules and drag-and-drop workflows plus an in-app AI assistant.
+
+I also shipped AutoCloudEngineerAgent on LangGraph: it proposes infrastructure, deploys only to a Kubernetes canary, runs invariant checks, then rolls back or recommends promotion when safety gates fail. That pattern fits AI tooling that helps users move faster without breaking core product flows. Before Codet, at Euronet I built Java REST APIs for fintech payment integrations with JWT RBAC on PostgreSQL, which rounds out my full-stack baseline.
+
+CommissionCrowd’s work connecting companies with remote commission-only B2B sales reps speaks to the kind of distributed, decision-heavy workflows I want to build for. I would welcome a short call to learn whether you are hiring early-career IC engineers who can work remote from Karachi (UTC+5). Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,15 @@
+Hi Dataiku team,
+
+Reaching out about the Software Engineer (Full Stack / Frontend / AI) role in Paris or remote. The React, Next.js, TypeScript, Python, and AI stack is what I use daily at Codet.ai.
+
+I'm Muddasir Rizwan, a software engineer in Karachi building production full-stack and AI systems.
+
+I built AutoCloudEngineerAgent in LangGraph: it proposes infra, deploys to Kubernetes canaries, runs invariant benches, and rejects or rolls back unsafe changes.
+
+Would you have 15 minutes this week?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

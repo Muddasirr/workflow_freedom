@@ -1,0 +1,16 @@
+Hi Eric,
+
+I noticed the open Software Engineer (Linux, Virtualization, Hypervisor) role at Nutanix and wanted to reach out directly. I am a software engineer at Codet.ai building scalable platform services in TypeScript and Python, and the AHV team’s work on reliable, distributed VM lifecycle management fits where I want to grow next.
+
+At Codet.ai, I built the dynamic database module and drag-and-drop workflow engine that power our no-code platform, work that required consistent data models and services other teams could depend on. I also developed AutoCloudEngineerAgent on LangGraph, which proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant checks, then rolls back or recommends promotion. That taught me to ship production changes in guarded, measurable steps, which aligns with lifecycle consistency at enterprise scale. At Euronet, I delivered Java REST APIs for ISO 8583 payment flows with JWT RBAC on PostgreSQL, where correctness under load was non negotiable.
+
+Your note about a globally dispersed AHV team that favors document-based communication over heavy meeting load is the kind of setup where I do my best work.
+
+Open to a short call if helpful. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

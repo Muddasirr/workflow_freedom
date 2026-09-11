@@ -1,0 +1,11 @@
+Hi Scaleway team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role and the React, Next.js, TypeScript, and Python stack on your careers page.
+
+I am Muddasir Rizwan, a software engineer at Codet.ai in Karachi, open to remote work.
+
+At Codet.ai I built and scaled a no-code platform in Next.js, including drag-and-drop workflows and a LangGraph agent that deploys to Kubernetes canaries with hard safety rollback rules.
+
+Would you have 15 minutes this week for a brief call?
+
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

@@ -1,0 +1,14 @@
+Hi Mactores team,
+
+I'm interested in the Full Stack Product Engineer Intern, Agent Native role and your GenAI and agent systems intern tracks on Lever.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi, remote-ready with full-time availability for a 4-6 month internship.
+
+At Codet.ai I scale a Next.js no-code platform and built AutoCloudEngineerAgent in LangGraph: it proposes infra, deploys to a Kubernetes canary, runs invariant benches, and rolls back when checks fail.
+
+Could we meet for 15 minutes this week?
+
+Muhammad Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

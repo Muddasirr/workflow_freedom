@@ -1,0 +1,15 @@
+Hi Synapse Analytics team,
+
+Your Software Engineer (Full Stack / Frontend / AI) opening lists React, Next.js, TypeScript, Python, and AI. That is the same stack I use at Codet.ai today.
+
+I am Muddasir Rizwan, a software engineer in Karachi building production full-stack and agent features, open to remote worldwide.
+
+I scaled our Next.js no-code platform with drag-and-drop workflows and built a LangGraph deployment agent with Kubernetes canary rollouts and invariant safety checks.
+
+Could we grab 15 minutes this week?
+
+Thanks,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

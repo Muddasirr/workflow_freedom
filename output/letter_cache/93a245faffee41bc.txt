@@ -1,0 +1,14 @@
+Hi Careem team,
+
+Software Engineer I - AI-Driven Backend aligns with the Java microservice APIs I built at Euronet and the AI-backed backend systems I ship at Codet.ai today. At Euronet I developed Java EE REST services for fintech, including ISO 8583 payment integrations, JWT RBAC, and PostgreSQL-backed endpoints where clean code and reliable releases were non-negotiable.
+
+At Codet.ai I work on distributed backend features for a no-code platform: a dynamic database module over SQL schemas, tables, and relationships, and LangGraph agents that deploy only to Kubernetes canaries, run invariant checks, then reject or roll back unsafe changes. That experience maps to maintaining scalable services with strong testing and operational discipline.
+
+The NextGen program stood out because fresh graduates can grow while contributing to Careem Engine alongside cross-functional teams. I'd welcome a short call to discuss the role. My resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

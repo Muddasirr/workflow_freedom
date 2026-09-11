@@ -1,0 +1,15 @@
+Hi GR Travel team,
+
+Your UI/UX Designer & Frontend Developer role in Karachi matches the production frontend work I have been doing at Codet.ai since June: responsive React and TypeScript interfaces, reusable components, and Tailwind-style layouts similar to the shadcn/ui stack in your posting.
+
+On the Codet no-code platform, I built drag-and-drop workflow UI and dynamic database screens used daily across devices. At Euronet, I integrated REST APIs for payment products, which helps when wiring travel booking or account flows to real data. My portfolio at muddasirrizwan.com includes Rulr, a React Flow workflow builder, and other projects where I focused on clarity, consistency, and component reuse.
+
+I would like to join your on-site team and work with PMs and developers to design and ship intuitive digital travel products in Karachi.
+
+Open to a short call to walk through my portfolio. Resume attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

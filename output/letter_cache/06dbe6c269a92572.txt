@@ -1,0 +1,13 @@
+Hi Asani.io team,
+
+I'm applying for the Software Engineer role at your NASTP Karachi office. I currently build and scale product features on Codet.ai's Next.js no-code platform, which lines up with your React, Next.js, TypeScript, and Python stack and your emphasis on full-time software and product engineering.
+
+I've shipped a dynamic database module with tables, fields, relationships, and records, plus drag-and-drop workflow UI where users chain triggers, conditions, and actions. I also built AutoCloudEngineerAgent in Python with LangGraph, which proposes infrastructure changes, validates them in a Kubernetes canary, and rolls back when invariant benchmarks fail. Earlier at Euronet, I delivered Java REST APIs for fintech payment integrations with PostgreSQL and JWT RBAC, which strengthened how I approach end-to-end product delivery.
+
+Working from Karachi on product-grade software at NASTP Silicon matches how I already operate day to day, and I'd welcome a short call to discuss where I can contribute. My resume is attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

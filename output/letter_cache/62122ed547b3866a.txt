@@ -1,0 +1,14 @@
+Hi Shispare team,
+
+I'm applying for your Software Engineer role in Karachi. At Codet.ai I ship product features on a Next.js no-code platform, which lines up with your React, Next.js, and TypeScript stack and your emphasis on full-time product engineering.
+
+On the frontend, I build drag-and-drop workflows and UI components with trigger, condition, and action logic. I also own a dynamic database module with tables, fields, relationships, and records, so I am used to taking features from interface through data model rather than closing isolated tickets. On the Python side, I work on AutoCloudEngineerAgent with LangGraph, where deployment stays gated behind Kubernetes canary checks and invariant benchmarks before any promotion.
+
+Your posting reads like hands-on software and product work at NASTP Silicon, and that is the kind of team I want next while staying based in Karachi.
+
+Happy to talk through fit on a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

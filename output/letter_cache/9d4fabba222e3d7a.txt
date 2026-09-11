@@ -1,0 +1,16 @@
+Hi AI Studio team,
+
+The Associate Software Engineer (Full Stack Developer) opening fits work I already do at Codet.ai: Next.js and React frontends, Python API layers, and generative AI wired into a no-code product used by real users.
+
+Your posting calls for solid Python/API fundamentals. I built REST services at Euronet for ISO 8583 payment flows and at Codet.ai for dynamic database records and trigger-to-action workflows. On generative AI, I developed AutoCloudEngineerAgent in LangGraph, which proposes infra, deploys to a Kubernetes canary, benchmarks invariants, and rolls back when safety constraints fail. I also ship UI in React and have deployed side projects on Vercel.
+
+I'd like to grow on a small, hands-on product-engineering team building AI-powered products in Karachi.
+
+Open to a short call. Resume and project links attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Karachi (UTC+5)

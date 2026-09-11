@@ -1,0 +1,15 @@
+Hi Paddle team,
+
+I'm reaching out about the Software Engineer (Full Stack / Frontend / AI) role, given your React/Next.js/TypeScript and Python/AI stack.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi with a BS in Computer Science from IBA Karachi.
+
+I build and scale Codet's no-code platform in Next.js and TypeScript, including a LangGraph agent that manages Kubernetes canary deploys with safety checks before any production promotion.
+
+Would you have 15 minutes this week to chat?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

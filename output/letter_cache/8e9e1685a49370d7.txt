@@ -1,0 +1,15 @@
+Hi Life @ Get Licensed team,
+
+Your AI Product Engineer opening in Karachi matches the Next.js/React and Python agent work I have been shipping at Codet.ai.
+
+I am Muddasir, a software engineer at Codet.ai with under two years of experience building no-code apps, drag-and-drop workflows, and an in-app AI assistant.
+
+I built AutoCloudEngineerAgent on LangGraph: it proposes infra, deploys only to a Kubernetes canary, runs invariant benches, then rolls back or recommends promotion under hard safety constraints.
+
+Could we talk for 15 minutes this week?
+
+Best,
+Muhammad Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

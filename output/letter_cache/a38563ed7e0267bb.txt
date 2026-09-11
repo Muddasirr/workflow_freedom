@@ -1,0 +1,12 @@
+Hi Dubizzle Labs team,
+
+Your Software Engineer / Full Stack Engineer opening in Lahore aligns with the stack I ship daily at Codet.ai: Next.js and React frontends, TypeScript services, and Python backends with AI features. In the last year I helped scale a no-code platform where teams configure database schemas, record relationships, and drag-and-drop trigger-condition-action workflows, all backed by REST APIs.
+
+I also built AutoCloudEngineerAgent with LangGraph, which proposes infra changes, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when hard safety constraints fail. That agent work pairs with the in-app AI assistant in our builder, so I know how to wire LLM flows into real product surfaces. Before Codet, at Euronet I delivered Java REST APIs for fintech, including ISO 8583 payment endpoints and JWT RBAC over PostgreSQL.
+
+Dubizzle Labs is a strong fit for the React, Next.js, Python, and AI mix in your posting, and I would welcome product engineering growth on an onsite or hybrid schedule in Lahore. I am based in Karachi (UTC+5) and open to a short call; my resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

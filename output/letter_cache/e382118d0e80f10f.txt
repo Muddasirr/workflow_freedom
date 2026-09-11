@@ -1,0 +1,15 @@
+Hi LMKT Digital team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) opening in Islamabad and the React/Next.js/TypeScript/Python/AI stack fit looks strong for my work.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai focused on shipping full-stack product and AI features.
+
+On your stack, I've built a Next.js/TypeScript no-code platform at Codet.ai and a LangGraph agent in Python that deploys to Kubernetes canary with automated rollbacks when safety checks fail.
+
+Open to 15 minutes this week if useful.
+
+Thanks,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,213 @@
+Today sent=5 room=70 target=30
+=== LinkedIn Karachi scrape ===
+  software engineer: 10 hits
+  full stack developer: 10 hits
+  frontend developer react: 9 hits
+  AI engineer: 10 hits
+  next.js typescript: 9 hits
+  backend developer node: 10 hits
+  react developer: 10 hits
+  product engineer: 10 hits
+=== freehire Pakistan scrape ===
+  CLI exc fh_pk_software_engineer.json: Unterminated string starting at: line 537 column 22 (char 61511)
+  software engineer: 0 hits
+  CLI exc fh_pk_full_stack.json: Unterminated string starting at: line 787 column 9 (char 65404)
+  full stack: 0 hits
+  frontend react: 25 hits
+  CLI exc fh_pk_ai_engineer.json: Unterminated string starting at: line 758 column 22 (char 64000)
+  AI engineer: 0 hits
+  typescript: 17 hits
+Traceback (most recent call last):
+  File "/home/sleepwellsystem/Desktop/codet-webb/ai-job-search/run_karachi_scrape_apply.py", line 654, in <module>
+    main()
+    ~~~~^^
+  File "/home/sleepwellsystem/Desktop/codet-webb/ai-job-search/run_karachi_scrape_apply.py", line 532, in main
+    portal_jobs = load_portal_jobs()
+  File "/home/sleepwellsystem/Desktop/codet-webb/ai-job-search/run_karachi_scrape_apply.py", line 316, in load_portal_jobs
+    for r in data.get("results") or []:
+             ^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+Today sent=5 room=70 target=30
+=== LinkedIn Karachi scrape ===
+  software engineer: 10 hits
+  full stack developer: 10 hits
+  frontend developer react: 9 hits
+  AI engineer: 10 hits
+  next.js typescript: 10 hits
+  backend developer node: 10 hits
+  react developer: 9 hits
+  product engineer: 10 hits
+=== freehire Pakistan scrape ===
+  CLI fail fh_pk_software_engineer.json: {"error":"freehire API returned an unparseable response body","code":"SEARCH_FAILED"}
+
+  software engineer: 0 hits
+  full stack: 25 hits
+  frontend react: 25 hits
+  AI engineer: 25 hits
+  typescript: 17 hits
+=== Careers scrape: 66 Karachi companies ===
+  HIT Mustakbil: 6 roles
+  HIT Turing Pakistan: 4 roles
+  HIT VentureDive Pakistan: 1 roles
+  HIT Creative Chaos Pakistan: 16 roles
+  HIT Arpatech Pakistan: 2 roles
+Karachi posting pool (deduped): 27  (portal=73 careers=29)
+
+[1] Software Engineer @ Abacus Consulting
+  no verified email on posting
+
+[2] Full Stack Developer (Team Lead) @ AiGenics
+  no verified email on posting
+
+[3] AI Engineer @ Alemad rent a car
+  no verified email on posting
+
+[4] Product Developer (Denim/Non-Denim) @ BESTSELLER
+  no verified email on posting
+
+[5] Senior Full Stack Developer Remote – AI & Video Monitor @ BHF Global Talent Solutions
+  no verified email on posting
+
+[6] Client-Facing Software Engineer @ CCRIPT Agency
+  no verified email on posting
+
+[7] AI Engineer @ Catalect
+  email careers@catalectconsulting.com [user-forced published]
+  writing tailored letter from posting…
+  preview: Hi Catalect team, I'm applying for your AI Engineer role in Karachi. At Codet.ai I build and ship LLM features inside a production no-code platform: an in-app A…
+  SEND FAIL Connection unexpectedly closed: The read operation timed out
+  wait 67s…
+
+[8] Intermediate/Senior Web Developer @ Contour Software
+  no verified email on posting
+
+[9] Full Stack Engineer (Node/Python and React) @ Creative Chaos Pakistan
+  skip — posting too thin for tailored letter
+
+[10] Senior Full-Stack Developer @ DevDefy
+  no verified email on posting
+
+[11] Front end developer React @ Hul Hub
+  no verified email on posting
+
+[12] Senior Full-Stack 3D Web Developer (Babylon.js / Three. @ Info Resume Edge
+  no verified email on posting
+
+[13] Software Engineer @ NCR Atleos
+  no verified email on posting
+
+[14] Website Developer @ Plutus21 Partners
+  no verified email on posting
+
+[15] AI Engineer @ Royal Cyber
+  no verified email on posting
+
+[16] Full-Stack Engineer (Remote, Full-Time) [AS312] (PK) @ Smart Working
+  no verified email on posting
+
+[17] Senior Frontend UI / UX Engineer @ Softech Worldwide
+  no verified email on posting
+
+[18] Software Engineer, Platform - Karachi, Pakistan @ Speechify
+  no verified email on posting
+
+[19] Senior AI Engineer @ Systems Limited
+  no verified email on posting
+
+[20] Lead Backend Developer - Securiti.ai @ Veeam Software
+  no verified email on posting
+
+[21] Senior Software Engineer - .NET or Java with Kafka and  @ VerraCloud
+  email careers@verracloud.com [strict-valid]
+  writing tailored letter from posting…
+  preview: Hi VerraCloud team, I'm interested in the Senior Software Engineer - .NET or Java with Kafka and AI role on your Capital Markets Engineering team. My background…
+  SEND FAIL _ssl.c:1015: The handshake operation timed out
+  wait 48s…
+Today sent=5 room=70 target=25
+=== Careers scrape: 18 Karachi companies ===
+Karachi posting pool (deduped): 25  (portal=72 careers=0)
+
+[1] Software Engineer @ Abacus Consulting
+  no verified email on posting
+
+[2] Full Stack Developer (Team Lead) @ AiGenics
+  no verified email on posting
+
+[3] AI Engineer @ Alemad rent a car
+  no verified email on posting
+
+[4] Senior Full Stack Developer Remote – AI & Video Monitor @ BHF Global Talent Solutions
+  no verified email on posting
+
+[5] Client-Facing Software Engineer @ CCRIPT Agency
+  no verified email on posting
+
+[6] AI Engineer @ Catalect
+  email careers@catalectconsulting.com [user-forced published]
+  reusing cached tailored letter
+  preview: Hi Catalect team, I'm applying for your AI Engineer role in Karachi. At Codet.ai I build and ship LLM features inside a production no-code platform: an in-app A…
+  SENT [1/25] careers@catalectconsulting.com
+  wait 60s…
+
+[7] Intermediate/Senior Web Developer @ Contour Software
+  no verified email on posting
+
+[8] Senior Full-Stack Developer @ DevDefy
+  no verified email on posting
+
+[9] Front end developer React @ Hul Hub
+  no verified email on posting
+
+[10] Front end Developer @ Hul Hub
+  no verified email on posting
+
+[11] Senior Software Engineer MEAN @ Hul Hub
+  no verified email on posting
+
+[12] Senior Full-Stack 3D Web Developer (Babylon.js / Three. @ Info Resume Edge
+  no verified email on posting
+
+[13] Software Engineer @ NCR Atleos
+  no verified email on posting
+
+[14] Software Engineer II @ NCR Atleos
+  no verified email on posting
+
+[15] Website Developer @ Plutus21 Partners
+  no verified email on posting
+
+[16] AI Engineer @ Royal Cyber
+  no verified email on posting
+
+[17] Full-Stack Engineer (Remote, Full-Time) [AS312] (PK) @ Smart Working
+  no verified email on posting
+
+[18] Senior Frontend UI / UX Engineer @ Softech Worldwide
+  no verified email on posting
+
+[19] Database Developer (SQL) @ Softech Worldwide
+  no verified email on posting
+
+[20] Software Engineer, Platform - Karachi, Pakistan @ Speechify
+  no verified email on posting
+
+[21] Senior AI Engineer @ Systems Limited
+  no verified email on posting
+
+[22] Lead Backend Developer - Securiti.ai @ Veeam Software
+  no verified email on posting
+
+[23] Senior Software Engineer - .NET or Java with Kafka and  @ VerraCloud
+  email careers@verracloud.com [strict-valid]
+  reusing cached tailored letter
+  preview: Hi VerraCloud team, I'm interested in the Senior Software Engineer - .NET or Java with Kafka and AI role on your Capital Markets Engineering team. My background…
+  SENT [2/25] careers@verracloud.com
+  wait 45s…
+
+[24] Full Stack Developer @ ibex
+  no verified email on posting
+
+[25] Lead AI Engineer @ talentmanagementsolution
+  no verified email on posting
+
+DONE. Karachi posting-based sent=2

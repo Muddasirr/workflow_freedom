@@ -1,0 +1,12 @@
+Hi Babaclick team,
+
+I'm reaching out about your Full-Stack Software Engineer, AI-Native Development opening in Gurugram.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai where I build full-stack no-code products and production AI agent systems.
+
+At Codet I built AutoCloudEngineerAgent on LangGraph: it proposes infra, deploys to a Kubernetes canary, runs invariant benches, and rolls back or recommends promotion only when checks pass.
+
+Open to remote work worldwide. Would you have 15 minutes this week for a quick chat?
+
+Muddasir Rizwan
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

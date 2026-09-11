@@ -1,0 +1,15 @@
+Hi Zalando team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role and the React/Next.js/TypeScript/Python/AI stack on your careers page.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi with a BS in Computer Science from IBA Karachi.
+
+At Codet.ai I build and scale a no-code platform in Next.js and TypeScript, including drag-and-drop workflows and a LangGraph agent that deploys on Kubernetes canary with safety checks before promotion.
+
+Would you have 15 minutes this week to talk about fit for Berlin or remote?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

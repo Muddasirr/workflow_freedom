@@ -1,0 +1,15 @@
+Hi Contour Pakistan team,
+
+Your Software Engineer (Full Stack / Frontend / AI) role in Karachi matches the React, Next.js, TypeScript, Python, and AI stack on your careers page.
+
+I am Muddasir Rizwan, a software engineer at Codet.ai building a no-code platform in Next.js with dynamic databases, drag-and-drop workflows, and an in-app AI assistant.
+
+Recently I shipped AutoCloudEngineerAgent in LangGraph and Python: it proposes infra, deploys only to a Kubernetes canary, runs invariant benches, then rolls back or recommends promotion when checks fail.
+
+Would you have 15 minutes this week for a quick call?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

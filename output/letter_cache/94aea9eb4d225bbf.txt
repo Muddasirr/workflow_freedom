@@ -1,0 +1,12 @@
+Hi DynaSys Network team,
+
+Your Software Engineer role aligns with the product engineering work I do at Codet.ai today: React and Next.js interfaces in TypeScript, with Python behind the features when the product needs real server logic. I have shipped our no-code platform end to end, including dynamic database tables, field relationships, and drag-and-drop workflow components that wire triggers, conditions, and actions in the app.
+
+For Python, I built AutoCloudEngineerAgent on LangGraph to propose infrastructure changes, run checks in a Kubernetes canary, and roll back when invariants fail. That reinforced the full-stack product mindset your posting calls for, shipping software people can use, not isolated experiments. At Euronet, I also delivered Java REST APIs for fintech payment flows with PostgreSQL and JWT role-based access, which sharpened how I design APIs and data models under production constraints.
+
+A full-time software and product engineering seat at NASTP Silicon in Karachi matches where I am based and how I want to grow. I am open to a short call to walk through relevant Codet work. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

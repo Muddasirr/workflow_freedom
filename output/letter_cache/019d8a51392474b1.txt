@@ -1,0 +1,17 @@
+Hi Usman,
+
+I'm reaching out about the AI Engineer role. With about a year of production work at Codet.ai, I build LLM agents in Python, including AutoCloudEngineerAgent on LangGraph, which proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when hard safety constraints fail.
+
+This lines up with your need for hands-on LLMs, model integration, and backend APIs for real use cases. I also shipped Codet's in-app AI assistant and scaled our no-code product in Next.js with dynamic database modules and trigger-condition-action workflows.
+
+Earlier at Euronet I built Java REST APIs for fintech payment flows with PostgreSQL and third-party integrations, which helps me design AI pipelines that fit production constraints.
+
+Your posting stood out for turning complex AI ideas into scalable production features at startup pace, and that's the work I want next.
+
+Open to a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

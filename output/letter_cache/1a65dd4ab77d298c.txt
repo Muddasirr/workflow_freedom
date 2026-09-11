@@ -1,0 +1,14 @@
+Hi VerraCloud team,
+
+I'm interested in the Senior Software Engineer - .NET or Java with Kafka and AI role on your Capital Markets Engineering team. My background is Java fintech services plus platform work on scalable, API-driven systems, which aligns with the backend and event-driven architecture focus in your posting.
+
+At Euronet, I built Java EE REST APIs for payment flows, including ISO 8583 integrations, JWT RBAC, and PostgreSQL-backed services with third-party payment partners. At Codet.ai, I develop backend modules for a no-code platform and workflow logic built around trigger, condition, and action steps. I also built AutoCloudEngineerAgent in LangGraph to propose infrastructure changes, deploy to Kubernetes canaries, run invariant checks, and roll back when hard safety constraints fail. I use AI-assisted development tools regularly in day-to-day engineering.
+
+I'm early in my career and want to grow on mission-critical capital markets platforms where reliability, code quality, and continuous improvement are central. Happy to connect for a short call. My resume is attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

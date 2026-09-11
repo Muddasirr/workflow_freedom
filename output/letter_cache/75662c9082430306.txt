@@ -1,0 +1,13 @@
+Hi Doron,
+
+I noticed the open Software Engineer, Core Infrastructure role on Oracle Cloud Infrastructure’s Compute team and am applying. My current work at Codet.ai is centered on operability and safe automation: I built AutoCloudEngineerAgent in LangGraph to propose infrastructure changes, deploy only to a Kubernetes canary, run invariant benchmarks, and roll back or recommend promotion when checks fail. That maps closely to your focus on automation, distributed systems reliability, and preventing customer impact.
+
+I have also delivered fleet-style orchestration through drag-and-drop workflows and a dynamic database module in Next.js, and earlier built Java EE REST APIs at Euronet with PostgreSQL and JWT RBAC for payment integrations. Those projects required careful handling of scale, access control, and usage-adjacent data paths.
+
+OCI’s work on multi-region compute operability and large-scale fleet management is the kind of infrastructure problem I want to take on next. I am open to a short call, and my resume is attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,14 @@
+Hi Swvl team,
+
+Your Software Engineer / Full Stack Engineer role in Cairo or Dubai aligns with the full-stack product work I ship at Codet.ai in Next.js, TypeScript, and React, including dynamic database modules and API-connected drag-and-drop workflows with an in-app AI assistant.
+
+That maps directly to your React, Next.js, TypeScript, and API stack. On the Python and AI side, I built AutoCloudEngineerAgent with LangGraph, where an agent proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when hard safety constraints fail. Before Codet, at Euronet I delivered Java REST APIs for fintech payment integrations with JWT RBAC and PostgreSQL.
+
+With about a year of experience across these areas, I would like to bring this mix of product engineering and AI-adjacent backend work to Swvl's team in the region. I am based in Karachi and open to onsite or hybrid work in Cairo or Dubai.
+
+Happy to discuss fit on a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

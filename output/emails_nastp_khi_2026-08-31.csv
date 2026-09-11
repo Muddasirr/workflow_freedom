@@ -1,0 +1,7 @@
+Company,Region,City,HR / Recruiter Email,Email Source,Domain,Sample Role,SMTP Verification,Letter
+DynaSys Network,Karachi,NASTP Karachi,info@dynasysnetworks.com,nastp batch scrape,dynasysnetworks.com,Software Engineer,user-forced published,nastp_khi_cursor
+Shispare,Karachi,NASTP Karachi,info@shispare.com,nastp batch scrape,shispare.com,Software Engineer,user-forced published,nastp_khi_cursor
+Woot Tech,Karachi,NASTP Karachi,info@woot-tech.com,nastp batch scrape,woot-tech.com,Software Engineer,user-forced published,nastp_khi_cursor
+Asani.io,Karachi,NASTP Karachi,hello@asani.io,nastp batch scrape,asani.io,Software Engineer,user-forced published,nastp_khi_cursor
+Peekaboo Guru,Karachi,NASTP Karachi,contact@peekaboo.guru,nastp batch scrape,peekaboo.guru,Software Engineer,user-forced published,nastp_khi_cursor
+RepairDesk,Karachi,NASTP Karachi,hello@repairdesk.co,nastp batch scrape,repairdesk.co,Software Engineer,strict-valid,nastp_khi_cursor

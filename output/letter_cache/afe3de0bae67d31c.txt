@@ -1,0 +1,12 @@
+Hi Backbase team,
+
+Your Software Engineer (Full Stack / Frontend / AI) opening (Amsterdam / remote) matches the React/Next.js/TypeScript/Python stack you ask for. I'm Muddasir Rizwan, a software engineer at Codet.ai building production full-stack products in Karachi.
+
+At Codet.ai I built a no-code platform with drag-and-drop workflows and an in-app AI assistant, plus AutoCloudEngineerAgent on LangGraph that deploys to Kubernetes canaries, runs invariant benches, and rolls back when checks fail.
+
+Would you have 15 minutes this week to connect?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

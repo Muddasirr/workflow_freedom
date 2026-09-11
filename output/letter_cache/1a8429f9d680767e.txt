@@ -1,0 +1,15 @@
+Hi UiPath team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) opening for Bucharest/remote with React, Next.js, TypeScript, Python, and AI.
+
+I'm Muhammad Muddasir Rizwan, a software engineer at Codet.ai in Karachi building a no-code platform in Next.js.
+
+At Codet.ai I built drag-and-drop workflow components and an AutoCloudEngineerAgent in LangGraph that deploys to Kubernetes canaries and rolls back on failed invariant checks.
+
+Could we do 15 minutes this week to see if I fit the team?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

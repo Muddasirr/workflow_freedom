@@ -1,0 +1,12 @@
+Hi Recruits Lab team,
+
+I am asking about your Junior / Associate Software Engineer work across full stack, frontend, and AI, since my current stack matches those tags closely. At Codet.ai I build and scale a Next.js platform in TypeScript with drag-and-drop workflows, dynamic database modules, and an in-app AI assistant.
+
+On the AI tooling side, I built AutoCloudEngineerAgent in Python and LangGraph. It proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benches, then rejects, rolls back, or recommends promotion while hard safety constraints stay in place. Before Codet, at Euronet I shipped Java REST APIs for fintech with JWT RBAC and PostgreSQL integrations.
+
+Your focus on startup speed and specialist precision for Life Sciences and Technology founders is the kind of environment where I want to grow as an early-career IC. I am remote from Karachi (UTC+5) and would welcome a short call to learn whether you are hiring engineers directly or placing into similar roles with your startup clients. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

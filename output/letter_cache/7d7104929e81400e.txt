@@ -1,0 +1,15 @@
+Hi Elyse,
+
+I noticed the open Forward Deployed Software Engineer, Warehouse Innovation role at Procter & Gamble. It aligns with how I work at Codet.ai today: full-stack Next.js applications built with operators who rely on them in production, including a dynamic database module and drag-and-drop workflows.
+
+That stakeholder-embedded model fits designing systems from the ground up and shipping them to production. I built trigger-condition-action workflows and data models at Codet.ai, and AutoCloudEngineerAgent on LangGraph to propose infrastructure changes, validate them in a Kubernetes canary, and roll back when invariants fail. At Euronet I delivered Java REST APIs for payment integrations with JWT RBAC on PostgreSQL under real fintech constraints.
+
+P&G’s warehouse innovation work, where software sits at the core of the North American supply chain and every shipped product passes through your platforms, is the operational impact I want to contribute to next.
+
+If helpful, I am open to a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

@@ -1,0 +1,14 @@
+Hi Fatima,
+
+I noticed the open Software Engineer role at Booz Allen Hamilton and would like to be considered. At Codet.ai I build modular orchestration software in Agile sprints, which maps to your need for mission planning tooling where distributed components integrate cleanly and scale for future enhancements.
+
+I ship Next.js and PostgreSQL features for a no-code platform with dynamic data models and drag-and-drop trigger, condition, and action workflows. I also built AutoCloudEngineerAgent in LangGraph: it proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant checks, then rolls back or recommends promotion under hard safety constraints. That work reinforced reliable behavior in controlled deployment pipelines. At Euronet, I delivered Java REST APIs with JWT RBAC and PostgreSQL for payment integrations in a regulated fintech environment.
+
+Your focus on automated tasking, deconfliction, and rigorous cloud-based development aligns with how I already design workflow systems and gated releases. I would welcome a brief call to discuss contributing to the team.
+
+Resume attached. Thank you for your time.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

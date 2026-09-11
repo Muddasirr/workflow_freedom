@@ -1,0 +1,806 @@
+{
+  "total": 493,
+  "kept": 373,
+  "jobs": [
+    {
+      "score": 20,
+      "title": "Frontend Developer Intern",
+      "company": "Crossing Infotech",
+      "location": "Remote - India",
+      "url": "https://crossinginfotech.com/careers",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 20,
+      "title": "Front End Developer Intern (HTML, CSS, JavaScript, React)",
+      "company": "MediNex Workforce",
+      "location": "Remote - India",
+      "url": "https://medinexworkforce.in/careers",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 20,
+      "title": "Frontend Developer Intern | React.js | JavaScript | HTML | CSS",
+      "company": "ArGo Intern",
+      "location": "Remote - India",
+      "url": "https://docs.google.com/forms/d/1-gBL5C-Q0ltxyGg1TIdTUqV8EZJXH9GWeMkgm11YXFI/viewform?edit_requested=true#settings",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 20,
+      "title": "Frontend Developer Intern | React.js | JavaScript | HTML | CSS",
+      "company": "Wake Up Whistle",
+      "location": "Remote - India",
+      "url": "https://docs.google.com/forms/d/1pyrJ6wKeZk1Y8FIJniDIpRHp-wa84teoU2XBuvYmDZA/viewform?edit_requested=true",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 20,
+      "title": "Junior Front End React Developer - Remote Work | REF#283506",
+      "company": "BairesDev",
+      "location": "Remote - Mexico",
+      "url": "https://applicants.bairesdev.com/job/169/283506/apply?utm_source=linkedinjobposting&utm_medium=atsjobs&utm_campaign=jobpostingxml&__cf_chl_rt_tk=dxLvdlMIDBmy_euj2vrJYV37tzX_GfWf3dW69UBQeoc-1787498309-1.0.1.1-G_iKZriocyEJfUzc4s0ylQEY.5GNP7INGLd4qt7LeZI",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 20,
+      "title": "Junior Front End React Developer - Remote Work | REF#283506",
+      "company": "BairesDev",
+      "location": "Remote - Mexico",
+      "url": "https://applicants.bairesdev.com/job/169/283506/apply?utm_source=linkedinjobposting&utm_medium=atsjobs&utm_campaign=jobpostingxml&__cf_chl_rt_tk=CqUzED2xCDKqQ9bjTcXUQkaHkxMA4IxgcxlbvVkhEas-1787498302-1.0.1.1-dExovbNKvnZEgAzPoYSjAfyqXE6yVrDH7r.WMlYP8zY",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 17,
+      "title": "(Junior) Frontend Engineer (all genders)",
+      "company": "Accenture DACH",
+      "location": "Remote - Austria",
+      "url": "https://www.accenture.com/at-de/careers/jobdetails?id=R00330201_de&src=LINKEDINJP",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 17,
+      "title": "Full-Stack Web Developer (Intern)",
+      "company": "SoftUp",
+      "location": "Remote - Nepal",
+      "url": "https://softup.io/career/1",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 17,
+      "title": "Mid Level Front End Engineer",
+      "company": "Cedar",
+      "location": "Remote - United States",
+      "url": "https://www.getcedar.com/careers?ashby_jid=22a41449-5095-4936-8061-bf5821b6059e&utm_source=pDOwj9Bk7V",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 17,
+      "title": "Frontend Engineering Intern",
+      "company": "Reczee\u00ae",
+      "location": "Remote - India",
+      "url": "https://jobs.reczee.com/reczee/PVsAj/apply?_src=LinkedIn",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 17,
+      "title": "Junior Frontend Developer",
+      "company": "RecruitGo Careers",
+      "location": "Remote - Philippines",
+      "url": "https://recruitgo.teamtailor.com/jobs/8027235-junior-frontend-developer",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 17,
+      "title": "Frontend Developer - Junior",
+      "company": "Deel Middleware Test Company",
+      "location": "Remote - Global",
+      "url": "http://localhost:3000/ts/job-details/f6b6705c-cdf8-44fe-8eb4-9e47d6f70ae6/application?source=linkedin",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 17,
+      "title": "Front-End Developer Intern",
+      "company": "UM IT Solutions",
+      "location": "Remote - India",
+      "url": "https://form.webboostsolutions.in/",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Engineer",
+      "company": "Keymate",
+      "location": "Remote - Turkey",
+      "url": "https://careers.keymate.io/jobs/9a43f4e8-8481-477c-b494-df385c42eabf",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Developer (React.js)",
+      "company": "Thrimaa Interactive",
+      "location": "Remote - Sri Lanka",
+      "url": "https://www.thrimaa.com/career-details.html?id=2",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Engineer (Contract)",
+      "company": "HirroBase",
+      "location": "Remote - Nigeria",
+      "url": "https://hirrobase.com/career/frontend-engineer",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Developer (React / TypeScript)",
+      "company": "Monatta Solutions",
+      "location": "Remote - Moldova",
+      "url": "https://monatta.solutions/careers/frontend-developer",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React Frontend Developer",
+      "company": "L\u00ebtzebuerg.ai",
+      "location": "Remote - Luxembourg",
+      "url": "https://www.letzebuerg.ai/en/careers#apply-form",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React.JS Frontend Software Engineer (Remote)",
+      "company": "IOTIVATA",
+      "location": "Remote - Liberia",
+      "url": "https://www.iotivata.com/career/frontend-software-engineer/",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Developer (React)",
+      "company": "Launchist",
+      "location": "Remote - Indonesia",
+      "url": "https://launch.ist/careers/frontend-careers/",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Developer: ReactJS / NextJS",
+      "company": "Kreitech",
+      "location": "Remote - Lesotho",
+      "url": "https://www.kreitech.io/career/reactjs-nextjs",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "ReactJS Frontend Developer",
+      "company": "EITACIES Inc.",
+      "location": "Remote - Georgia",
+      "url": "https://eitacies-inc.careerplug.com/jobs/3459998/apps/new",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Engineer (React)",
+      "company": "Synthreo",
+      "location": "Remote - Global",
+      "url": "https://synthreo.ai/careers/frontend-engineer/",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Software Engineers, Frontend",
+      "company": "Shopify",
+      "location": "Remote - Global",
+      "url": "https://www.shopify.com/careers/software-engineers-frontend_819eb2d1-1bf6-4f0d-91dd-419aea8bd9d5?keyword=front",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Next.Js Developer",
+      "company": "Emboss Digital",
+      "location": "Remote - India",
+      "url": "https://www.embossdigital.com/career/next-js-developer/",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React/Next.JS Front-End Developer",
+      "company": "Frontline Data Solutions",
+      "location": "Remote - India",
+      "url": "https://fldata.careers-page.com/jobs/76596b9c-e4f1-4e1a-b1e7-f830093ddec1?utm_medium=free_job_board&utm_source=linkedin",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React and Next.js Engineer",
+      "company": "SME Careers",
+      "location": "Remote - Pakistan",
+      "url": "https://sme.careers/apply/data-trainer?jobid=ReactandNext-26-152&jobPostingId=81ecf279-c58b-47d9-b383-d44ebeef41b2&utm_source=linkedin&utm_medium=job_board&utm_campaign=linkedin_jobs_feed&utm_content=sme_jobs&src=LinkedIn",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React/Next.JS Front-End Developer",
+      "company": "Frontline Data Solutions",
+      "location": "Remote - Philippines",
+      "url": "https://fldata.careers-page.com/jobs/586bea67-8f84-4fff-8eda-afcd55f655f5?utm_medium=free_job_board&utm_source=linkedin",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Full Stack Engineer (Node.js and React)",
+      "company": "SME Careers",
+      "location": "Remote - Nepal",
+      "url": "https://sme.careers/apply/data-trainer?jobid=FullStack-26-156&jobPostingId=e8ebb393-d4d2-486b-b5a8-182469c19712&utm_source=linkedin&utm_medium=job_board&utm_campaign=linkedin_jobs_feed&utm_content=sme_jobs&src=LinkedIn",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React/Next.JS Front-End Developer",
+      "company": "Frontline Data Solutions",
+      "location": "Remote - Pakistan",
+      "url": "https://fldata.careers-page.com/jobs/b69a1e18-97dc-40e3-a186-509af7b9575a?utm_medium=free_job_board&utm_source=linkedin",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Full-Stack Developer \u2013 Next.js / React / Supabase",
+      "company": "Sirsonite Solutions Pvt. Ltd.",
+      "location": "Remote - India",
+      "url": "https://sirsonite.com/career-details/full-stack-developer-next-js-react-supabase",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Vue.js and Nuxt Engineer",
+      "company": "SME Careers",
+      "location": "Remote - India",
+      "url": "https://sme.careers/apply/data-trainer?jobid=VueandNuxt-26-153&jobPostingId=f7909ba0-f4f3-44e3-bd1f-6fa9cedefef8&utm_source=linkedin&utm_medium=job_board&utm_campaign=linkedin_jobs_feed&utm_content=sme_jobs&src=LinkedIn",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React/Next.JS Front-End Developer",
+      "company": "Frontline Data Solutions",
+      "location": "Remote - Pakistan",
+      "url": "https://fldata.careers-page.com/jobs/3d539549-8704-4e62-b570-3fa1f56e2da3?utm_medium=free_job_board&utm_source=linkedin",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Software Engineer (Fullstack + React Native)",
+      "company": "Heizen",
+      "location": "Remote - India",
+      "url": "https://www.heizen.work/careers/software-engineer-fullstack-app",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front-End Engineer, ReactJS | Only UTC-6 to UTC-9 Time zone",
+      "company": "Deel",
+      "location": "Remote - Colombia",
+      "url": "https://www.deel.com/careers/job/?ats_id=e5bc767f-b2b7-44ca-90f0-1257af47f9fd&source=linkedin",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front End React Engineer",
+      "company": "Sophilabs",
+      "location": "Remote - Argentina",
+      "url": "https://sophilabs.com/careers/front-end-react-engineer-202608-2",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Full Stack Engineer (Node.js and React)",
+      "company": "SME Careers",
+      "location": "Remote - India",
+      "url": "https://sme.careers/apply/data-trainer?jobid=FullStack-26-156&jobPostingId=70ed8a83-df32-45aa-8f40-0fba926a8531&utm_source=linkedin&utm_medium=job_board&utm_campaign=linkedin_jobs_feed&utm_content=sme_jobs&src=LinkedIn",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front End React Engineer",
+      "company": "Sophilabs",
+      "location": "Remote - Argentina",
+      "url": "https://sophilabs.com/careers/front-end-react-engineer-202608",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React Native Engineer",
+      "company": "SME Careers",
+      "location": "Remote - India",
+      "url": "https://sme.careers/apply/data-trainer?jobid=ReactNative-26-159&jobPostingId=91e633a6-1d16-43c2-83d8-e2fb7deab708&utm_source=linkedin&utm_medium=job_board&utm_campaign=linkedin_jobs_feed&utm_content=sme_jobs&src=LinkedIn",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front End Developer",
+      "company": "Acro Commerce",
+      "location": "Remote - Canada",
+      "url": "https://careersacrocommerce.applytojobs.ca/production/49402?source=Linkedin",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front End React Engineer",
+      "company": "Sophilabs",
+      "location": "Remote - Argentina",
+      "url": "https://sophilabs.com/careers/front-end-react-engineer-202608-3",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React and Next.js Engineer",
+      "company": "SME Careers",
+      "location": "Remote - India",
+      "url": "https://sme.careers/apply/data-trainer?jobid=ReactandNext-26-152&jobPostingId=4231d54c-a156-410e-8748-484241a19579&utm_source=linkedin&utm_medium=job_board&utm_campaign=linkedin_jobs_feed&utm_content=sme_jobs&src=LinkedIn",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front End Developer - React / React Native",
+      "company": "Build In Motion",
+      "location": "Remote - United States",
+      "url": "https://buildinmotion.com/careers/react",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front End React Developer",
+      "company": "Sophilabs",
+      "location": "Remote - Argentina",
+      "url": "https://sophilabs.com/careers/front-end-react-developer-202608-3",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front End React Developer",
+      "company": "Sophilabs",
+      "location": "Remote - Argentina",
+      "url": "https://sophilabs.com/careers/front-end-react-developer-202608",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend/UI Software Engineer [Next.js/React, TypeScript]",
+      "company": "Archbee",
+      "location": "Remote - Serbia",
+      "url": "https://airtable.com/appcnwu5fhYJ0dIHa/pagKbW5sMgj9KKRB2/form",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Developer (React)",
+      "company": "Codekeeper",
+      "location": "Remote - Romania",
+      "url": "https://codekeeper.applytojob.com/apply/2yjyAPQKA6/Frontend-Developer-React?source=LILI",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Engineer z do\u015bwiadczeniem w Node.js/GraphQL",
+      "company": "eConsulting",
+      "location": "Remote - Poland",
+      "url": "https://econsulting.traffit.com/public/form/a/8e3a31410b7b5c67ffd6c417b66018512f7a2f61?source=linkedin.com",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend React Engineer",
+      "company": "CLOUDFIDE",
+      "location": "Remote - Poland",
+      "url": "https://cloudfide.traffit.com/public/form/a/b0afe19b8a409e5afa2cfdb9f94a92885748593d?source=linkedin.com",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Engineer (React Native)",
+      "company": "Tempo (YC S23)",
+      "location": "Remote - Philippines",
+      "url": "https://jobs.ashbyhq.com/Tempo/55dd46d0-4492-4bd1-a627-e3f8b2cd0972/application?utm_source=5mWNBb87OL",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "1970 Frontend Software Engineer - React",
+      "company": "In All Media",
+      "location": "Remote - Kenya",
+      "url": "https://inallmedia-llc.breezy.hr/p/1c92cfd70739-1970-frontend-software-engineer-react",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Middle Frontend Developer (React / Next.js)",
+      "company": "Fun&Sun Team",
+      "location": "Remote - Kazakhstan",
+      "url": "https://almaty.hh.kz/vacancy/135462315?hhtmFrom=vacancy_search_list",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Middle Frontend Developer",
+      "company": "NETtoWORK",
+      "location": "Remote - Italy",
+      "url": "https://app.nettowork.it/registration/candidate?redirect=/candidatura/88975",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Software Engineer - Frontend [India]",
+      "company": "FurtherAI",
+      "location": "Remote - India",
+      "url": "https://www.ycombinator.com/companies/furtherai/jobs/lsRlYUA-software-engineer-frontend-india?utm_source=syn_li",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Developer",
+      "company": "AthenaX",
+      "location": "Remote - China",
+      "url": "https://bossjob.com/job/frontend-developer-remote-354244?__cf_chl_rt_tk=cUbdQJ1tzxD2Hi.paysrGAieActF0XGwdVE5KqlZnEY-1787491677-1.0.1.1-rqlP2S9QHiAWGb3UarFVb9mSiWKRYXW1cdxaNvhjpRI",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Developer",
+      "company": "AthenaX",
+      "location": "Remote - China",
+      "url": "https://bossjob.com/en-us/job/frontend-developer-remote-354244",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Developer (React) (Remote)",
+      "company": "Quik Hire Staffing",
+      "location": "Remote - United Kingdom",
+      "url": "https://jobs.micro1.ai/post/8a408adb-00de-4d39-b454-d3733bb574bf?referralCode=e91c9585-63ad-45aa-9820-d63708190a83&utm_source=referral&utm_medium=share&utm_campaign=job_referral",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Frontend Engineer",
+      "company": "Supabase",
+      "location": "Remote - Global",
+      "url": "https://jobs.ashbyhq.com/supabase/f048dd68-63f8-4f98-9860-3d5a43c09a01",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=e83WpXZA5dq9WN8EJuGcz6p6o6R8VcsowIlwXDdaTRw-1787505733-1.0.1.1-yUm7vYe4EpCFvKXLTkojDzZMQIIyuKCO0EvZuf4SmZA",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=ia9aZaAHmbMupsQyomqn0DSoTnxbLpQwYTlBPvxZz7U-1787505689-1.0.1.1-w2.3zFEEdEkMWNWWrytt_caC3g1Sasc9yJP6p.qSFsc",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=YTU294o87ikAkdUYgdkKd5W76blqkdxb0ZBDTbkYwHY-1787505644-1.0.1.1-KN3E5GAq.mohgJ9p7ZZqZeWUMO9_AxDH5cnrHJysu.Y",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=VsqbaKB.YIZCxBtTEB_JfwRqPBWxUHxF1Uu6lXrp5oE-1787505600-1.0.1.1-JjTpq06a3N9fRX90tAGz8aQR7Av2cDc4iRWeTGS4QCE",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=2JpSKAqmhqOugMvW8yOKALKjHYYehX4TNzyCNnA35o4-1787505555-1.0.1.1-oTL.o8SdhAWwcJCswI43AbQmlsPMMrIHiIwJnUaL828",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=7cIyG6JbLpFFcjtfFwVDTvrZYyr4YySerjaWPi1KJpk-1787505511-1.0.1.1-kUD5rkQi9Onhx1seL6Eqx4qKkWr8gAAK5fuoaI78_Ec",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=of3aeHPjPsBQhhEM3RgFrIOc4f2tqEg27iQPUFYzmCA-1787505467-1.0.1.1-Yap7_S4d_2PtmbqSXHDWjoJ7mGPoyoUMZJwyZZq1gDk",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=y2xpXnAXXi8DmSDXXhIl3GWhMvOEmyUNObRAwB3giIg-1787505423-1.0.1.1-0AAFOJ6GlvcTakC2uv6sY.x2AE5W5ufP2H9pKigQ1Cc",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=9sxu7gMvn1yYyb03l4jJHBSFUN2ZCX_FPq6MFfR81VI-1787505379-1.0.1.1-s6tfjvMRrbM8UZsyzTY2C3FLKxOFDcspWUKbtEJFepA",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=oYamaSSTaMEQOHhpbYNd5YrUJTMu.S_CWPTN44a0P4w-1787505335-1.0.1.1-Z4FxJdfAUa3r_Ylzh6L_2fWNhZ1rlCzHfHhYP_L6ugQ",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=hbiIjDSTGtW_yr5gxo7F3CjvQ2KvgBO3JdAJsivVP8k-1787505291-1.0.1.1-eCwC8GVLQJyEvBrWgcfvFkGLLgOogbLdAPa64VvFySs",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=wgaL0Dla_OKWdaF1FA_HMuq7KmyFm9S1OdP_F8byy9c-1787505247-1.0.1.1-vlvm7wlk9JQW7fYBbW2H2YSELw6LsaSi2IFBbP1QE7Q",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=Rr0XhcZZPOipg097I8fspnrXFABmdqCT.oGiF2aRKuY-1787505203-1.0.1.1-.3feNP_yLaa40Aq2IhWXd5CDLD62czYyihmSKgzuC5g",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=DTpk1OigrNR9WYyP236BkdRvKg2OGBt9IshtJSyJ8kM-1787505159-1.0.1.1-m.7GV.gKyQCSpJO4AV3qgfr40bVXadLvTIH0mcOqPF4",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React.js Developer",
+      "company": "DigitalXNode",
+      "location": "Remote - India",
+      "url": "https://digitalxnode.com/jobs/react-js-developer-frontend-india-client/",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=JfoJ2ILP6UwsFOizcytw_J_DoYt1WZSGlwmknrwVO1A-1787505108-1.0.1.1-lYKFlfqYS2A0aYlbjerio.G09cLQqdPD_FVPQBL4b2g",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "React Native Developer",
+      "company": "Wing Assistant",
+      "location": "Remote - India",
+      "url": "https://jobs.lever.co/getwingapp/423dee1e-a28c-4013-b2f6-ef2726170909/apply?lever-source=LinkedIn&source=LinkedIn",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Full stack - React and Node.js developer",
+      "company": "Shortcastle Technologies",
+      "location": "Remote - India",
+      "url": "https://cutshort.io/job/Full-stack-React-and-Node-js-developer-Chennai-Hyderabad-Shortcastle-Technologies-atgEBCLp?utm_source=linkedin-feed&utm_medium=xml&utm_content=job-posting&applicationsource=linkedin-feed",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Uruguay",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Salto%2CUruguay-20260818&__cf_chl_rt_tk=ZnTchM0s1RDC9MylngXiFLhscilkAJ6HQLCX31j.Yg8-1787505102-1.0.1.1-CSe4HGn3.KcJTCDDn6KB7asbjzM1iL5degTwgUsIqW0",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Front-End Developer",
+      "company": "Amartus",
+      "location": "Remote - Poland",
+      "url": "https://amartus.traffit.com/public/form/a/c7208964584c4b553c347c920414d5ee4551453d?source=linkedin.com",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "Desarrollador React Frontend - Trabajo Remoto",
+      "company": "BairesDev",
+      "location": "Remote - Peru",
+      "url": "https://applicants.bairesdev.com/job/169/161868/apply?utm_source=linkedinjobposting&utm_medium=jobposting&utm_campaign=Arequipa%2CPeru-20260818&__cf_chl_rt_tk=Qa3wxb_vCJSSjPRz0g4xiJIAjY8Nmn6WLjXJlQPeOy4-1787501181-1.0.1.1-eoCIEmn5Jzm4jApLhiY0X026O9dMMJuBI3VWCSvRDJ4",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    },
+    {
+      "score": 10,
+      "title": "\u3010\u30d5\u30eb\u30ea\u30e2\u30fc\u30c8\u53ef\u3011\u30d5\u30ed\u30f3\u30c8\u30a8\u30f3\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2(React / Next.js)\u25c6AWS\u00d7AI\u958b\u767a",
+      "company": "doda (\u30c7\u30e5\u30fc\u30c0)",
+      "location": "Remote - Japan",
+      "url": "https://doda.jp/DodaFront/View/JobSearchDetail.action?jid=3015676570&cid=001006238bk5002&utm_id=001006238bk5002&argument=MC76WbSa&dmai=a6836a0b267c5a",
+      "tags": "",
+      "source": "frontendengineers",
+      "raw_salary": ""
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Hi Ellie,
+
+I noticed the open Software Engineer I, Secret Scanning role at GitHub and am applying. At Codet.ai I build developer-facing tools in Next.js that teams rely on to design, ship, and support workflows in production, which matches the posting’s focus on implementing services millions of developers depend on.
+
+On prevention and safety, I built JWT RBAC and REST payment APIs at Euronet, and I work on AutoCloudEngineerAgent in LangGraph where hard safety constraints cannot be overridden, with canary deploys and automatic rollback when invariants fail. That lines up with stopping credential leaks before they cause real damage. I also own full-stack features end to end, including dynamic database modules, drag-and-drop workflow UIs, and an in-app AI assistant on the platform.
+
+GitHub Security Products’ work to help developers find, fix, and prevent secrets in repositories is the kind of high-impact problem I want to tackle next.
+
+Open to a short call if helpful. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

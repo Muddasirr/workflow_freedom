@@ -1,0 +1,14 @@
+Hi Contour Software team,
+
+Your Trainee Software Developer (AI Focused) opening in Karachi matches the junior, AI-focused SWE track you are hiring for.
+
+I am Muddasir Rizwan, a software engineer at Codet.ai and a recent IBA Karachi CS graduate, based in Karachi.
+
+At Codet.ai I built AutoCloudEngineerAgent with LangGraph, Next.js, and Python: it proposes infrastructure, deploys to a Kubernetes canary, runs invariant benchmarks, and rolls back when checks fail.
+
+If this fits, could we talk for 15 minutes this week?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

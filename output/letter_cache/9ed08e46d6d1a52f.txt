@@ -1,0 +1,13 @@
+Hi Ed,
+
+I noticed the open Software Engineer - Data Engineering role at Caterpillar Inc. and am reaching out through our LinkedIn connection to apply. At Codet.ai I built the dynamic database module behind our no-code platform, modeling tables, field relationships, and record flows in PostgreSQL, work that maps directly to transforming data with Python and SQL while enforcing integrity at the schema level.
+
+At Euronet I shipped Java REST APIs for ISO 8583 payment integrations with JWT RBAC on PostgreSQL, where data quality and security had to hold across every third party handoff. On the Codet side I also write Python for workflow and deploy tooling, including invariant benchmark checks in our LangGraph AutoCloud agent that rejects bad runs before promotion, which sharpened how I monitor performance and debug failures before they reach production. I would welcome bringing that rigor to pipeline design, code reviews, and architecture discussions on your team.
+
+Happy to connect for a short call if you think my profile fits what the data engineering group needs. Resume attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,13 @@
+Hi NymCard team,
+
+I'm reaching out about your Software Engineer (Full Stack / Frontend / AI) role and the React/Next.js/TypeScript/Python stack you listed for Abu Dhabi and remote.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi with a BS in Computer Science from IBA.
+
+At Codet.ai I build and scale a Next.js no-code platform with drag-and-drop workflows and a LangGraph agent that deploys to Kubernetes canary with safety checks before promotion.
+
+Would you have 15 minutes this week for a quick call?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,13 @@
+Hi Arbisoft Pakistan team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) opening in Lahore, and the React/Next.js/TypeScript/Python/AI stack matches my current work at Codet.ai.
+
+I am Muddasir Rizwan, a software engineer in Karachi building a no-code platform in Next.js with Python-backed AI features.
+
+On that stack I shipped drag-and-drop workflow UI and a LangGraph agent that deploys only to Kubernetes canaries, runs invariant checks, then rolls back or recommends promotion.
+
+Would you have 15 minutes this week for a quick call?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

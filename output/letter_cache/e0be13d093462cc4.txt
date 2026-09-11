@@ -1,0 +1,15 @@
+Hi Thought Machine team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role on thoughtmachine.net/careers, especially the React/Next.js/TypeScript and Python AI focus.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building a no-code platform in Next.js and TypeScript.
+
+At Codet.ai I built AutoCloudEngineerAgent on LangGraph: it proposes infra, deploys to a Kubernetes canary, runs invariant benches, then rolls back or recommends promotion without overriding hard safety constraints.
+
+Would you have 15 minutes this week for a quick call?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,15 @@
+Hi Qatar Airways IT team,
+
+Your Software Engineer (Full Stack / Frontend / AI) opening in Doha stood out, especially the React/Next.js/TypeScript/Python and AI focus.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi building production full-stack and AI systems.
+
+At Codet.ai I scaled a Next.js no-code platform with dynamic database modules and a LangGraph agent that deploys to Kubernetes canary with enforced rollback on failed safety checks.
+
+Would you have 15 minutes this week for a quick call?
+
+Best,
+Muhammad Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

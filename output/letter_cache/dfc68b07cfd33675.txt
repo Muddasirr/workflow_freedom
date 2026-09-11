@@ -1,0 +1,14 @@
+Hi Elverta,
+
+I noticed the open Software Engineer Leadership, Machine Learning RecSys role at Meta and am applying. I build ML-informed product features in Next.js web applications at Codet.ai, which maps to your focus on complex technical problems and new capabilities across web platforms.
+
+At Codet, I developed AutoCloudEngineerAgent with LangGraph and GP-UCB optimization: an advisory LLM system that proposes infrastructure changes, runs invariant benchmarks on a Kubernetes canary, and rolls back when hard safety constraints fail. I also own the dynamic database module and drag-and-drop workflow UI where users chain triggers, conditions, and actions. At Euronet, I shipped Java REST payment APIs with JWT RBAC and PostgreSQL integrations, work that reinforced building reliable features under real production constraints.
+
+I would welcome contributing to Meta’s mission to connect billions of people and advance user experience on web and mobile. Happy to connect for a brief call; my resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

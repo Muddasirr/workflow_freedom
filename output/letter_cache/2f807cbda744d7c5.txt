@@ -1,0 +1,15 @@
+Hi Peekaboo Guru team,
+
+Your Software Engineer role in Karachi matches how I work today at Codet.ai, shipping product features on a Next.js platform with React and TypeScript as part of a full-time product engineering team, not internship or trainee scope.
+
+On the frontend, I build drag-and-drop workflow UIs and reusable components so users can configure apps without writing code. On the backend, I work in Python on our dynamic database module, tables, fields, relationships, and records, and on AutoCloudEngineerAgent, a LangGraph agent that proposes infrastructure changes and validates them through Kubernetes canary runs before promotion. That balance of polished UI and dependable server logic is the full-stack product work your posting outlines.
+
+Being based at NASTP Silicon would make it straightforward to collaborate in person while I contribute across React, Next.js, TypeScript, and Python.
+
+Open to a short call. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

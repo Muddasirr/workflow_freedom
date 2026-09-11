@@ -1,0 +1,12 @@
+Hi Rasan team,
+
+I'm writing about your Software Engineer (Full Stack / Frontend / AI) opening in Riyadh or remote. I'm a software engineer at Codet.ai in Karachi, building on React, Next.js, and TypeScript in production.
+
+At Codet.ai I scaled a no-code platform with drag-and-drop workflows, an in-app AI assistant, and a LangGraph agent that deploys only to Kubernetes canaries with hard safety rollbacks. That maps closely to your React/Next.js/TypeScript/Python/AI stack.
+
+Would you have 15 minutes this week to talk?
+
+Best,
+Muhammad Muddasir Rizwan
++92-3249867842 | muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,15 @@
+Hi Telenor Pakistan team,
+
+I am applying for the Software Engineer / Full Stack Engineer role in Karachi. At Codet.ai, I build customer-facing features in Next.js, TypeScript, and React on a no-code platform where users create apps, database tables, and drag-and-drop workflows without writing code.
+
+That work maps closely to your stack. I ship typed React/Next.js UI, design REST-style APIs around dynamic data models, and integrate an in-app AI assistant into product flows. I also built AutoCloudEngineerAgent in Python with LangGraph: it proposes infrastructure changes, deploys to a Kubernetes canary, runs invariant checks, and rolls back when safety constraints fail. Earlier at Euronet, I delivered Java REST APIs for fintech, including ISO 8583 payment integrations, JWT RBAC, and PostgreSQL-backed services.
+
+I am based in Karachi and would welcome contributing full-stack and AI-adjacent engineering on products that reach millions of users across Pakistan.
+
+Happy to connect for a short call. My resume is attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

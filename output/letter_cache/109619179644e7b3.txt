@@ -1,0 +1,12 @@
+Hi Securiti team,
+
+Your Software Engineer / Full Stack Engineer role in Karachi matches how I build today at Codet.ai: React and Next.js on the frontend, TypeScript across the stack, and Python where features need AI or automation.
+
+I ship product work end to end on a no-code platform, from drag-and-drop UI and workflow components to a dynamic database module with tables, fields, relationships, and API-backed records. Before Codet, at Euronet I delivered Java EE REST APIs for fintech, including ISO 8583 payment flows with JWT RBAC and PostgreSQL integrations. I also contributed to AutoCloudEngineerAgent in LangGraph, where an agent proposes infrastructure changes, validates them in a Kubernetes canary, and rolls back when safety checks fail.
+
+Based in Karachi and open to onsite, hybrid, or remote in the region, I would like to apply that full-stack and AI-adjacent experience on your React, Python, and API-focused engineering team. Happy to connect for a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

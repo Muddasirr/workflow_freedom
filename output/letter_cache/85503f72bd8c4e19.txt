@@ -1,0 +1,15 @@
+Hi Digital Ride team,
+
+The Front-End Developer role matches the React and Next.js UI work I ship daily at Codet.ai, where I build interfaces for a no-code platform that has to work cleanly across screen sizes. I own drag-and-drop workflow components and a dynamic database module, using HTML, CSS, JavaScript, and React to turn complex flows into layouts people can actually use on desktop and mobile.
+
+That responsive focus shows up outside work too. Rulr is a ReactFlow-based visual workflow builder, and Crop Yield Predictor is a Next.js front end with Mapbox for map-heavy views. When UI needs live data, I have also integrated screens with Java REST APIs at Euronet for fintech products, so I can connect front-end work to backend services without blocking delivery.
+
+I am based in Karachi and interested in a full-time on-site role on Shahrah-e-Faisal, and your posting’s growth opportunities and benefits line up with what I want next in a team setting.
+
+Happy to walk through recent UI work on a short call. My resume is attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

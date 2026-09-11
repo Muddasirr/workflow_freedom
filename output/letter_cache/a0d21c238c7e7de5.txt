@@ -1,0 +1,13 @@
+Hi eToro team,
+
+Your Software Engineer (Full Stack / Frontend / AI) opening in London / remote lines up with the React/Next.js, TypeScript, Python, and AI stack I work in daily at Codet.ai.
+
+I'm Muddasir Rizwan, a software engineer there shipping a no-code platform with drag-and-drop workflows and an in-app AI assistant.
+
+I built AutoCloudEngineerAgent on LangGraph, a Python agent that proposes infra, canary deploys on Kubernetes, and rolls back when invariants fail.
+
+Would you have 15 minutes this week to chat about the role?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

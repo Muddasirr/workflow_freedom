@@ -1,0 +1,12 @@
+Hi Confiz Pakistan team,
+
+The Software Engineer / Full Stack Engineer role in Lahore fits the Next.js, TypeScript, and Python work I have shipped over the past year at Codet.ai. There I build customer-facing features on a no-code platform with drag-and-drop workflows, dynamic database tables, and an in-app AI assistant so users can create apps without writing code.
+
+Your React and Next.js requirements match my daily stack. I use TypeScript across the frontend and Python for backend and AI features, including AutoCloudEngineerAgent in LangGraph, which proposes infrastructure changes, deploys to a Kubernetes canary, runs invariant checks, and rolls back when safety constraints fail. I also built REST APIs at Euronet for fintech payment flows with JWT RBAC and PostgreSQL.
+
+I would like to grow as a full-stack engineer on React and AI-adjacent product work at Confiz Pakistan. I am open to onsite or hybrid in the Lahore region and happy to schedule a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,13 @@
+Hi Forte Group team,
+
+The React Native Developer opening fits the React and TypeScript product work I ship at Codet.ai: drag-and-drop workflow UI, dynamic database screens, and an in-app AI assistant on our no-code platform in Next.js. My day-to-day is component-heavy frontend work, which maps to the React depth in your stack, and I am ready to apply that foundation in React Native.
+
+On Python and AI/LLM, I built AutoCloudEngineerAgent with LangGraph. It proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, then rejects or rolls back unsafe changes. At Euronet I delivered Java REST APIs for ISO 8583 payment flows with JWT RBAC and PostgreSQL, so I am used to owning features across UI and backend. Rulr, a ReactFlow workflow builder I built, keeps my architecture instincts current.
+
+Your junior-friendly full-stack and AI focus is the kind of role where I want to keep growing with early-career experience. Open to a short call; resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

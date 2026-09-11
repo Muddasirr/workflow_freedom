@@ -1,0 +1,15 @@
+Hi Eric,
+
+I noticed the open Software Engineer III, Google Kubernetes Engine Autoscaling role at Google and am applying. At Codet.ai I work on AutoCloudEngineerAgent, a LangGraph system that proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back or recommends promotion under hard safety constraints, with a GP-UCB optimizer guiding resource tradeoffs.
+
+That maps to GKE Autoscaling’s focus on performance, cost efficiency, and automated operations for containerized workloads at scale. I also built and scaled a Next.js no-code platform with dynamic databases and drag-and-drop workflows, so I am used to full-stack problems where reliability and resource use both matter. At Euronet I shipped Java REST payment APIs on PostgreSQL for production fintech integrations.
+
+Strengthening GKE in the open source ecosystem while helping customers deploy faster with better resource efficiency is the direction I want to grow in.
+
+Open to a brief call if helpful. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

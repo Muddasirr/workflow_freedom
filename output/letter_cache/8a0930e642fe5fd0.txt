@@ -1,0 +1,15 @@
+Hi Melio team,
+
+Saw your Software Engineer (Full Stack / Frontend / AI) opening on the careers page. The React, Next.js, TypeScript, and Python stack is a direct fit with my current work.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai working across full-stack product builds and LLM agents, based in Karachi and open to remote worldwide.
+
+I scaled our no-code platform in Next.js and shipped AutoCloudEngineerAgent on LangGraph with canary deploys and rollback when safety invariants fail.
+
+Would you have 15 minutes this week for a short call?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

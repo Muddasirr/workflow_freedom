@@ -1,0 +1,14 @@
+Hi Empiric Pakistan team,
+
+I'm applying for the Software Engineer / Full Stack Engineer role in Lahore. At Codet.ai, I build production software in Next.js, TypeScript, and Python, which aligns with your React, API, and AI/LLM requirements.
+
+I scaled a no-code platform with drag-and-drop workflows, dynamic database modules, and an in-app AI assistant. I also built AutoCloudEngineerAgent in LangGraph, which proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when hard safety constraints fail. Before Codet, at Euronet I shipped Java REST APIs for fintech, including ISO 8583 payment integrations, JWT RBAC, and PostgreSQL.
+
+I'm drawn to Empiric Pakistan's associate engineering track in Lahore because it sits at the intersection of full-stack delivery and AI-adjacent product work I do daily. I'm based in Karachi and open to onsite or hybrid in the region.
+
+Open to a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

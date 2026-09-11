@@ -1,0 +1,13 @@
+Hi Hugging Face team,
+
+Your junior frontend/full stack track (Next.js + LangGraph, product and agents, remote, 0-2 YOE) matches what I have been building. I am Muddasir Rizwan, software engineer at Codet.ai in Karachi, open to remote worldwide.
+
+I ship our no-code platform in Next.js and built AutoCloudEngineerAgent on LangGraph with canary Kubernetes deploys and safety gates that block promotion when invariant checks fail.
+
+Could we find 15 minutes this week to see if I could help on your team?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

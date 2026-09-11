@@ -1,0 +1,15 @@
+Hi Similarweb team,
+
+I saw your Software Engineer opening (Full Stack / Frontend / AI) and the React, Next.js, TypeScript, Python, and AI stack on your careers page.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi, shipping production web and AI systems since June 2025.
+
+At Codet.ai I build a Next.js no-code platform and AutoCloudEngineerAgent in LangGraph, which proposes infra, runs safety checks on a Kubernetes canary, then rolls back or recommends promotion.
+
+Would you have 15 minutes this week for a quick call about the role?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

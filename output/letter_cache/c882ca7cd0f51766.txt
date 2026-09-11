@@ -1,0 +1,15 @@
+Hi GetYourGuide team,
+
+I'm reaching out about your Software Engineer (Full Stack / Frontend / AI) role in Berlin/remote. Your posting lists React, Next.js, TypeScript, Python, and AI, which is the stack I work in at Codet.ai.
+
+I'm Muddasir Rizwan, a software engineer who builds full-stack product features from UI through backend and AI.
+
+At Codet.ai I scaled a Next.js no-code platform with drag-and-drop workflows, an in-app AI assistant, and a LangGraph agent that deploys to Kubernetes canaries with safety gates before promotion.
+
+Would you have 15 minutes this week for a quick chat?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

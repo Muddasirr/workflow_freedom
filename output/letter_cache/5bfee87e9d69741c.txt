@@ -1,0 +1,14 @@
+Hi Techesthete team,
+
+The AI Developer role fits the LangGraph agent work I ship today at Codet.ai, where agents run in production behind hard safety constraints rather than demo scripts.
+
+I built AutoCloudEngineerAgent on LangGraph: it proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, then rejects, rolls back, or recommends promotion. I also own React and Next.js interfaces for our no-code platform, including an in-app AI assistant and drag-and-drop workflow builder. On the backend I work in Python and FastAPI, and during a fintech internship at Euronet I delivered Java REST APIs with PostgreSQL and JWT RBAC.
+
+You need agentic systems, LLM integration, LangGraph, React frontends, and production deployment. That is the stack I use daily, and I am ready to extend it to the RAG workflows and vector database integrations your posting describes.
+
+Happy to connect for a brief call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

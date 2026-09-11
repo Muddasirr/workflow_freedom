@@ -1,0 +1,12 @@
+Hi Tkxel team,
+
+The Software Engineer / Full Stack Engineer role in Lahore matches the work I do at Codet.ai: Next.js, React, and TypeScript on the client, with Python and REST APIs powering a no-code platform for dynamic databases, drag-and-drop workflows, and an in-app AI assistant.
+
+I have built schema-driven tables, field relationships, and trigger-to-action UI that non-developers use in production. I also work on AutoCloudEngineerAgent in LangGraph, which proposes infrastructure changes, deploys to a Kubernetes canary, runs invariant benchmarks, and rolls back anything that fails safety checks. Before Codet, at Euronet I shipped Java EE REST APIs for fintech, including ISO 8583 payment integrations and JWT RBAC on PostgreSQL.
+
+Your stack of React, Next.js, TypeScript, Python, and AI/LLM is the mix I want to grow in next, and I am open to onsite or hybrid in Lahore from Karachi. A short call works on my side. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

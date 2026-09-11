@@ -1,0 +1,13 @@
+Hi Elixir Technologies team,
+
+Your Software Engineer / Full Stack Engineer opening matches the work I do at Codet.ai, where I build and scale a no-code platform in Next.js and TypeScript. I ship drag-and-drop workflows, dynamic database modules with tables, fields, and relationships, and an in-app AI assistant so users can launch apps without writing code.
+
+That maps to your React, Next.js, TypeScript, Python, and AI/LLM stack. I also built AutoCloudEngineerAgent in Python with LangGraph: it proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benches, then rolls back or recommends promotion when hard safety constraints fail. At Euronet, I delivered Java EE REST APIs for fintech, including ISO 8583 payment flows, JWT RBAC, and PostgreSQL integrations.
+
+I'm interested in a junior associate path where I can keep growing across full-stack product work and AI-adjacent engineering in Islamabad. I'm based in Karachi and open to onsite or hybrid in the region. Happy to connect for a short call; my resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

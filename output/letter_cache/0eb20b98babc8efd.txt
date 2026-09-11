@@ -1,0 +1,15 @@
+Hi Hamsa team,
+
+If you are hiring Junior or Associate Software Engineers in full stack, frontend, or AI, my work at Codet.ai already matches your React, Next.js, TypeScript, Python, and LangGraph tooling. I ship production UI and backend features on a no-code platform in Next.js, including drag-and-drop workflows, in-app AI assistance, and a dynamic database module for tables, fields, and relationships.
+
+Separately, I built AutoCloudEngineerAgent in LangGraph, where an agent proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when hard safety checks fail. Before Codet, at Euronet I delivered Java REST APIs for fintech, ISO 8583 payment integrations, and JWT RBAC on PostgreSQL.
+
+Hamsa’s mix of fintech, AI, and e-commerce in a remote-friendly startup is where I want to grow as an early-career IC engineer.
+
+Happy to connect for a short call to see if there is a fit. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

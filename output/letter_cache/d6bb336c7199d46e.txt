@@ -1,0 +1,13 @@
+Hi ShopBack team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) opening and the React/Next.js/TypeScript/Python stack matches what I build at Codet.ai.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai working on a no-code platform in Next.js with drag-and-drop workflows and an in-app AI assistant.
+
+Recently I built AutoCloudEngineerAgent on LangGraph, which proposes infra and deploys only through Kubernetes canary gates with hard safety constraints before any promotion.
+
+Would you have 15 minutes this week to talk about the role?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,7 @@
+Hi Tresorit team,
+
+Your Software Engineer (Full Stack / Frontend / AI) role in Zurich or remote matches the React/Next.js/TypeScript/Python/AI stack you listed on careers. I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi, currently building and scaling a production no-code platform in Next.js with drag-and-drop workflows and an in-app AI assistant. My clearest match is AutoCloudEngineerAgent in LangGraph: it deploys only to Kubernetes canaries and rolls back when invariant checks fail. Would you have 15 minutes this week for a short call?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

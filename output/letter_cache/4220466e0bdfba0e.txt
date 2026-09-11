@@ -1,0 +1,14 @@
+Hi HungerStation team,
+
+The Software Engineer / Full Stack Engineer role in Riyadh fits the Next.js, TypeScript, and Python product work I ship at Codet.ai. I build a no-code platform with dynamic databases, drag-and-drop workflows, and an in-app AI assistant, all in React and Next.js.
+
+Your React, Next.js, TypeScript, Python, and AI/LLM requirements match my daily stack. I integrate REST APIs with PostgreSQL-backed modules, and I built AutoCloudEngineerAgent in Python with LangGraph to propose infrastructure changes, validate on Kubernetes canaries, and roll back when invariants fail. At Euronet I delivered Java EE payment APIs with JWT RBAC and ISO 8583 integrations, keeping API behavior predictable under fintech load.
+
+I am interested in junior associate full-stack and AI-adjacent engineering with HungerStation in Riyadh, and I am open to onsite or hybrid work in the region from Karachi (UTC+5).
+
+Happy to connect for a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

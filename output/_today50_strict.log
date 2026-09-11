@@ -1,0 +1,173 @@
+GOAL=15 already_sent_emails=1301 companies=1499
+loading scraped jobs…
+  scraped=542
+SKIP_LI=1 — using scraped jobs only
+email maps: co=1470 strict=1090 catchall=1350
+
+=== Pass 1: job → inbox match ===
+pass1 queue=0
+
+=== Pass 2: STRICT-verified careers fill only ===
+  + OVHcloud                         → careers@ovhcloud.com [strict-strict]
+  + Idealista                        → careers@idealista.com [strict-strict]
+  + MutuiOnline                      → careers@mutuionline.it [strict-strict]
+  + Klarna                           → careers@klarna.com [strict-strict]
+  + eToro                            → careers@etoro.com [strict-strict]
+  + Tresorit                         → careers@tresorit.com [strict-strict]
+  + Kry                              → careers@kry.se [strict-strict]
+  + UiPath                           → careers@uipath.com [strict-strict]
+  + Zoho                             → careers@zoho.com [strict-strict]
+  + Mailgun                          → careers@mailgun.com [strict-strict]
+  + LMKT Digital                     → hr@lmkt.com [strict-strict]
+  + Easypaisa Tech                   → careers@easypaisa.com.pk [strict-strict]
+  + Finja Tech                       → careers@finja.pk [strict-strict]
+  + Netsmartz Pakistan               → hr@netsmartz.com [strict-strict]
+  + DPL Pakistan                     → hr@dpl.com.pk [strict-strict]
+  + Creative Chaos Pakistan          → hr@creativechaos.co [strict-strict]
+  + KoderLabs Pakistan               → careers@koderlabs.com [strict-strict]
+  + Techverx Pakistan                → careers@techverx.com [strict-strict]
+  + Speridian Pakistan               → hr@speridian.com [strict-strict]
+  + HazenTech Pakistan               → hr@hazentech.com [strict-strict]
+  + Teknobuilt Pakistan              → careers@teknobuilt.com [strict-strict]
+  + Powersoft19 Pakistan             → careers@powersoft19.com [strict-strict]
+  + NorthBay Pakistan                → jobs@northbaysolutions.com [strict-strict]
+  + Bazaar Pakistan                  → hr@bazaartech.com [strict-strict]
+  + Jazeera Airways Digital          → careers@jazeeraairways.com [strict-strict]
+total queue=25 (strict only)
+
+[1/15] Software Engineer (Full Stack / Frontend / AI) @ OVHcloud
+  → careers@ovhcloud.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈100 | Hi OVHcloud team, I saw your Software Engineer (Full Stack / Frontend / AI) opening in Roubaix and remote, with React, N…
+  SENT [1/15]
+  wait 37s…
+
+[2/15] Software Engineer (Full Stack / Frontend / AI) @ Idealista
+  → careers@idealista.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈86 | Hi Idealista team, I saw your Software Engineer (Full Stack / Frontend / AI) opening and the React/Next.js/TypeScript/Py…
+  SENT [2/15]
+  wait 36s…
+
+[3/15] Software Engineer (Full Stack / Frontend / AI) @ MutuiOnline
+  → careers@mutuionline.it [strict-strict] (STRICT)
+  writing SHORT letter…
+GOAL=12 already_sent_emails=1307 companies=1506
+loading scraped jobs…
+  scraped=542
+SKIP_LI=1 — using scraped jobs only
+email maps: co=1470 strict=1097 catchall=1377
+
+=== Pass 1: job → inbox match ===
+pass1 queue=0
+
+=== Pass 2: STRICT-verified careers fill only ===
+  + MutuiOnline                      → careers@mutuionline.it [strict-strict]
+  + Klarna                           → careers@klarna.com [strict-strict]
+  + eToro                            → careers@etoro.com [strict-strict]
+  + Tresorit                         → careers@tresorit.com [strict-strict]
+  + Kry                              → careers@kry.se [strict-strict]
+  + UiPath                           → careers@uipath.com [strict-strict]
+  + Zoho                             → careers@zoho.com [strict-strict]
+  + Mailgun                          → careers@mailgun.com [strict-strict]
+  + LMKT Digital                     → hr@lmkt.com [strict-strict]
+  + Easypaisa Tech                   → careers@easypaisa.com.pk [strict-strict]
+  + Finja Tech                       → careers@finja.pk [strict-strict]
+  + Netsmartz Pakistan               → hr@netsmartz.com [strict-strict]
+  + DPL Pakistan                     → hr@dpl.com.pk [strict-strict]
+  + Creative Chaos Pakistan          → hr@creativechaos.co [strict-strict]
+  + KoderLabs Pakistan               → careers@koderlabs.com [strict-strict]
+  + Techverx Pakistan                → careers@techverx.com [strict-strict]
+  + Speridian Pakistan               → hr@speridian.com [strict-strict]
+  + HazenTech Pakistan               → hr@hazentech.com [strict-strict]
+  + Teknobuilt Pakistan              → careers@teknobuilt.com [strict-strict]
+  + Powersoft19 Pakistan             → careers@powersoft19.com [strict-strict]
+  + NorthBay Pakistan                → jobs@northbaysolutions.com [strict-strict]
+  + Bazaar Pakistan                  → hr@bazaartech.com [strict-strict]
+total queue=22 (strict only)
+
+[1/12] Software Engineer (Full Stack / Frontend / AI) @ MutuiOnline
+  → careers@mutuionline.it [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈97 | Hi MutuiOnline team, I'm writing about your Software Engineer (Full Stack / Frontend / AI) opening. Your React, Next.js,…
+  SENT [1/12]
+  wait 37s…
+
+[2/12] Software Engineer (Full Stack / Frontend / AI) @ Klarna
+  → careers@klarna.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈89 | Hi Klarna team, I saw your Software Engineer (Full Stack / Frontend / AI) opening (Stockholm or remote) and the React, N…
+  SENT [2/12]
+  wait 32s…
+
+[3/12] Software Engineer (Full Stack / Frontend / AI) @ eToro
+  → careers@etoro.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈88 | Hi eToro team, Your Software Engineer (Full Stack / Frontend / AI) opening in London / remote lines up with the React/Ne…
+  SENT [3/12]
+  wait 32s…
+
+[4/12] Software Engineer (Full Stack / Frontend / AI) @ Tresorit
+  → careers@tresorit.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈87 | Hi Tresorit team, Your Software Engineer (Full Stack / Frontend / AI) role in Zurich or remote matches the React/Next.js…
+  SENT [4/12]
+  wait 41s…
+
+[5/12] Software Engineer (Full Stack / Frontend / AI) @ Kry
+  → careers@kry.se [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈90 | Hi Kry team, Saw your Software Engineer (Full Stack / Frontend / AI) opening in Stockholm / remote; the React, Next.js, …
+  SENT [5/12]
+  wait 38s…
+
+[6/12] Software Engineer (Full Stack / Frontend / AI) @ UiPath
+  → careers@uipath.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈85 | Hi UiPath team, I saw your Software Engineer (Full Stack / Frontend / AI) opening for Bucharest/remote with React, Next.…
+  SENT [6/12]
+  wait 38s…
+
+[7/12] Software Engineer (Full Stack / Frontend / AI) @ Zoho
+  → careers@zoho.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈83 | Hi Zoho team, I saw your worldwide remote Software Engineer (Full Stack / Frontend / AI) opening and the React/Next.js/T…
+  SENT [7/12]
+  wait 35s…
+
+[8/12] Software Engineer (Full Stack / Frontend / AI) @ Mailgun
+  → careers@mailgun.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈88 | Hi Mailgun team, Saw the Software Engineer (Full Stack / Frontend / AI) opening on your careers page for worldwide remot…
+  SENT [8/12]
+  wait 41s…
+
+[9/12] Software Engineer (Full Stack / Frontend / AI) @ LMKT Digital
+  → hr@lmkt.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈87 | Hi LMKT Digital team, I saw your Software Engineer (Full Stack / Frontend / AI) opening in Islamabad and the React/Next.…
+  SENT [9/12]
+  wait 40s…
+
+[10/12] Software Engineer (Full Stack / Frontend / AI) @ Easypaisa Tech
+  → careers@easypaisa.com.pk [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈79 | Hi Easypaisa Tech team, I noticed your Software Engineer (Full Stack / Frontend / AI) role in Islamabad, with React/Next…
+  SENT [10/12]
+  wait 42s…
+
+[11/12] Software Engineer (Full Stack / Frontend / AI) @ Finja Tech
+  → careers@finja.pk [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈95 | Hi Finja Tech team, I'm reaching out about your Software Engineer (Full Stack / Frontend / AI) role in Lahore. Your Reac…
+  SENT [11/12]
+  wait 36s…
+
+[12/12] Software Engineer (Full Stack / Frontend / AI) @ Netsmartz Pakistan
+  → hr@netsmartz.com [strict-strict] (STRICT)
+  writing SHORT letter…
+  words≈88 | Hi Netsmartz Pakistan team, I'm interested in the Software Engineer (Full Stack / Frontend / AI) opening in Lahore, espe…
+  SENT [12/12]
+CSV → /home/sleepwellsystem/Desktop/codet-webb/output/emails_today50_2026-09-09.csv
+
+DONE. Sent 12/12 today

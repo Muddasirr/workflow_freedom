@@ -1,0 +1,15 @@
+Hi Cars24 Gulf team,
+
+I'm reaching out about your Software Engineer (Full Stack / Frontend / AI) role for Dubai/remote, with the React/Next.js/TypeScript/Python/AI stack.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building a no-code platform in Next.js with drag-and-drop workflows and an in-app AI assistant.
+
+At Codet.ai I shipped AutoCloudEngineerAgent on LangGraph, which proposes infra and validates deployments in a Kubernetes canary before promotion, pairing Python/AI with production delivery.
+
+Could we grab 15 minutes this week to discuss fit?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

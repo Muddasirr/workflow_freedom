@@ -1,0 +1,16 @@
+Hi Eli,
+
+I noticed the open Software Engineer, DynamoDB Performance role at AWS and am applying. At Codet.ai I built and scaled a dynamic database module where tables, relationships, and record access patterns had to stay fast as usage grew, which lines up with investigating storage-layer latency in a service built for single-digit millisecond reads at massive request rates.
+
+I also developed AutoCloudEngineerAgent, a LangGraph workflow that deploys only to a Kubernetes canary, runs invariant benchmarks, and rejects or rolls back when performance thresholds fail. That pushed me to connect instrumentation to percentile-level outcomes and treat regressions as hard release blockers, similar to attributing latency to specific components and driving reduction across the distribution.
+
+At Euronet I shipped Java REST APIs on PostgreSQL for fintech workloads where API and query latency directly affected payment flows. I would welcome bringing that mix of database systems work and performance-focused tooling to DynamoDB’s observability efforts, component performance targets, and capacity management model.
+
+Open to a short call if useful. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

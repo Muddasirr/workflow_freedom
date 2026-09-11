@@ -1,0 +1,15 @@
+Hi Multisyn Tech team,
+
+The Full Stack Developer (Node.js + React/Next.js) opening fits how I have been building production software at Codet.ai in Next.js and TypeScript. I develop and maintain full-stack features on a no-code platform, including drag-and-drop workflow UI, a dynamic database module with tables, relationships, and records, and REST-backed integrations users rely on daily.
+
+That experience maps to your responsibilities around clean code, debugging, and scalable web apps. I troubleshoot production issues, keep components documented, and tune UI performance as usage grows. Before Codet, at Euronet I built Java EE REST APIs for fintech with PostgreSQL and JWT RBAC, which strengthened my database and API design beyond basic MongoDB or MySQL familiarity. I work in Git every day and have shipped through a Kubernetes canary pipeline with automated rollback checks.
+
+I would like to contribute on your Islamabad team in a collaborative, fast-paced setting where I can keep growing across frontend and backend work.
+
+Open to a brief call to discuss fit. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

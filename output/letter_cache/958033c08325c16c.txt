@@ -1,0 +1,14 @@
+Hi Salla team,
+
+Your Full Stack Engineer opening in Riyadh matches the work I do at Codet.ai today: shipping a Next.js product where users define dynamic databases, drag-and-drop workflows, and React and TypeScript interfaces without writing boilerplate.
+
+Your stack calls for React, Next.js, TypeScript, Python, and AI-adjacent engineering. Over the past year I have lived in that mix. I built Codet’s database module and workflow UI end to end, backed by PostgreSQL and API layers used in production. I also shipped an in-app AI assistant and a LangGraph agent that proposes infrastructure updates, validates them in a Kubernetes canary, and rolls back when safety checks fail. Before Codet, at Euronet, I delivered Java REST APIs for fintech payment flows with JWT RBAC and third-party integrations.
+
+I would welcome bringing that full-stack and applied AI work to your team in Riyadh, and I am open to onsite or hybrid in the region.
+
+Happy to walk through relevant work on a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

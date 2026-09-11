@@ -1,0 +1,15 @@
+Hi Catalect team,
+
+I'm applying for your AI Engineer role in Karachi. At Codet.ai I build and ship LLM features inside a production no-code platform: an in-app AI assistant and AutoCloudEngineerAgent, a LangGraph agent that tests infrastructure proposals through invariant benchmarks on a Kubernetes canary before allowing promotion or triggering rollback.
+
+That work maps to your requirements around NLP, modern LLM systems, and deploying AI alongside existing applications. I use Python and FastAPI daily, preprocess structured data for modeling and agent decisions, and document results for team review. My BS Computer Science from IBA Karachi covers algorithms, data structures, and software engineering fundamentals. A prior stint at Euronet building Java REST APIs for payment integrations also taught me how to wire new capabilities into enterprise workflows.
+
+I'm interested in working onsite with your engineers on live projects where experimentation feeds directly into product features.
+
+Happy to connect for a short call. My resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

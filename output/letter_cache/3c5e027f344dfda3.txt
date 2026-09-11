@@ -1,0 +1,14 @@
+Hi Erin,
+
+I noticed the open Software Engineer role at Microsoft and am applying for the position on the Windows Silicon and Systems Integration team in Dublin. At Codet.ai I build production software where a bad release affects every downstream user, which aligns with your team's work keeping the Windows application ecosystem healthy across devices and silicon.
+
+I shipped AutoCloudEngineerAgent in LangGraph, which proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when checks fail. That pattern fits your goal of ensuring compatibility issues introduced during development never reach customers. I also own dynamic database and workflow modules on a Next.js platform, so I am used to tracing how one change affects dependent applications. At Euronet I built Java REST APIs for fintech with ISO 8583 integrations and JWT RBAC, where data quality and regression risk had direct payment impact.
+
+I would welcome the chance to bring that mix of AI-driven analysis and careful release discipline to Windows at global scale.
+
+Open to a brief call at your convenience. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

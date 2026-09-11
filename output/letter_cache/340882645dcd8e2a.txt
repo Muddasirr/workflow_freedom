@@ -1,0 +1,13 @@
+Hi Smart Working team,
+
+I'm interested in your Cloud Engineer, Frontend-Focused role (Remote PK, AS315), where Next.js/React UI systems meet Docker and K8s canary deployment work.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building and scaling a Next.js no-code platform with dynamic databases and drag-and-drop workflows.
+
+I built AutoCloudEngineerAgent with LangGraph: it proposes infra, deploys only to a Kubernetes canary, runs invariant benches, then rejects, rolls back, or recommends promotion under hard safety constraints.
+
+Would you have 15 minutes this week for a quick chat?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

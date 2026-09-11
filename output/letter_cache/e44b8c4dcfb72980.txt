@@ -1,0 +1,17 @@
+Hi Fatma,
+
+I noticed the open Software Engineer role at Okta and wanted to reach out directly. At Codet.ai I help scale a developer-focused no-code platform in Next.js, with dynamic databases and drag-and-drop workflow builders that keep application access patterns consistent as customer apps grow.
+
+That work pairs with hands-on authorization experience from Euronet, where I shipped Java REST APIs with JWT RBAC, PostgreSQL, and ISO 8583 payment integrations for fintech clients. When authentication sits on the critical path, details like token scope and third-party integrations matter.
+
+I also built AutoCloudEngineerAgent in LangGraph, where invariant benches and hard rollback rules gate every deploy before promotion. That mindset fits Okta's focus on securing identity for AI and human users with real-world stakes.
+
+Okta's promise to make identity safe and seamless for developers building on Customer Identity Cloud is the infrastructure work I want to contribute to next.
+
+Open to a short call if you can point me to the right team. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

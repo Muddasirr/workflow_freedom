@@ -1,0 +1,15 @@
+Hi Lee,
+
+I noticed the open Software Engineer role at Molex and am reaching out through you as a connection. I am a software engineer at Codet.ai with a BS in Computer Science from IBA Karachi, building full-stack systems where data integration, operational dashboards, and production stability are daily requirements.
+
+At Codet.ai I developed a Next.js platform with a dynamic database module for tables, fields, and relationships, plus drag-and-drop workflows and UI components for trigger, condition, and action logic. That maps to your focus on MES and shopfloor data acquisition, machine connectivity, and dashboard design for digital platforms. I also built AutoCloudEngineerAgent in LangGraph, which proposes infrastructure changes, deploys only to Kubernetes canaries, runs invariant checks, and rolls back on failure, work that reflects the posting’s emphasis on real-time reliability and root-cause fixes. At Euronet I delivered Java REST APIs with PostgreSQL and third-party integrations where uptime and traceability were non-negotiable.
+
+I would like to contribute to Molex’s smart factory architecture and industrial equipment digitalization goals.
+
+Open to a brief call if helpful. Resume attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

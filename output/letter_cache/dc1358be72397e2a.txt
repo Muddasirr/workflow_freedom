@@ -1,0 +1,15 @@
+Hi Daniel,
+
+I noticed Betterment has an open Sr. Full Stack Software Engineer - Product Engineering role and would like to be considered. I currently build the logged-in product experience at Codet.ai in Next.js and TypeScript, and earlier this year shipped fintech REST APIs at Euronet on PostgreSQL with JWT-based access control.
+
+On the frontend, I own dynamic database modules, record management, and drag-and-drop workflow builders that turn intricate setup into clear step-by-step paths for end users. On the backend side, my Euronet work included ISO 8583 payment APIs and third-party payment integrations, which maps closely to building dependable flows when customers move real money.
+
+Your team’s mandate to make saving and investing simple through logged-in experiences aligns with the product engineering work I am doing now, and I would welcome the chance to bring that full-stack perspective to Betterment.
+
+Happy to connect for a brief call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

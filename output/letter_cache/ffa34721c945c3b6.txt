@@ -1,0 +1,14 @@
+Hi Netsol team,
+
+The Software Engineer / Full Stack Engineer role in Lahore aligns with the Next.js, TypeScript, and Python stack I use daily at Codet.ai, where I build and scale a no-code platform with dynamic database modules, record relationships, and drag-and-drop UI workflows backed by REST APIs.
+
+I also developed AutoCloudEngineerAgent in LangGraph: it proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rejects or rolls back unsafe releases. Users interact with an in-app AI assistant inside the same React frontend. At Euronet, I shipped Java EE REST APIs for fintech, including ISO 8583 payment integrations, JWT RBAC, and PostgreSQL.
+
+Your posting's mix of React, Next.js, TypeScript, Python, and AI/LLM work is the kind of full-stack scope I want to grow in at Netsol, and I'm open to onsite or hybrid in Lahore from Karachi (UTC+5).
+
+Open to a brief call to discuss fit. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

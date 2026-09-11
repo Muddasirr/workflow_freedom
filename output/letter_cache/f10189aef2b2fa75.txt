@@ -1,0 +1,13 @@
+Hi S4DS team,
+
+I'm reaching out about your Junior / Associate Software Engineer track across full stack, frontend, and AI engineering. At Codet.ai I build customer-facing product in Next.js and TypeScript, including drag-and-drop workflows and a dynamic database module with tables, fields, relationships, and records, which aligns with CRM-style tooling your sales teams use to manage business processes.
+
+On the AI side, I built AutoCloudEngineerAgent in Python with LangGraph. It proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when checks fail. Earlier at Euronet I delivered Java REST APIs for fintech with JWT RBAC and PostgreSQL. In side projects I have also shipped React Flow visual workflow builders when UI composition matters.
+
+Your work on omnichannel retail and direct selling software, and improving people's quality of life with tech that helps sales teams succeed, is where I want to grow as an early-career engineer. I'm open to a short call to learn whether you are hiring individual contributors at the junior or associate level for remote work from Karachi (UTC+5). Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

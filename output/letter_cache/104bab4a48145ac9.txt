@@ -1,0 +1,13 @@
+Hi Fieldguide team,
+
+Re your AI Engineer role (React/Next.js, TypeScript, Python, AI). I am Muddasir Rizwan, a software engineer at Codet.ai in Karachi building no-code and agent systems.
+
+At Codet.ai I built AutoCloudEngineerAgent on LangGraph: it proposes infra, deploys to a Kubernetes canary, runs invariant benches, then rolls back or recommends promotion with hard safety constraints the LLM cannot override.
+
+Would you have 15 minutes this week for a quick chat?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

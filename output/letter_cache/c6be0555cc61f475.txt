@@ -1,0 +1,14 @@
+Hi Snoonu team,
+
+I'm reaching out about your Software Engineer (Full Stack / Frontend / AI) role. The React/Next.js/TypeScript and Python/AI stack matches how I work today.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building a no-code platform in Next.js with drag-and-drop workflows and an in-app AI assistant.
+
+Recently I built AutoCloudEngineerAgent in LangGraph: it proposes infra, deploys to a Kubernetes canary, runs benchmarks, then rolls back or recommends promotion only when safety checks pass.
+
+Could we grab 15 minutes this week to see if I'm a fit?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

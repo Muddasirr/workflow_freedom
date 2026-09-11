@@ -1,0 +1,17 @@
+Hi Dana,
+
+I noticed the open Software Engineer, Web Products role at Databricks and am applying. At Codet.ai I ship a Next.js no-code platform with drag-and-drop page components and reusable workflow blocks, which aligns with implementing shared design system components and page systems that reduce per-surface maintenance.
+
+I have built dynamic UI modules, trigger-condition-action workflows, and an in-app AI assistant embedded in our daily build loop. I also developed AutoCloudEngineerAgent in LangGraph, where agents propose changes, run invariant checks on a Kubernetes canary, and roll back when constraints fail. That experience maps to an AI native SDLC where agents assist code generation, testing, and deployment alongside engineers.
+
+Earlier at Euronet I delivered Java REST APIs for fintech with JWT RBAC and PostgreSQL, which sharpened how I ship reliable backend contracts behind public-facing flows.
+
+The Web Engineering team's rebuild of databricks.com as AI native from the ground up is the kind of surface-plus-agent work I want to do next.
+
+Open to a short call if helpful. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

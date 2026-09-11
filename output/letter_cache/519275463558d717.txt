@@ -1,0 +1,14 @@
+Hi Denis,
+
+I noticed the open Software Engineer role at Apple and am applying. My recent work building data-driven platforms and backend services at Codet.ai and Euronet fits Apple Ads Engineering focus on scalable, low-latency distributed systems and privacy-conscious product design.
+
+At Codet.ai, I built a dynamic database module and workflow engine in Next.js that manages tables, relationships, and real-time user actions across a growing no-code platform. I also shipped AutoCloudEngineerAgent, a LangGraph system that proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when hard safety constraints fail. At Euronet, I developed Java EE REST APIs for fintech payment flows with JWT RBAC and PostgreSQL, which deepened my OOP backend fundamentals on production distributed services.
+
+Apple Ads approach to trust, thoughtful integration, and infrastructure built for global scale is what draws me to this team. I would welcome a short call if you think my background is a fit. My resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

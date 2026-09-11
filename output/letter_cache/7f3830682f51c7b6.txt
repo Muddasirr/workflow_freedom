@@ -1,0 +1,11 @@
+Hi Mailgun team,
+
+Saw the Software Engineer (Full Stack / Frontend / AI) opening on your careers page for worldwide remote work with React/Next.js, TypeScript, Python, and AI.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building production full-stack apps in Next.js and TypeScript.
+
+I shipped a no-code platform with drag-and-drop workflows and a LangGraph agent that only promotes infra after Kubernetes canary checks pass, giving me hands-on full-stack and AI experience on your stack.
+
+Open to 15 minutes this week if useful.
+
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

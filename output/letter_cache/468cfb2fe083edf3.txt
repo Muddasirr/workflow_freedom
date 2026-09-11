@@ -1,0 +1,15 @@
+Hi Busigence Technologies team,
+
+The React Developer role matches the Next.js and TypeScript product surfaces I build at Codet.ai, a no-code platform where users create apps through drag-and-drop components, dynamic database tables, and trigger-condition-action workflows.
+
+Your posting also calls for Python and AI/LLM experience. I contribute to AutoCloudEngineerAgent, a LangGraph system that proposes infrastructure, deploys to a Kubernetes canary, runs invariant benches, and rolls back or recommends promotion under hard safety constraints. At Euronet I shipped Java REST APIs for fintech payment flows with PostgreSQL and JWT RBAC. Rulr, my ReactFlow and Monaco visual workflow builder, keeps my component and state architecture practice current.
+
+Your associate-friendly full-stack and AI focus is the blend of polished frontend delivery and LLM-backed features I want to grow in next.
+
+Open to a short call. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

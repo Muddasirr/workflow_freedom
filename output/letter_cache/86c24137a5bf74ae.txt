@@ -1,0 +1,14 @@
+Hi Bitcoiner Jobs team,
+
+I'm asking about the Junior / Associate Software Engineer path across full stack, frontend, or AI engineering. At Codet.ai I build and scale our Next.js no-code platform in TypeScript: dynamic database tables with relationships, drag-and-drop trigger-condition-action workflows, and an in-app AI assistant users rely on daily.
+
+On the AI tooling side, I built AutoCloudEngineerAgent with LangGraph and Python. It proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, then rejects or rolls back when safety checks fail. Before Codet, at Euronet I shipped Java REST APIs and PostgreSQL-backed payment integrations for fintech.
+
+A lean remote team focused on Bitcoin is where I'd want to grow by owning features across the stack, not just one layer. Are you currently hiring early-career IC engineers I could contribute to from Karachi (UTC+5)?
+
+Happy to connect on a short call. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

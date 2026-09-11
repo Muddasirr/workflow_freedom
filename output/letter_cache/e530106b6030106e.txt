@@ -1,0 +1,10 @@
+Hi Faculty team,
+
+Saw the Software Engineer (Full Stack / Frontend / AI) role at Faculty (London / remote). I'm a software engineer at Codet.ai in Karachi, building production apps with React, Next.js, TypeScript, and Python.
+
+At Codet.ai I shipped a LangGraph agent that proposes infra changes, deploys to a Kubernetes canary, and rolls back when invariant benches fail, which maps to the React/Next.js/TypeScript/Python/AI stack in your posting.
+
+Open to 15 minutes this week if useful.
+
+Muhammad Muddasir Rizwan
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

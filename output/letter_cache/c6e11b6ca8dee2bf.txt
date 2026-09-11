@@ -1,0 +1,13 @@
+Hi Empiric team,
+
+Your Software Engineer / Full Stack Engineer role in Lahore fits the stack I ship daily at Codet.ai: Next.js, TypeScript, Python, and API-backed product features, including the React and AI/LLM focus your listing highlights.
+
+I built drag-and-drop workflow and UI modules on a no-code platform, plus a dynamic database layer for tables, fields, relationships, and records. I also developed AutoCloudEngineerAgent with LangGraph: it proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant checks, and rolls back when safety constraints fail. At Euronet, I delivered Java REST APIs for fintech, including ISO 8583 payment integrations and JWT RBAC over PostgreSQL.
+
+Empiric's associate-level engineering track in Lahore is where I want to grow next on full-stack and AI-adjacent product work, and I'm open to onsite or hybrid from Karachi (UTC+5). I'd welcome a short call; my resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

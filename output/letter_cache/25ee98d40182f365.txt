@@ -1,0 +1,15 @@
+Hi PTCL team,
+
+Your Software Engineer / Full Stack Engineer role in Islamabad matches the Next.js and TypeScript product work I do at Codet.ai, where I build and scale a no-code platform with drag-and-drop workflows, dynamic database modules, and an in-app AI assistant.
+
+For backend and AI-adjacent delivery, I shipped Java EE REST APIs at Euronet with JWT RBAC and PostgreSQL for fintech payment integrations, and I build Python agent flows with LangGraph, including AutoCloudEngineerAgent, which proposes infrastructure, deploys only to Kubernetes canaries, and runs invariant checks before promotion. I also work across FastAPI services and React frontends on projects like Rulr, a visual workflow builder.
+
+I would like to bring that React, Python, and LLM experience to PTCL's engineering team in Islamabad.
+
+Open to a short call to walk through relevant work. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Based in Karachi (UTC+5), open to onsite or hybrid in the region.

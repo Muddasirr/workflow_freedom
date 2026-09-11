@@ -1,0 +1,15 @@
+Hi Foodpanda Pakistan team,
+
+The Software Engineer / Full Stack Engineer role in Karachi aligns with the Next.js, TypeScript, and Python work I ship at Codet.ai on a no-code platform where teams build apps without writing code.
+
+I build drag-and-drop workflow and UI modules with trigger, condition, and action logic, plus a dynamic database layer for tables, fields, relationships, and records. For AI/LLM work I developed AutoCloudEngineerAgent in LangGraph, which proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when hard safety constraints fail. At Euronet I delivered Java REST APIs for fintech, including ISO 8583 payment integrations and JWT RBAC on PostgreSQL.
+
+I would like to bring this React, API, and AI-adjacent experience to Foodpanda Pakistan engineering in Karachi, onsite or hybrid as the role allows.
+
+Open to a short call. My resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

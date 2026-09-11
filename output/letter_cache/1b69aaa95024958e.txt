@@ -1,0 +1,15 @@
+Hi Tajawal team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) opening and the React/Next.js/TypeScript/Python stack matches what I ship today.
+
+I am Muddasir Rizwan, a software engineer at Codet.ai in Karachi, open to remote work including Dubai.
+
+At Codet.ai I build production Next.js for a no-code platform and shipped AutoCloudEngineerAgent in LangGraph, which proposes infra, runs safety checks, and deploys only to a Kubernetes canary before promotion.
+
+Could we grab 15 minutes this week to see if there is a fit?
+
+Best,
+Muhammad Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

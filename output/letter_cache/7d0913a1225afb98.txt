@@ -1,0 +1,15 @@
+Hi Front team,
+
+The Frontend / Full Stack Software Engineer role aligns with the product UI work I do at Codet.ai in React, TypeScript, and Next.js, where users configure apps, databases, and drag-and-drop workflows on a no-code platform.
+
+Your posting highlights React, TypeScript, and Next.js for product UI, which is my daily stack. I build interfaces for dynamic tables, field relationships, and trigger-condition-action flows, plus an in-app assistant. I also touch full-stack pieces with PostgreSQL-backed modules and integrations. At Euronet I shipped Java REST APIs for fintech, including ISO 8583 payment endpoints and JWT RBAC, so I can work cleanly with backend teams on API contracts.
+
+I would like to contribute to Front’s customer communication and inbox platform, where responsive frontend work shapes how teams manage messages.
+
+Open to a short call to discuss fit. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

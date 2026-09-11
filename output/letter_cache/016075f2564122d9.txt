@@ -1,0 +1,15 @@
+Hi Debbie,
+
+I noticed the open Software Engineer, DynamoDB Performance role at Amazon and wanted to reach out directly. My work at Codet.ai on a dynamic database module, tables, relationships, and record handling, plus performance-sensitive agent tooling, lines up with building instrumentation and metrics that explain where latency comes from.
+
+At Codet, I built database abstractions customers use at scale in a no-code platform. Separately, I developed AutoCloudEngineerAgent on LangGraph: it runs invariant benchmarks on a Kubernetes canary before any promotion, rolls back when targets are missed, and uses an optimizer to recommend changes without breaking hard safety constraints. That taught me to treat latency and capacity decisions as measurable, percentile-aware problems, not guesses. Earlier at Euronet, I shipped Java REST APIs against PostgreSQL for payment workloads where predictable response times mattered.
+
+I would welcome contributing to DynamoDB's observability and performance efforts, especially latency reduction and capacity modeling for a service businesses rely on at massive request rates.
+
+Happy to connect for a short call. Resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

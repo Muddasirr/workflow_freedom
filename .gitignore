@@ -6,3 +6,6 @@ __pycache__/
 
 !output/.gitkeep
 .cache/
+
+# Large lead dumps (do not commit)
+Qualified Leads connections - CSV.csv

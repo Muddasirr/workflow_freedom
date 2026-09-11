@@ -1,0 +1,15 @@
+Hi CrediMax team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role in Manama and the React, Next.js, TypeScript, Python, and AI stack on credimax.com.bh/careers.
+
+I'm a software engineer at Codet.ai in Karachi, building a production no-code platform in Next.js.
+
+Recently I built AutoCloudEngineerAgent in LangGraph and Python: it proposes infra, deploys to a Kubernetes canary, runs invariant benches, then rolls back or recommends promotion.
+
+Open to 15 minutes this week if that sounds useful.
+
+Best,
+Muhammad Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

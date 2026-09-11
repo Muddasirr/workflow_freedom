@@ -1,0 +1,13 @@
+Hi Xleron team,
+
+I'm applying for the Full Stack Developer role. At Codet.ai I build and scale a Next.js product where users ship apps without writing code, including a PostgreSQL-backed database module for tables, fields, relationships, and records, plus drag-and-drop workflows in React and TypeScript.
+
+That lines up with your focus on scalable Next.js applications and PostgreSQL data layers. At Euronet I built Java REST APIs with JWT RBAC and PostgreSQL for fintech integrations, which trained me to keep services layered and testable. Projects like Rulr, a ReactFlow workflow builder, and Crop Yield Predictor, a Next.js and PostgreSQL stack, reinforced component design and end-to-end delivery.
+
+I'm honest that I'm at about one to two years of professional experience, not the two plus listed, but my current work already matches much of your stack and responsibilities. I'd welcome a short call to discuss how I can contribute. My resume is attached, with more work at muddasirrizwan.com.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+Remote from Karachi (UTC+5)

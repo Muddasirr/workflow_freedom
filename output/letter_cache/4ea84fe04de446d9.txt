@@ -1,0 +1,14 @@
+Hi Immerss team,
+
+I wanted to ask whether you are hiring a Junior or Associate Software Engineer for full stack, frontend, or AI tooling. At Codet.ai I build and scale a Next.js no-code platform with dynamic databases, drag-and-drop workflows, and an in-app AI assistant, working daily in React and TypeScript on product surfaces users touch directly.
+
+On the AI side, I built AutoCloudEngineerAgent with LangGraph and Python. It proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benches, then rolls back when safety checks fail. Before Codet, at Euronet I shipped Java REST APIs for fintech payment flows with JWT RBAC and PostgreSQL integrations.
+
+Your ecommerce platform and remote-friendly, small-team setup match what I want next: early-career IC work that applies technology to improve how businesses sell online, from Karachi (UTC+5).
+
+Open to a short call to learn more. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

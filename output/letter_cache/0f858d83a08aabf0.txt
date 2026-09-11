@@ -1,0 +1,14 @@
+Hi Bird team,
+
+I'm reaching out about your Software Engineer (Full Stack / Frontend / AI) role in Amsterdam/remote, where React, Next.js, TypeScript, Python, and AI are core to the stack.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi, early in my career and open to remote work worldwide.
+
+At Codet.ai I built a Next.js and TypeScript no-code platform and a LangGraph Python agent that deploys to Kubernetes canary and rolls back on failed safety checks.
+
+Would you have 15 minutes this week for a quick chat?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

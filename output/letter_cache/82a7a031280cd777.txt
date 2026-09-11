@@ -1,0 +1,14 @@
+Hi Ufone Digital team,
+
+I'm applying for the Software Engineer / Full Stack Engineer role in Islamabad. At Codet.ai, I ship production features in Next.js, TypeScript, and Python across REST APIs and user-facing flows, which aligns with the React and AI stack in your listing.
+
+On the frontend, I built drag-and-drop workflows and UI components in our no-code platform, plus a dynamic database module for tables, fields, and relationships. I also integrate AI in product: an in-app assistant and AutoCloudEngineerAgent on LangGraph that proposes infrastructure, deploys to a Kubernetes canary, runs checks, and rolls back when invariants fail. Before Codet, at Euronet I delivered Java REST APIs for fintech, including JWT RBAC and PostgreSQL-backed payment integrations.
+
+I'm interested in Ufone Digital because the role combines full-stack product work with AI-adjacent engineering in the region. I'm open to a short call to discuss how I can contribute. My resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5), open to onsite or hybrid in the region.

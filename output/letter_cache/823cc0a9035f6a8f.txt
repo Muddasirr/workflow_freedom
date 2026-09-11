@@ -1,0 +1,11 @@
+Hi Dawaai Tech team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) opening in Karachi and the React/Next.js/TypeScript/Python stack on your careers page.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building a no-code platform in Next.js with dynamic database modules and drag-and-drop workflow UI.
+
+Recently I shipped a LangGraph agent that proposes infra, deploys to a Kubernetes canary, and rolls back on failed checks, which fits the AI side of this role.
+
+Could we grab 15 minutes this week to see if I am a fit?
+
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

@@ -1,0 +1,15 @@
+Hi ADI Group team,
+
+The React Native Software Engineer role matches the JavaScript and React product work I do at Codet.ai, where I build and scale a no-code platform with drag-and-drop workflows, dynamic database modules, and UI components that stay clean and maintainable as features grow.
+
+Your posting emphasizes high-quality code, React Native for iOS and Android, and strong JavaScript fundamentals. I own user-facing flows end to end in Next.js and TypeScript, from trigger-condition-action builders to data relationships and in-app assistant surfaces. At Euronet I shipped Java REST APIs for fintech payment integrations with JWT RBAC and PostgreSQL, which trained me to handle data structures and edge cases under production constraints. When the stack shifts, I pick up new tools quickly, as I did moving from API work into full product engineering at Codet.
+
+I would welcome the chance to apply that discipline to mobile apps where JavaScript craft directly shapes user experience on iOS and Android.
+
+Open to a brief call to discuss fit. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

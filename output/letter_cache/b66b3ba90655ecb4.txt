@@ -1,0 +1,17 @@
+Hi Sekel Technologies team,
+
+The Software Engineer / Full Stack Engineer role in Lahore fits the work I do at Codet.ai: shipping product features in Next.js and TypeScript on a no-code platform where teams define database schemas, build drag-and-drop workflows, and launch apps without writing code.
+
+Your React and Next.js requirements match how I build UI components and the dynamic data module behind them. I also integrate APIs across records, relationships, and our in-app AI assistant. On Python, I developed AutoCloudEngineerAgent with LangGraph. It proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant checks, and rolls back when hard safety constraints fail. Before Codet, at Euronet, I delivered Java REST APIs for fintech, including ISO 8583 payment endpoints, JWT RBAC, and PostgreSQL-backed services.
+
+I'm drawn to this junior, AI-adjacent full-stack track because it matches the product and LLM work I've focused on over the past year.
+
+Happy to walk through recent work on a short call. My resume is attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+
+Based in Karachi (UTC+5), open to onsite or hybrid in Lahore.

@@ -1,0 +1,14 @@
+Hi Nearpay team,
+
+I'm reaching out about your Software Engineer (Full Stack / Frontend / AI) role in Riyadh / remote, especially the React, Next.js, TypeScript, Python, and AI stack you listed.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi building a no-code platform in Next.js with drag-and-drop workflows and an in-app AI assistant.
+
+At Codet.ai I also built AutoCloudEngineerAgent in LangGraph (Python), which proposes infra, runs canary deploys on Kubernetes, and rolls back when invariants fail.
+
+Could we do 15 minutes this week to see if there's a fit?
+
+Best,
+Muhammad Muddasir Rizwan
++92-3249867842 | muddasirrizwan9@gmail.com
+muddasirrizwan.com

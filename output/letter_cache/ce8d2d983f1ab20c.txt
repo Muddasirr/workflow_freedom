@@ -1,0 +1,14 @@
+Hi RemotePass team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role and the React, Next.js, TypeScript, and Python stack listed on your careers page.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai in Karachi building a production no-code platform in Next.js and TypeScript.
+
+I built our drag-and-drop workflow UI and a LangGraph agent that deploys to Kubernetes canaries, runs invariant checks, and rolls back on failure, which fits the frontend and AI parts of this role.
+
+Could we grab 15 minutes this week for a brief chat?
+
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

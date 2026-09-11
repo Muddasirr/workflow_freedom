@@ -1,0 +1,15 @@
+Hi Foodpanda APAC team,
+
+I'm interested in your Software Engineer (Full Stack / Frontend / AI) role for Singapore / remote, and the React, Next.js, TypeScript, Python, and AI stack on the posting.
+
+I'm Muddasir Rizwan, a software engineer at Codet.ai building a no-code platform in Next.js with drag-and-drop workflows and an in-app AI assistant.
+
+Recently I shipped AutoCloudEngineerAgent on LangGraph, which deploys to a Kubernetes canary, runs invariant benches, and rolls back unless safety gates pass.
+
+Could we grab 15 minutes this week?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

@@ -1,0 +1,15 @@
+Hi Semexsoft team,
+
+The Full-Stack Developer (Medusa v2 + Next.js + AI-Native) role aligns with the production Next.js platform I have been building at Codet.ai, where I ship dynamic database modules, trigger-condition-action workflows, and REST-backed services on PostgreSQL. That work maps closely to extending custom Medusa modules, Medusa Workflows, and CRM integration in your shared PostgreSQL ecosystem.
+
+On the frontend, I work daily in TypeScript, React, and the Next.js App Router on performance-sensitive product and workflow UI. At Euronet, I delivered Java REST APIs with JWT RBAC and PostgreSQL for fintech payment integrations, experience I would apply to cart, checkout, and reliable cross-system sync with your CRM.
+
+I already use AI-assisted tools to accelerate development, testing, and debugging, and would work the same way on Shopify migration scripts and data validation. Building a headless eCommerce platform to replace Shopify, tied to an existing CRM, is the kind of full-stack production work I want next.
+
+Open to a short call to discuss fit. My resume is attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

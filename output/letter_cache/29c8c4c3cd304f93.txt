@@ -1,0 +1,15 @@
+Hi Careem team,
+
+I'm interested in the Software Engineer I (NextGen) role in Karachi. Fresh grads are welcome and the posting emphasizes Java, Spring Boot microservices, and AWS.
+
+I'm Muddasir Rizwan, a BS Computer Science graduate from IBA Karachi currently working as a software engineer at Codet.ai in Karachi.
+
+At Euronet, I built Java REST APIs for fintech payment flows with JWT RBAC and PostgreSQL, aligned with your microservices stack.
+
+Could we find 15 minutes this week for a brief conversation?
+
+Best,
+Muddasir Rizwan
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

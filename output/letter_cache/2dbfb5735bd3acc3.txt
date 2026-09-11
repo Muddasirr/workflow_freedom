@@ -1,0 +1,12 @@
+Hi Ziina team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role and the React, Next.js, TypeScript, and Python stack on your careers page.
+
+I am Muhammad Muddasir Rizwan, a software engineer at Codet.ai in Karachi, building and scaling a no-code platform in Next.js with in-app AI and workflow tooling.
+
+At Codet.ai I built our dynamic database module and an AutoCloudEngineerAgent in LangGraph that deploys behind Kubernetes canary gates with hard safety constraints before any promotion.
+
+Would you have 15 minutes this week to talk about the role and how I could contribute?
+
+Muddasir Rizwan
++92-3249867842 | muddasirrizwan9@gmail.com | muddasirrizwan.com

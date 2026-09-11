@@ -1,0 +1,7 @@
+Hi Wix team,
+
+I saw your Software Engineer (Full Stack / Frontend / AI) role and the React, Next.js, TypeScript, and Python stack on your careers page. I'm Muddasir Rizwan, a software engineer at Codet.ai building and scaling a no-code platform in Next.js. I shipped our drag-and-drop workflow UI and a LangGraph agent that deploys to Kubernetes canaries with hard safety guardrails before promotion. If this maps to what your team needs, I'd welcome 15 minutes this week to connect.
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

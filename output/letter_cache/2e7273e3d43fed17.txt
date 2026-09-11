@@ -1,0 +1,13 @@
+Hi ibex team,
+
+Your Full Stack Developer opening in Karachi fits how I have been building scalable applications end to end, from REST APIs and database integration to JavaScript front ends, at Codet.ai and Euronet.
+
+At Codet.ai, I develop and optimize features on a Next.js platform that powers no-code apps, including a dynamic database module for tables, fields, and relationships, and workflow UI where performance and maintainable code matter under real usage. At Euronet, I delivered Java REST APIs for fintech with JWT RBAC, PostgreSQL, and third-party payment integrations, with a focus on Web API best practices, debugging, and reliable upgrades. I collaborate with product stakeholders on new features and troubleshoot production issues before they spread.
+
+Based in Karachi, I am ready for onsite work on industry-leading projects with a team that values robust, scalable software. Open to a short call to walk through how my full-stack experience translates to your C# and .NET Core stack. Resume attached.
+
+Best regards,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

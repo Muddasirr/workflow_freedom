@@ -1,0 +1,13 @@
+Hi Magnati team,
+
+Your Software Engineer (Full Stack / Frontend / AI) opening in Abu Dhabi stood out for the React/Next.js/TypeScript/Python/AI stack listed on your careers page.
+
+I'm Muddasir Rizwan, software engineer at Codet.ai, where I build a no-code platform in Next.js with drag-and-drop workflows and an in-app AI assistant.
+
+I also shipped AutoCloudEngineerAgent on LangGraph: it proposes infra, deploys to a Kubernetes canary, runs invariant benches, then rolls back or recommends promotion when safety constraints fail.
+
+Open to 15 minutes this week?
+
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com

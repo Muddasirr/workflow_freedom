@@ -1,0 +1,16 @@
+Hi Erwin,
+
+I noticed the open Software Engineer, GPU Design Automation role at NVIDIA and am applying. At Codet.ai I build automation that keeps complex development workflows parameterized and data-driven so new designs can plug in without manual rework, which aligns with scaling GPU models, testbenches, and build systems.
+
+I have extended code generation flows in a Next.js platform where tables, fields, and trigger-condition-action workflows are defined through structured configuration rather than one-off scripts. I also built AutoCloudEngineerAgent in LangGraph, which proposes infrastructure, deploys only to a Kubernetes canary, runs invariant benchmarks, and rolls back when checks fail. That work taught me how to refactor large code paths into maintainable, test-driven automation where safety constraints cannot be overridden.
+
+The chance to bring modern software engineering, including AI-assisted development, into GPU architecture development, where complexity keeps growing, is why this role stood out.
+
+Open to a short call if helpful. Resume attached.
+
+Best,
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Remote from Karachi (UTC+5)

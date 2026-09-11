@@ -1,0 +1,13 @@
+Hi JazzCash Tech team,
+
+I'm interested in the Software Engineer / Full Stack Engineer role in Islamabad. At Codet.ai I build and scale a no-code platform in Next.js, TypeScript, and React, including a dynamic database module and drag-and-drop workflows wired to backend APIs, which lines up with your React, Next.js, and API focus.
+
+I also work in Python on AutoCloudEngineerAgent using LangGraph. It proposes infrastructure changes, deploys only to a Kubernetes canary, runs invariant benches, and rolls back when checks fail. That maps to your AI/LLM requirement with concrete safety gates, not demo-only prompts. Before Codet, at Euronet I shipped Java REST APIs for fintech with ISO 8583 payment integrations, JWT RBAC, and PostgreSQL, so I am comfortable building and integrating production APIs under strict constraints.
+
+A full-stack role that spans frontend product work and AI-adjacent engineering at JazzCash Tech is the scope I want next. Happy to schedule a short call to walk through recent work. Resume attached.
+
+Muhammad Muddasir
++92-3249867842
+muddasirrizwan9@gmail.com
+muddasirrizwan.com
+Based in Karachi (UTC+5), open to onsite or hybrid in the region
