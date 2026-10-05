@@ -39,6 +39,9 @@ Karachi Division, Pakistan
 - Developed a drag-and-drop interface for building workflows and UI components, improving usability and reducing setup time for end users
 - Designed and shipped AutoCloudEngineerAgent, a LangGraph control plane that proposes safe infra configs, deploys them only to a Kubernetes canary cell, runs invariant benches, then rejects, rolls back, or recommends promotion
 - Built the optimizer around a Gaussian-process ensemble (GP-UCB, trust-region leash) with BO-ICL as an advisory LLM surrogate that cannot override hard safety / isolation constraints
+- Workflow execution uses one idempotency key per user intent (minted at confirm, reused on retry) and durable streaming reconnects (same key plus a Last-Event-ID cursor) so a timeout does not start a second run
+- Debugged a streaming-to-canvas translation bug where dropped fields (e.g. timestamp) produced Invalid Date, aborted UI handlers, and made finished backend runs look stuck, which pushed users to retry; fixed by preserving required fields on translated SSE events and aligning that with the reconnect/idempotency model
+- Short-lived canvas session lock so a chat handoff cannot fire the same create-workflow action twice in one session
 
 ### Software Engineer - Euronet (February 2025 - May 2025)
 Pakistan
